@@ -6,7 +6,9 @@
 import { SOURCES } from './sources.mjs';
 import { collectRSS } from './collectors/rss.mjs';
 import { collectGitHub } from './collectors/github.mjs';
-import { deduplicateSignals, clusterByTags, scoreSignal } from './lib/cluster.mjs';
+import { deduplicateSignals, scoreSignal } from './lib/cluster.mjs';
+import { enrichSignals, clusterByTopic, buildDailyBrief } from './lib/enrich.mjs';
+import { loadEnv } from './lib/env.mjs';
 import { writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
@@ -48,6 +50,8 @@ async function collectFromSource(source) {
 }
 
 async function main() {
+  loadEnv(); // 注入 .env 中的 AGNES_* / GITHUB_TOKEN（不入库）
+
   console.log('═══════════════════════════════════════');
   console.log('  AI Pulse — Data Collection');
   console.log(`  ${new Date().toISOString()}`);
@@ -117,15 +121,21 @@ async function main() {
   // 按分数排序
   deduped.sort((a, b) => b.score - a.score);
 
-  // 聚类
-  const clusters = clusterByTags(deduped);
+  // LLM 增强（摘要 / 主题 / 情感 / 热度，含规则降级与增量缓存）
+  await enrichSignals(deduped);
+
+  // 真主题聚类（替代伪 clusterByTags）
+  const clusters = clusterByTopic(deduped);
 
   // 保存数据
   if (!existsSync(DATA_DIR)) mkdirSync(DATA_DIR, { recursive: true });
 
+  const dailyBrief = await buildDailyBrief(deduped);
+
   const snapshot = {
     generatedAt: new Date().toISOString(),
     runId,
+    dailyBrief,
     totalRaw: allSignals.length,
     totalDeduped: deduped.length,
     signals: deduped.map(sig => ({
@@ -135,6 +145,10 @@ async function main() {
       title: sig.title,
       url: sig.url,
       summary: sig.summary,
+      aiSummary: sig.aiSummary || null,
+      topics: sig.topics || ['other', '未分类'],
+      sentiment: sig.sentiment || 'neutral',
+      heat: sig.heat || 0.3,
       publishedAt: sig.publishedAt,
       author: sig.author,
       tags: sig.tags,

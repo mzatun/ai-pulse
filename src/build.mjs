@@ -219,6 +219,24 @@ function shell(title, description, activePage, body) {
 // ══════════════════════════════════════════
 // Page: 首页 (关键变化)
 // ══════════════════════════════════════════
+function dailyBriefSection(snapshot) {
+  const brief = snapshot.dailyBrief;
+  if (!brief) return '';
+  return `
+    <section class="section daily-brief">
+      <div class="shell">
+        <header class="section-head">
+          <span class="kicker">AI · 每日速报</span>
+          <h2>今日 AI 要点</h2>
+        </header>
+        <div class="brief-card">
+          <span class="brief-icon">${ICONS.sparkles}</span>
+          <p>${e(brief)}</p>
+        </div>
+      </div>
+    </section>`;
+}
+
 function pageHome(snapshot) {
   const trackEntries = Object.entries(TRACKS);
   const recentSignals = snapshot.signals
@@ -246,6 +264,8 @@ function pageHome(snapshot) {
         <div class="stat"><strong>${stats.sources}</strong><span>数据来源</span></div>
       </div>
     </section>
+
+    ${dailyBriefSection(snapshot)}
 
     <section class="section shell">
       <header class="section-head">
@@ -334,6 +354,7 @@ function pageHome(snapshot) {
             <div class="signal-info">
               <span>${s.sourceName} · ${s.tier === 1 ? '一手' : s.tier === 2 ? '专业' : '社区'}${s.region === 'cn' ? ' · 国内' : ''}</span>
               <h3>${e(s.title.slice(0, 100))}</h3>
+              ${s.aiSummary ? `<p class="signal-ai">${e(s.aiSummary)}</p>` : ''}
               <div class="signal-meta-inline">
                 ${tierBadge(s.tier)}
                 ${regionBadge(s.region)}
@@ -533,6 +554,7 @@ function pageSignals(snapshot) {
             <div class="signal-info">
               <span>${s.sourceName}</span>
               <h3>${e(s.title.slice(0, 100))}</h3>
+              ${s.aiSummary ? `<p class="signal-ai">${e(s.aiSummary)}</p>` : ''}
               <div class="signal-meta-inline">
                 ${tierBadge(s.tier)}
                 ${regionBadge(s.region)}
@@ -579,7 +601,7 @@ function pageScout(snapshot) {
       <div class="scout-card" style="--scout-color:${st.color}">
         <div class="scout-type">${st.icon} ${st.type}</div>
         <h3>${e(s.title.slice(0, 80))}</h3>
-        <p>${e((s.summary || '').slice(0, 200))}</p>
+        <p>${e((s.aiSummary || s.summary || '').slice(0, 200))}</p>
         <div class="scout-evidence">
           证据: <a href="${s.url}" target="_blank" rel="noopener">${s.sourceName}</a> · ${formatDate(s.publishedAt)}
         </div>
@@ -680,6 +702,10 @@ function main() {
       <p>页面不存在</p>
       <a href="./" class="btn-primary" style="margin-top:1.5rem;display:inline-flex">返回首页</a>
     </div>`));
+
+  // 结构化数据（供前端搜索/筛选，阶段三使用）
+  writeFileSync(join(DIST_DIR, 'data.json'), JSON.stringify(snapshot));
+  console.log('  data.json');
 
   console.log(`\n  Built ${snapshot.totalDeduped} signals → dist/`);
 }
