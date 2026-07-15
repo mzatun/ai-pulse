@@ -1,0 +1,18 @@
+{
+  "name": "ai-pulse",
+  "version": "0.1.0",
+  "description": "AI Agent · FDE · OPC — 证据驱动的 AI 行业动态监控",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "collect": "node src/collect.mjs",
+    "build": "node src/build.mjs",
+    "dev": "node src/serve.mjs",
+    "health": "node src/healthcheck.mjs",
+    "export": "npm run collect && npm run build"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "cheerio": "^1.0.0"
+  }
+}

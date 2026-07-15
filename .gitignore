@@ -1,0 +1,10 @@
+node_modules/
+dist/
+data/snapshot.json
+data/run-log.json
+data/health.json
+data/health-check.json
+.env
+*.log
+.DS_Store
+.workbuddy/
