@@ -37,6 +37,8 @@ jobs:
   build:
     needs: collect
     runs-on: ubuntu-latest
+    env:
+      BASE_PATH: /ai-pulse/
     steps:
       - uses: actions/checkout@v4
 

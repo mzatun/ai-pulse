@@ -11,6 +11,11 @@ const DATA_DIR = join(import.meta.dirname, '..', 'data');
 const DIST_DIR = join(import.meta.dirname, '..', 'dist');
 const WEB_DIR = join(import.meta.dirname, '..', 'web');
 
+// GitHub Pages 项目站点部署在 /ai-pulse/ 子路径下；
+// 本地开发默认 './'，CI 中通过 BASE_PATH 环境变量注入 '/ai-pulse/'
+const BASE_PATH = (process.env.BASE_PATH || './').replace(/\/$/, '') + '/';
+const CACHE_BUST = '?v=2'; // 强制浏览器刷新旧缓存
+
 function loadSnapshot() {
   try {
     return JSON.parse(readFileSync(join(DATA_DIR, 'snapshot.json'), 'utf-8'));
@@ -192,7 +197,6 @@ function signalField() {
 // ══════════════════════════════════════════
 function shell(title, description, activePage, body) {
   const depth = getDepth(activePage);
-  const assetsPrefix = depth === 0 ? './' : '../'.repeat(depth);
   return `<!DOCTYPE html>
 <html lang="zh-CN" data-theme="light">
 <head>
@@ -200,14 +204,14 @@ function shell(title, description, activePage, body) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="${e(description)}">
   <title>${e(title)}</title>
-  <link rel="stylesheet" href="${assetsPrefix}assets/style.css">
-  <link rel="icon" href="${assetsPrefix}assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="${BASE_PATH}assets/style.css${CACHE_BUST}">
+  <link rel="icon" href="${BASE_PATH}assets/favicon.svg${CACHE_BUST}" type="image/svg+xml">
 </head>
 <body>
   ${topbar(activePage, depth)}
   <main>${body}</main>
   ${footer({ generatedAt: new Date().toISOString() }, depth)}
-  <script src="${assetsPrefix}assets/app.js"></script>
+  <script src="${BASE_PATH}assets/app.js${CACHE_BUST}"></script>
 </body>
 </html>`;
 }
