@@ -57,6 +57,20 @@ function e(s) {
   return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
+function getDepth(activePage) {
+  if (activePage === '/') return 0;
+  return activePage.split('/').filter(Boolean).length;
+}
+
+function relHref(href, depth) {
+  if (href === '/') {
+    return depth === 0 ? './' : '../'.repeat(depth);
+  }
+  const parts = href.split('/').filter(Boolean);
+  const prefix = '../'.repeat(depth);
+  return prefix + parts.join('/') + '/';
+}
+
 // ══════════════════════════════════════════
 // SVG Icons
 // ══════════════════════════════════════════
@@ -74,7 +88,7 @@ const ICONS = {
 // ══════════════════════════════════════════
 // Layout: Topbar
 // ══════════════════════════════════════════
-function topbar(activePage) {
+function topbar(activePage, depth = 0) {
   const pages = [
     ['/', '关键变化'],
     ['/lines/', '趋势判断'],
@@ -83,12 +97,12 @@ function topbar(activePage) {
     ['/scout/', '行动参考'],
   ];
   const navLinks = pages.map(([href, label]) =>
-    `<a href="${href}" ${activePage === href ? 'class="active"' : ''}>${label}</a>`
+    `<a href="${relHref(href, depth)}" ${activePage === href ? 'class="active"' : ''}>${label}</a>`
   ).join('');
 
   return `
   <header class="topbar">
-    <a class="brand" href="./">
+    <a class="brand" href="${relHref('/', depth)}">
       <span class="brand-icon"><i></i><i></i><i></i></span>
       <span class="brand-text"><strong>AI PULSE</strong><small>AI 行业动态监控</small></span>
     </a>
@@ -106,7 +120,7 @@ function topbar(activePage) {
 // ══════════════════════════════════════════
 // Layout: Footer
 // ══════════════════════════════════════════
-function footer(snapshot) {
+function footer(snapshot, depth = 0) {
   return `
   <footer class="site-footer">
     <div class="shell footer-grid">
@@ -120,10 +134,10 @@ function footer(snapshot) {
       </div>
       <div class="footer-links">
         <nav>
-          <a href="./lines/">主线</a>
-          <a href="./timeline/">事件脉络</a>
-          <a href="./signals/">来源动态</a>
-          <a href="./scout/">行动参考</a>
+          <a href="${relHref('/lines/', depth)}">主线</a>
+          <a href="${relHref('/timeline/', depth)}">事件脉络</a>
+          <a href="${relHref('/signals/', depth)}">来源动态</a>
+          <a href="${relHref('/scout/', depth)}">行动参考</a>
         </nav>
       </div>
     </div>
@@ -160,6 +174,8 @@ function signalField() {
 // HTML Shell
 // ══════════════════════════════════════════
 function shell(title, description, activePage, body) {
+  const depth = getDepth(activePage);
+  const assetsPrefix = depth === 0 ? './' : '../'.repeat(depth);
   return `<!DOCTYPE html>
 <html lang="zh-CN" data-theme="light">
 <head>
@@ -167,14 +183,14 @@ function shell(title, description, activePage, body) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="${e(description)}">
   <title>${e(title)}</title>
-  <link rel="stylesheet" href="/assets/style.css">
-  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="${assetsPrefix}assets/style.css">
+  <link rel="icon" href="${assetsPrefix}assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
-  ${topbar(activePage)}
+  ${topbar(activePage, depth)}
   <main>${body}</main>
-  ${footer({ generatedAt: new Date().toISOString() })}
-  <script src="/assets/app.js"></script>
+  ${footer({ generatedAt: new Date().toISOString() }, depth)}
+  <script src="${assetsPrefix}assets/app.js"></script>
 </body>
 </html>`;
 }
