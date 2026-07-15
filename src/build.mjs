@@ -25,13 +25,30 @@ function getSignalsByTrack(snapshot, trackId) {
     .sort((a, b) => b.score - a.score);
 }
 
-function formatDate(iso) {
+function parseDate(iso) {
+  if (!iso) return new Date(NaN);
+  // 支持 ISO 8601 / RSS (RFC 822) / GMT / 纯日期字符串
   const d = new Date(iso);
+  return Number.isNaN(d.getTime()) ? new Date(NaN) : d;
+}
+
+function formatDate(iso) {
+  const d = parseDate(iso);
+  if (Number.isNaN(d.getTime())) return '日期未知';
   return `${d.getFullYear()}年${d.getMonth() + 1}月${d.getDate()}日`;
 }
 
+function dateKey(iso) {
+  const d = parseDate(iso);
+  if (Number.isNaN(d.getTime())) return '未知';
+  const yyyy = d.getFullYear();
+  const mm = String(d.getMonth() + 1).padStart(2, '0');
+  const dd = String(d.getDate()).padStart(2, '0');
+  return `${yyyy}-${mm}-${dd}`;
+}
+
 function relTime(iso) {
-  const diff = Date.now() - new Date(iso).getTime();
+  const diff = Date.now() - parseDate(iso).getTime();
   const h = Math.floor(diff / 3600000);
   if (h < 1) return '刚刚';
   if (h < 24) return `${h} 小时前`;
@@ -201,7 +218,7 @@ function shell(title, description, activePage, body) {
 function pageHome(snapshot) {
   const trackEntries = Object.entries(TRACKS);
   const recentSignals = snapshot.signals
-    .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt))
+    .sort((a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime())
     .slice(0, 12);
 
   // 统计
@@ -414,13 +431,13 @@ function pageLines(snapshot) {
 // ══════════════════════════════════════════
 function pageTimeline(snapshot) {
   const sorted = [...snapshot.signals].sort((a, b) =>
-    new Date(b.publishedAt) - new Date(a.publishedAt)
+    parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime()
   );
 
   // 按日期分组
   const grouped = {};
   for (const s of sorted) {
-    const date = s.publishedAt.slice(0, 10);
+    const date = dateKey(s.publishedAt);
     if (!grouped[date]) grouped[date] = [];
     grouped[date].push(s);
   }
