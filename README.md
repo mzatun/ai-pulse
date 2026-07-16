@@ -23,6 +23,8 @@
 - 🩺 **源健康体检**：`npm run health` 一键定位失效 / 截断 / 解析失败源
 - 🎨 静态站点（SSG），GitHub Pages 部署，暗色主题
 
+**在线预览**：https://mzatun.github.io/ai-pulse/
+
 ## 快速开始
 
 ```bash
