@@ -22,7 +22,9 @@ const MIME = {
 };
 
 const server = createServer((req, res) => {
-  let filePath = join(DIST, req.url === '/' ? 'index.html' : req.url);
+  // 兼容 /ai-pulse/ 部署前缀（本地无此前缀，自动剥离）
+  const cleanUrl = req.url.replace(/^\/ai-pulse/, '') || '/';
+  let filePath = join(DIST, cleanUrl === '/' ? 'index.html' : cleanUrl);
 
   // 目录 → index.html
   if (existsSync(filePath) && statSync(filePath).isDirectory()) {

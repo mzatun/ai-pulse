@@ -11,9 +11,9 @@ const DATA_DIR = join(import.meta.dirname, '..', 'data');
 const DIST_DIR = join(import.meta.dirname, '..', 'dist');
 const WEB_DIR = join(import.meta.dirname, '..', 'web');
 
-// GitHub Pages 项目站点部署在 /ai-pulse/ 子路径下；
-// 本地开发默认 './'，CI 中通过 BASE_PATH 环境变量注入 '/ai-pulse/'
-const BASE_PATH = (process.env.BASE_PATH || './').replace(/\/$/, '') + '/';
+// GitHub Pages 项目站点固定部署在 /ai-pulse/ 子路径下，
+// 所有资源统一用 /ai-pulse/ 绝对前缀，避免子页面相对路径出错。
+const BASE_PATH = '/ai-pulse/';
 const CACHE_BUST = '?v=2'; // 强制浏览器刷新旧缓存
 
 function loadSnapshot() {
