@@ -207,6 +207,32 @@ button { cursor: pointer; font: inherit; border: none; background: none; }
   font-size: 1.6rem; font-weight: 800;
 }
 
+/* ── Daily Brief 今日 AI 要点 ──────── */
+.icon { width: 1em; height: 1em; flex-shrink: 0; display: inline-block; }
+.daily-brief .brief-card {
+  display: flex; align-items: flex-start; gap: 1rem;
+  background: var(--surface);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+}
+.daily-brief .brief-icon {
+  width: 40px; height: 40px; flex-shrink: 0;
+  display: grid; place-items: center;
+  background: var(--bg-tint);
+  border-radius: 50%;
+  color: var(--brand);
+  font-size: 1.25rem;
+}
+.daily-brief .brief-icon svg { width: 1.25em; height: 1.25em; }
+.daily-brief .brief-card p {
+  flex: 1;
+  font-size: 1.05rem; line-height: 1.7;
+  color: var(--text);
+  margin: 0;
+}
+
 /* ── Track Tabs (趋势主线导航) ─────── */
 .track-tabs {
   display: flex; gap: 0; border-bottom: 1px solid var(--border);
