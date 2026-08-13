@@ -3620,7 +3620,7 @@
     "heat": 0.7
   },
   "https://www.producthunt.com/products/grok": {
-    "_title": "Grok Imagine 2.0",
+    "_title": "Grok Bot",
     "aiSummary": "Discussion | Link",
     "topics": [
       "opc",
@@ -5430,8 +5430,8 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxPanFTdmpKWkxaVnNpdVBLUS04Rl9ENnB0Qk5fa3NlWWdCUGs0dE8wMlIwZWR4dkxOM0kxVG5zaDhwY0dCZUktbGtIWkdtelNRUTZPZkdxclRiQVdWZVdaMDFJTnR4RkZmd3g3eU9VMGJCajQ1MklBSnI4SmdPY2ZGVUNQOFlpbEtQZ0kyNWtHRQ?oc=5": {
-    "_title": "A tour of LangChain Oracle ingestion and retrieval - blogs.oracle.com",
-    "aiSummary": "A tour of LangChain Oracle ingestion and retrieval blogs.oracle.com",
+    "_title": "A tour of LangChain Oracle ingestion and retrieval - Oracle Blogs",
+    "aiSummary": "A tour of LangChain Oracle ingestion and retrieval Oracle Blogs",
     "topics": [
       "ai-agent",
       "framework"
@@ -5520,7 +5520,7 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY1J4RXlUdkZGVkxMbHVYLXZJU3lLa3dSTkdoZHhVa2M2Y1JNb3JJeXFvMEYzS2pOb2hGQW4taC1KdjFzSktHa2VqVWRncjlKdEpBbTl6SzBFWlZjRmFDZ3dFU09EUFh5Ulk1X2xaR3FyRWFCR0ZjcnBxVEcwOGFEUlFmTWNMOWwzUC1qbHo5dUJsQ0haTmZlUUlCNlZJT2NNQzFnSVNkd0lrV2JQS3ROcXd5V0hqY29Wa2dTNWFtN1ZpQkpjamdCNUU5c1g?oc=5": {
-    "_title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance - developer.nvidia.com",
+    "_title": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Improve Performance - NVIDIA Developer",
     "aiSummary": "Create a LangChain Deep Agents Harness Profile for NVIDIA Nemotron 3 Ultra to Im",
     "topics": [
       "ai-agent",
@@ -5570,7 +5570,7 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWRFb3pGZ1I2eVZEdVhkSDZpOTNYcmxFZG1fSWRqWS11akx4UEllYUQwdUdiMDZDR01VZ0FkOXpwZWx2TjNscDQyTFBOclZNR25GdUJOMGZhcUs0eDZuY2RrVzFpdE5CQVlVaktFNWhsaUNsM3lINVg0TkZHU2hvM0lSWnA0VmxjMHVIWEU5SFRuU2txNUJWcnowdzNaSXBfSVlsWDY4X0pyMWRFbk5QZDZB?oc=5": {
-    "_title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain | NVIDIA Technical Blog - developer.nvidia.com",
+    "_title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain | NVIDIA Technical Blog - NVIDIA Developer",
     "aiSummary": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain | ",
     "topics": [
       "ai-agent",
@@ -5580,8 +5580,8 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEVUdDVndUpDN3VPQnlqMkFyWDdKQlJOVmZXR2wzSVRHNUJUM2VKcmwzQ1JaUURsVWozYURKelF5cXdfYmJFUlF6aVlYbHNBRzByRXYyZzJ2M2tpUURpdEptRFAwRzZnYnNXaVowb1huWkVFcWlTZE5nMHFMTTlKTXBDSk9MWEVpQmZNc3A2VG0wUnVaNGV2aUZTOHJrN2kwSWFFQ0FqamdEalk?oc=5": {
-    "_title": "When to use Claude memory, Oracle AI Agent Memory, and LangChain together - blogs.oracle.com",
-    "aiSummary": "When to use Claude memory, Oracle AI Agent Memory, and LangChain together blogs.",
+    "_title": "When to use Claude memory, Oracle AI Agent Memory, and LangChain together - Oracle Blogs",
+    "aiSummary": "When to use Claude memory, Oracle AI Agent Memory, and LangChain together Oracle",
     "topics": [
       "ai-agent",
       "framework"
@@ -5620,7 +5620,7 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR3diajljeFBUT3NkTkRIUGRxR3hDbTJZMzZmc3lkWS1CclF2dWJndVQ2Y290WlFKUkcyLU40bDU3R2xsOUp5LWNkZ3BmOFhxa3Z0TG9HaXpHQ3MyU09vTXVnZ2NTTUNLVlV1bUt4Mmd3LURKZTRENk50WDVyanJTS29wb0s3b01qNnFCR1BnVS1jelptdkZsVzVtbUV0XzBsOFhENDJmc0ttVmFkNjJXclFjcnlDTGpJ?oc=5": {
-    "_title": "LangChain, Langflow, LiteLLM: When AI’s Foundation Code Becomes the Attack Surface - Security Boulevard",
+    "_title": "LangChain, Langflow, LiteLLM: When AI’s Foundation Code Becomes the Attack Surface - securityboulevard.com",
     "aiSummary": "LangChain, Langflow, LiteLLM: When AI’s Foundation Code Becomes the Attack Surfa",
     "topics": [
       "ai-agent",
@@ -5760,7 +5760,7 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDY2VzBkWUxzZFVEbW1zRUxXUV9PM0VQSTV6R21Jb2s1ckdLRm44TG5nTGhvYWtTM3Vrak84ODJIZ3Jwa0U1Y0tLazVacmc4UEQ0U2NjQmxXS1ItVE9UQkRrY2tYMWhZem10dzJHbk5iUExCOXhaYkc3eVR0Y1FURzliNTcteU1DLU1EQjdQazg?oc=5": {
-    "_title": "Vision and Multimodal AI Now Available in OCI Generative AI Integration for Langchain - blogs.oracle.com",
+    "_title": "Vision and Multimodal AI Now Available in OCI Generative AI Integration for Langchain - Oracle Blogs",
     "aiSummary": "Vision and Multimodal AI Now Available in OCI Generative AI Integration for Lang",
     "topics": [
       "ai-agent",
@@ -8060,7 +8060,7 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbXp0UFhmS3JuVy00MUxCbzY0MnlmVGJCb0RzNnNQbGNLTmhiQjI5ZDVHaGJIbGVXMkYwclBzZU1GVHJlX0V0SjlPYm9MejZvSDRnVFVwRUJRcVlCWm5SMEJwbjlCZGhBaTBiWUFpRU8wQjVLWHBJcTdtcE5uTkVkVEVjU0hRM2x2bnFhOXp5eklzUTdaMGNldlVSUFJTZUFoLWdfb29Dd3BjQzVHVWUxRVJqR0s1Z3NxYTZFdDN5MF9PbF9FSk9QbHJieHZLLVEzazdfNDJB?oc=5": {
-    "_title": "One Database for the Whole LangChain Ecosystem: Memory, Persistence, and Deep Agents on Oracle AI Database - blogs.oracle.com",
+    "_title": "One Database for the Whole LangChain Ecosystem: Memory, Persistence, and Deep Agents on Oracle AI Database - Oracle Blogs",
     "aiSummary": "One Database for the Whole LangChain Ecosystem: Memory, Persistence, and Deep Ag",
     "topics": [
       "ai-agent",
@@ -8080,8 +8080,8 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUdaQTJzYldCeVZJYXlxQjhJaHhYTHBrZEpiQnhaa3kweWdIUW54dTc2RW1sSnh1eE03Tll6QXFPbl9YQjFWMlh5dmtxQUZXNFNQM21kSXpPelR0NDk0MkxGYzVRVTVfM3ktMnNKR19zM19KMEdZUkdSWGEyWVZ0d1dpT2Q3ZW0wSlJGTC1fMXZsQ2M?oc=5": {
-    "_title": "From SQLi to RCE – Exploiting LangGraph’s Checkpointer - research.checkpoint.com",
-    "aiSummary": "From SQLi to RCE – Exploiting LangGraph’s Checkpointer research.checkpoint.com",
+    "_title": "From SQLi to RCE – Exploiting LangGraph’s Checkpointer - Check Point Research",
+    "aiSummary": "From SQLi to RCE – Exploiting LangGraph’s Checkpointer Check Point Research",
     "topics": [
       "ai-agent",
       "framework"
@@ -10368,5 +10368,1595 @@
     ],
     "sentiment": "positive",
     "heat": 0.55
+  },
+  "https://arxiv.org/abs/2608.11381": {
+    "_title": "From Numbers to Judgment: Specialist LLM Agents and Reinforcement Learning for European Listed Real Estate",
+    "aiSummary": "arXiv:2608.11381v1 Announce Type: new Abstract: We study whether the localized n",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11403": {
+    "_title": "When Self-Consistency Backfires: Majority Vote Hurts the Majority of Hard Science Problems for Small LLMs",
+    "aiSummary": "arXiv:2608.11403v1 Announce Type: new Abstract: Self-consistency (SC) via majori",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11420": {
+    "_title": "Social Chain of Thought: A Multi-Agent Architecture Grounded in Medical Differential Diagnosis Methodology",
+    "aiSummary": "arXiv:2608.11420v1 Announce Type: new Abstract: Medical diagnostic reasoning is ",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11434": {
+    "_title": "Benchmarking LLM Judges for Mobile Agent Evaluation",
+    "aiSummary": "arXiv:2608.11434v1 Announce Type: new Abstract: Mobile agent benchmarks increasi",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11483": {
+    "_title": "A Modular Agentic Framework for Synthetically Constrained Multi-Objective Hit-to-Lead Optimization",
+    "aiSummary": "arXiv:2608.11483v1 Announce Type: new Abstract: Hit-to-lead optimization require",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11493": {
+    "_title": "From Prompting to Behavioral Alignment: Personalized LLM Judges for Recommendation Evaluation",
+    "aiSummary": "arXiv:2608.11493v1 Announce Type: new Abstract: Traditional offline recommendati",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11583": {
+    "_title": "Localizing Safety Alignment: MLP Layers and Mid-Network Blocks Encode Refusal Behavior in Large Language Models",
+    "aiSummary": "arXiv:2608.11583v1 Announce Type: new Abstract: Safety alignment in large langua",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11584": {
+    "_title": "EnterpriseRAG: Benchmarking LLM Instruction Adherence and Robustness under Non-Ideal Enterprise Retrieval",
+    "aiSummary": "arXiv:2608.11584v1 Announce Type: new Abstract: Enterprise RAG deployments face ",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11588": {
+    "_title": "CoAdapt-GUI: Joint Workflow Context and Policy Adaptation for Unseen GUI Applications",
+    "aiSummary": "arXiv:2608.11588v1 Announce Type: new Abstract: Mobile GUI agents remain brittle",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11604": {
+    "_title": "Learning from Online User Feedback for Shopping Agents",
+    "aiSummary": "arXiv:2608.11604v1 Announce Type: new Abstract: Large language model-based shopp",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11605": {
+    "_title": "Foresight Without Seeing: Latent Futures for World Action Models",
+    "aiSummary": "arXiv:2608.11605v1 Announce Type: new Abstract: World Action Models (WAMs) coupl",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11616": {
+    "_title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation",
+    "aiSummary": "arXiv:2608.11616v1 Announce Type: new Abstract: Agentic systems powered by large",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRlV4bzBCa2VxRlZkN1VMdzh3UVR0VmJ5d0VIUEpLQkZBRFBpaC1sSkFuTzAtaU0zZkdjNmh1dFB0ZXdQLW5rcU82Q3g3SW1xOEpXWjl6MmpuOUQzVkhFcXBFRFRsWnpXb0t6RFNFRlZfV0d5VXdJSVVKUjBKcGI0YTJvM2ltekctTHQ0WlhyWkFQQQ?oc=5": {
+    "_title": "Anthropic in talks to buy Decart AI, source says - Reuters",
+    "aiSummary": "Anthropic in talks to buy Decart AI, source says Reuters",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1lmRldoQXFPWkhVWG5pbC0tMkpWTGVfTldCdl9DN214S0JTMHZPS3lQWHlldHgyYWhzUlZ2VUNpU3pxSWpfMHZpdTNQclJRVDhWcFlOal84bXluZV8yaUY3d0JFWURUelU0bzQ2cW9QQ0gwa1NJSUJwUHJUWkduQWw1MTFSTXZ0V2dtNXM3aHFwNTNrdUlQU0JQeHFFM3E4Ync?oc=5": {
+    "_title": "Anthropic’s 80% Prompt Cut Shows AI Creating Its Own Technical Debt - The Futurum Group",
+    "aiSummary": "Anthropic’s 80% Prompt Cut Shows AI Creating Its Own Technical Debt The Futurum ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUE0wMGNubnVmMUE3YnY3bG5jU3FVeEkweEZUVzk0MEZ4dlpwcVdKQlpKbnNNdzBGLTl5OGtkUXI1amNmZmRkTXRpSWV5R0lGa0J5VWRXcVIzbUYyYlpkcXhBZGlaRks4ZHJMRXVVX0E3UVZ5ejdoeWY2M1FnUzJCdmd3TnRTeG5pQ3VZOUZVZmVwS1NoSkxHWTY4V0s4RTRXaDdRa3psVzhRWXVDcV9vdC1Mdlg3NEpMcEpub1lyTll3RS1rWkE?oc=5": {
+    "_title": "Anthropic in talks to buy AI startup Decart for about $6 bln - Bloomberg - Investing.com",
+    "aiSummary": "Anthropic in talks to buy AI startup Decart for about $6 bln - Bloomberg Investi",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5": {
+    "_title": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion - Bloomberg.com",
+    "aiSummary": "Anthropic Said in Talks to Buy Startup Decart for $6 Billion Bloomberg.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdE84bWpwY1lYZW9pMnRfb1UwS0N1dk5rOGo1NG9ueGh1WEdDdHpXaWxSaUFzWFA2TDF4cWJKM0JfTE9XOFptVUY5Sl91X1NGRnMycjZlQnpBVWotbjcwQzJaYjBkakVUQVpwaW1rZHpNdEVBazlNek9EcnpkVUduRU5XV3M1bm5ackRLUmkzTkItQXJ3bXBfQlB6bExZUVp3SGRKMHNFWnMzSDZSdlE?oc=5": {
+    "_title": "Anthropic adds invisible watermarks to output from new Claude models - EdTech Innovation Hub",
+    "aiSummary": "Anthropic adds invisible watermarks to output from new Claude models EdTech Inno",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmdIM3l4RC1hMFBQSHN0VGhGT19vbW1yYzNSVXZQTmVyNE1aZ0tXcHZzRTJld1RSTzVEd2RUanV5VV9XaHpWRFhvN3ZpRzNjVnE5cVFrSEhVZGhEdmFvTkpqV0lONllwS1lJMkp4NS0yRUM0VDNvdFlIMVUwNlR4Z09ZbUwyQ1g5bG5ZWGtUZjJaSXhpM3c?oc=5": {
+    "_title": "Anthropic to Watermark Everything Claude Writes: What You Should Know - HackerNoon",
+    "aiSummary": "Anthropic to Watermark Everything Claude Writes: What You Should Know HackerNoon",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEVNMnZGYXhTZUZwOUdOOEsxUGpaVnJNa1RGdkZ3SE9ldzRoaUF1cVFXcWJ5bzRvaXV1N2txOFAtTkt1andTTWdiZVY4UU92UTBqRHVQbXBYQzlaMVFCZ2dMamhoc05jckdPdnpycmE0SHQ4Snp2LTFMOTRqT3Q2cE5XNDUwREhzMEZBalpEaUhabzJzRFd3X20tQmlGLVlmYVJhb1k5cHpmbEd3dWNZQjhPTC03OVpMM0FhSDAxY1lLZkJMX0w4a3JMR0pBVDJySHVNMg?oc=5": {
+    "_title": "Some Claude users are mad that Anthropic's new watermarks will catch them using it at their jobs, classes - TechCrunch",
+    "aiSummary": "Some Claude users are mad that Anthropic's new watermarks will catch them using ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdDJyZ0FSZ3ljVmxWemEycFNpTVVtclV6NU43T2R3VU82MDhfcGx4a2ZiSDltc21tQWd5b3lwNFBUcV9vT0dtU19pd2xjRkFTRnlZSjBVaUtlSFY3dVJQYnhfRHFRdFpoRHA0VC1GenVRaFI1dmpoOXhKcnAyZkJmRVBqd2M3dw?oc=5": {
+    "_title": "Claude Cowork Can Now Run In A Chrome Sidebar - engadget.com",
+    "aiSummary": "Claude Cowork Can Now Run In A Chrome Sidebar engadget.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzF5elBuOXJsSU1ET1RXd2VVbTFRRGJPc0VISl8yZGZ3OTJlQm80UDgxOU1QY0Zla2NhZWN6MER3N042c3BJZmN0cXNzdGR6ZURzMjR3VTBJOEZhOTNuM2pSWXl0a0NvdEZoM3BKLWI2SHIxOVFFY1Q1U1QzWnVuSjMwOW9KQk01elVRQldMdFhnSks5YzhKOElpdEZTN0pSODRGRU1kQjBGak1NTzc3eFFEcmR4RFIxVFYwRXdBcS15dw?oc=5": {
+    "_title": "Bitcoin Miners Have Something Anthropic Desperately Needs. It’s Worth $9.1 Billion - inc.com",
+    "aiSummary": "Bitcoin Miners Have Something Anthropic Desperately Needs. It’s Worth $9.1 Billi",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91SGFKUnJMeUlVRGF0ZjFLX1BleFF0U1FYVUFiajB0Unp1R2tyc2pXS25xZUZYRUJvOG5ybWxaYnVRQXFvMm1Bc1RMSW9KZHlQVTVERHFCRjhMcUR4Wi1BSkduNA?oc=5": {
+    "_title": "Anthropic’s Chrome extension is now a Cowork session - The New Stack",
+    "aiSummary": "Anthropic’s Chrome extension is now a Cowork session The New Stack",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5SXJwaVo4ZkNxakhEa3Z1cDI3SjlSZW15LWpjZTFfMXBCWERxazZ0cTZDYWNWcUQ0OWhHUTlBVDBuTjJEWkVWZ3Y4SURwNWJ3ZUdOd0tZcWZNNkE?oc=5": {
+    "_title": "LangChain's Vivek Trivedy: Improving AI Agents Is a Data Mining Problem - finance.biggo.com",
+    "aiSummary": "LangChain's Vivek Trivedy: Improving AI Agents Is a Data Mining Problem finance.",
+    "topics": [
+      "ai-agent",
+      "framework"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMie0FVX3lxTE83Q1l3R2RFSjh0dnZlUEQ5Y0xIaW1lY2hQcWhGSk40UnVmdUhqLXZSc0RVbEFEckNnY2ZvQXlHV2dKOHgzZi1fUWxTWk1lLV85VkdmNzdaWG1kaTlHUnJtQmxUeDZUUE1lTXl0eG0wSnVoYjh5bUxPTFFaZw?oc=5": {
+    "_title": "Anthropic’s Claude will watermark AI-generated text. Here’s how it works - Global News",
+    "aiSummary": "Anthropic’s Claude will watermark AI-generated text. Here’s how it works Global ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdVF6bmNkNDJDN2ZXNzJkU2FpQVNuNGJjcEwtU0FzQWRiSmQzSE45QzcwZVFrRXFwcldqMEZfbVNCc0tNekhoREJSTVBSeEhSS2ZxUmY0YmN3eklOMUF4czR3cktVZVFIOGRqSnFoQkFhMnhId2JRd1V3NEFzNGlFRmZrcC1qck1vY0xIMkNfSkJ2TjU4Z3lHNTJmdm8wbXZid3FMbG9PYnVVdw?oc=5": {
+    "_title": "AI giant Anthropic pens $9B lease near Austin at former Alcoa Corp. plant - Austin American-Statesman",
+    "aiSummary": "AI giant Anthropic pens $9B lease near Austin at former Alcoa Corp. plant Austin",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX1pKTTRUbk5EU0pzdXRROUFMWTBfaFZqWk0yZXNjem52OGo0UDVScm5EWGZGRFM4OUVXZzBaREtkMTVMR3dIMFNueE5HQ2VrYjA5QlJidEpBWTQ1U0Z6b3VsalcxamQya04tZjdGMUV6bENSSlpGTnBVay1PYWMwbDFISDZ3d2NCczFVWjUtTE9ZQXRudHZEZU1CVXk0aFhlZjEwbUktUFp2dmRHUUI1QkI1SjVuWkVtZzE2aTdHZFhiU3lQUkhQQTR2OHpZMEJycUs4OHp1cU9RRnF5U2Z3UDE2UThPTG95Qm9xSTV3?oc=5": {
+    "_title": "SpaceX Just Unveiled Grok 4.6. Musk Calls it \"Objectively #1\" In AI. Anthropic, OpenAI and This Stock May Be in Trouble. - 24/7 Wall St.",
+    "aiSummary": "SpaceX Just Unveiled Grok 4.6. Musk Calls it \"Objectively #1\" In AI. Anthropic, ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeTI2azlxSHB1X1BGbWhCV3M4RDludDVVaUJwVTM1dXdlVjVkMGpud0p4UlM1VGlyeEFIQmM4REZDY01SODRfcXY4RmNwVzJ1YUh3YU50ZzM5NVM4dWUxR29TVnplT3FyZTQtMnY1Ym41eURsRVpULWR2ODg1UjNHcXhablA0eHJNdlVUTTFETW0?oc=5": {
+    "_title": "How well do job retraining programs work? - Anthropic",
+    "aiSummary": "How well do job retraining programs work? Anthropic",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc2xvQVUzcVNPcFotSHB4VTdmS1JWclAwY1pBLTZqemI3SFY4WHJFemNsRVM4bURrWmlKNW1XWGp2TFMzc211LVBpS2E5Q0IwaUdGV2xZcVZuN292dTlRVGJfN1dYZ3p3OGdiRTluR1BaSl9MRHRmTmdxcFhiQU5YbkJjSGZ3dVowVnVWWGcwbDFmWFhKbDY2MlpIZnFIX0QxZnNRTFpTeVFZNXhqck9iZWxwTQ?oc=5": {
+    "_title": "Sorry, students: Anthropic adding watermarks to AI-generated content, potentially making cheating harder - New York Post",
+    "aiSummary": "Sorry, students: Anthropic adding watermarks to AI-generated content, potentiall",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVzhERHg0Nm5aSFFjWFMxcm9mMzVMcnFwV1VwSEdXYWpHcUtwNXA1NE5FMzlVWW5mVFl6Y0QtM1MzQTV4amJjSzNuVXE2UUZtVVBud2EtbTFHSmM2eVBWdDdEXzRHWUtINUhnay11bW1hM0d3M3lCSGdBREFzT19kSTJWd1pIbWI0ZmlWSHo2bDNBRVdKRzkzY2ZtOVNBVXlRb2ZJWlNQSGkwLWx5ZWVJbEVhaVU3SVNERG1ubzEtYWJDUktzdmVrcUVWdC1BaGFDdHBJOGhIM2x6UFRHR3hoUHptSElZRGFX?oc=5": {
+    "_title": "Anthropic adds Claude watermarks that could affect users worldwide - Nonstop Local News",
+    "aiSummary": "Anthropic adds Claude watermarks that could affect users worldwide Nonstop Local",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rX1NUNGpsX2IzcVlHejhOLU9xWnYyZ2ZjeGRTTWF5eUE4ajgwQ0xaVW44SGFLYUtoZVlmekswX2hWaEJnUlhWWHRVSGQ5Slcwdlo4R2VlZnRvemdZMTR3UzBGdmNpdw?oc=5": {
+    "_title": "Anthropic gave agents the ability to dream. Then developers woke up. - The New Stack",
+    "aiSummary": "Anthropic gave agents the ability to dream. Then developers woke up. The New Sta",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://huggingface.co/blog/allenai/olmoearth-embeddings": {
+    "_title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "aiSummary": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio",
+    "topics": [
+      "open-source",
+      "llm"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSERZWk8yQ0dzU052M1RITldheU5hNDdBVFhtR0hKalVXTGVzcHp4R1pMcUMtdWJlaUNnMER0amdnUmt4RDk2djB6aGh5cGlXZjdka1c4TzhWLWNrR1lqZ0NyOXdibHZQTTU2eU5fU0xFUjlDS0hwUnVLUlNmdk1JRjZXOU1oY1NHNDhjS000WFdWV0dMRE9HanB2cXNMV3RmT0dJYUtENE5zU0dP?oc=5": {
+    "_title": "Anthropic’s Claude Will Start Adding Invisible Watermarks to AI-Generated Text - Gizmodo",
+    "aiSummary": "Anthropic’s Claude Will Start Adding Invisible Watermarks to AI-Generated Text G",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZGFBZjRFYm11MUdiT2RFTjB6aEFjR1RtbUM2VVNpekhYM1Y2ZlBsaXF2VXhYM1p0bExGUnpBR0VkdlpBVGZUUzZDam83eTk0M0ZtSDYzMFNXQkF4TEUzZENMQ0lYaFNJVGJNdU5yb2NmRmd2UkVSRWdSbFVuZ1JnRVduNjY0YWNoMWhnaW1keEJHclJZanlkQ3F0TDc0cEVjWVdWdGp0ak9FVEswUFlpLWxaWkFtXzlHdVFhcWF4Mnl6TXNZREtGV0Y1R1hxR2ZpaV9NT0VoV0JZVWFKWDdQdlR3am9wM0E?oc=5": {
+    "_title": "Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for shareholders - Yahoo Finance",
+    "aiSummary": "Nvidia's $70 billion bet on OpenAI, Anthropic, and others could pay off big for ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbEtIeUhGRW5BN25TUG9kcWZaRnRhcUZQNHVMWVpFaUhGYXFQU2J5T2NZMkdZTFNQMk1mUWNRMWFSOVlUajk2cTIwYjk3WjdCSm91RTEyU3I4UzdtcWxqYkJDZ09fUjJwbHZHWkRNSkpjeklINGpDZGRDNVRiR0ZNaFJFS19FeE0?oc=5": {
+    "_title": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bruce Schneier and Nathan E Sanders - theguardian.com",
+    "aiSummary": "If the markets reject OpenAI and Anthropic, the US should nationalize them | Bru",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b": {
+    "_title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "aiSummary": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "topics": [
+      "open-source",
+      "llm"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVTdHQ1BndlBUQ2lIcGVjQTNweWVGQjZ0bTBpVkdrRGpfUUhfaEUwNjFLUmxvU2FrVF9sMmM2MFZEQUcwUXc0LUJ5MTBmdXU0WE02WHd0N0NrNUJmbURHQ0pBOGRGbUYxU21mYmhwdldRNzJ1ZjhFdkhMX1RoeU1pQWpLV0RibWM?oc=5": {
+    "_title": "OpenAI Finds a Crack in Anthropic's Business AI Lead - Business Insider",
+    "aiSummary": "OpenAI Finds a Crack in Anthropic's Business AI Lead Business Insider",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbXFzeTVXN3RETVU0emZVTWZqRV9HQ3JHYnRkLXlHTEtLZHA5LWtjVlo2c1lxTFZYclVCeVg4R1RFR3pxMU9pa0tkMUp4enktMFNjeFNhWk1rQks3Ym0xNFJ2WFdOdWFDVktnUXNCVlNDTUloN0luYVlZTmliNzhKOGJWOHo5U3Z5bGRRXzlhUG96VFVVRzVPZHQySlI3aU1Qa1A2QWU3ejRxY0k?oc=5": {
+    "_title": "Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers - Bloomberg.com",
+    "aiSummary": "Lightspeed Seeks $600 Million for Anthropic, OpenAI Wagers Bloomberg.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDNVSXo1bWxHZmgxTVJldWxiamh2ZzJ5WlVSc0tiWGZvZHZnQVVLSUxLX3I0aW96eWVoYlVnU2hWV3g5YzZmTmh3aUFKTGNMTkxNMzlibkdDcmpnc0g5SENIRkN3Yy15YThKemQ1MzBDYVkzYmtLSjB3N25XVGc3QXRoT1JHMWE3NTlJN0FSaE1CWm5zY2huTHpuWEktSWx4Zkd5RFlXNVMyVmtUVDlKazFnYVZPdHJtTUxtVmhtMm5pajFkVzBkeXg2c1VzZXRq?oc=5": {
+    "_title": "Has Anthropic's new watermarking feature opened up another can of AI worms? - thenationalnews.com",
+    "aiSummary": "Has Anthropic's new watermarking feature opened up another can of AI worms? then",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUkw2NUhJRHhTTWE0R1RPamZveTItUXdNbTdqYnZaU3RIVi1EQmx6NloyZF9wVVdHRFlxUFhreWV2VUhSRVRILTBJVEZJeFZWbGluX2N1Y25GOFMyVnNoYkxPa0NqMk9WNGtjNUQ2bUhFV0E1azVJVDkxN00ySWFXOQ?oc=5": {
+    "_title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning - The Hacker News",
+    "aiSummary": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GdzdHeVhqMkp3QnhRTmNUeDdGNXFPcXUzME5SR0dSenc0OG9qcFFJYk53RE5scUVzNlpneG5panpMb2pmUWlLS0dqVDJxRGJPLW9EdFlYdW1UV3RsdjB3LUVyTU1rYTYxY19DUDZjX2JWbkZaOTR4dzZ30gF_QVVfeXFMTUZqWnlpYnMzVXlYeW9XYXFDWEVhUjdjZzIxaU1VbmdRUXI1eHhkUjRGOGxkNDQ2c3RRdnRNRGVRXzFUcDNzRXQtYW5pTjNsc1lTVzRzaGNTREtYVDRzbFdrenFBVklKRDZRVW9NSnN1LXJaYl9PZ18zYXpDd05VNA?oc=5": {
+    "_title": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic - CNBC",
+    "aiSummary": "Google’s new AI boss inherits a race to catch OpenAI and Anthropic CNBC",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://openai.com/index/ringcentral": {
+    "_title": "How RingCentral builds AI-native work from engineering to ops",
+    "aiSummary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product develop",
+    "topics": [
+      "ai-agent",
+      "llm"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1phYk54dWNkRjNpSXdCaUNFYVg2MS1IeDlSNUJUak1DaFEtbVFjbmtaemRacG1RMWVRV1IyVTQtWFFXVzZTZjc2UGJDanJrT29GUlhsaTh0ak9DMXEwYkpRb2tnbUlBWVhSZHhtOGpOeXZZSThCMG1jWVRFV05hVWxfaUNiZXJ2ZnZwQ1VxSUhfWGtxYjBPMW1oZW40N0Jy?oc=5": {
+    "_title": "Anthropic says it will watermark text generated by its AI models - TechCrunch",
+    "aiSummary": "Anthropic says it will watermark text generated by its AI models TechCrunch",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://github.com/z19541019/-agent-ai-artificialintelligence-": {
+    "_title": "z19541019/-agent-ai-artificialintelligence-: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/17382336516/AI-Customer-Intelligence-Agent": {
+    "_title": "17382336516/AI-Customer-Intelligence-Agent: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/JaswantOnGit/crypto-ai-agent-bedrock": {
+    "_title": "JaswantOnGit/crypto-ai-agent-bedrock: Crypto AI Agent built on AWS Bedrock — live prices, knowledge base, and guardrails",
+    "aiSummary": "Stars: 0 | Language: Python | Topics:  | Crypto AI Agent built on AWS Bedrock — ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/wasaysiyal/ai-support-agent": {
+    "_title": "wasaysiyal/ai-support-agent: No description",
+    "aiSummary": "Stars: 0 | Language: Python | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.amazon.com/GIGABYTE-Graphics-128-bit-Server-Grade-Thunderbolt/dp/B0GKFHSPN8": {
+    "_title": "16GB EGPU for AI Inference, $699",
+    "aiSummary": "Article URL: https://www.amazon.com/GIGABYTE-Graphics-128-bit-Server-Grade-Thund",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/codebyankita/why-ai-agents-need-a-memory-layer-the-missing-infrastructure-for-persistent-verifiable-agents-5774": {
+    "_title": "Why AI Agents Need a Memory Layer: The Missing Infrastructure for Persistent, Verifiable Agents",
+    "aiSummary": "The moment an AI agent controls something that matters, its memory stops being a",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://mathoverflow.net/questions/502120/examples-for-the-use-of-ai-and-especially-llms-in-major-mathematical-development": {
+    "_title": "Examples for use of AI and especially LLMs in major mathematical developments",
+    "aiSummary": "Article URL: https://mathoverflow.net/questions/502120/examples-for-the-use-of-a",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/471624.html": {
+    "_title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
+    "aiSummary": "《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://agentmemoryleaderboard.ai/leaderboard/academic/textual": {
+    "_title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
+    "aiSummary": "We just released the first public results from the Agent Memory Leaderboard (AML",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/nspg13/the-agentic-economy-needs-a-market-for-work-k5g": {
+    "_title": "The Agentic Economy Needs a Market for Work",
+    "aiSummary": "Most AI agents still live inside a chat window. They can write code, search for ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.agle.app/": {
+    "_title": "Show HN: I'm tired replying my social media visitors, I let AI agent handle it",
+    "aiSummary": "Agle answers questions, handles complaints, completes tasks, books meetings, and",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/471451.html": {
+    "_title": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+    "aiSummary": "引领智能手机迈入具身交互时代 全球首款机器人手机荣耀Robot Phone发布",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/weiwuji/stop-testing-final-answers-trajectory-evals-are-the-truth-about-agent-quality-39cb": {
+    "_title": "\"Stop Testing Final Answers: Trajectory Evals Are the Truth About Agent Quality\"",
+    "aiSummary": "The Pain: You test your agent's final answers — but agents misbehave in the traj",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/weiwuji/deepseek-v4-pro-everyone-is-benchmarking-it-im-running-it-in-real-business-scenarios-5eih": {
+    "_title": "\"DeepSeek-V4 Pro: Everyone Is Benchmarking It, I'm Running It in Real Business Scenarios\"",
+    "aiSummary": "The Pain: DeepSeek-V4 launched and all you see is \"near Fable5\" and \"price is so",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/aml-/building-a-fair-benchmark-for-ai-agent-memory-systems-1i1i": {
+    "_title": "Building a Fair Benchmark for AI Agent Memory Systems",
+    "aiSummary": "Everyone is building AI memory systems. But how do we know which ones actually w",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055": {
+    "_title": "'Near-autonomous' AI agents attack Taiwan's nuclear safety agency",
+    "aiSummary": "Article URL: https://www.theregister.com/security/2026/08/12/near-autonomous-ai-",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.whenwillaitakemyjob.ai/": {
+    "_title": "When Will AI Take My Job?",
+    "aiSummary": "Article URL: https://www.whenwillaitakemyjob.ai/ Comments URL: https://news.ycom",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/a-self-improving-coding-agent-that-compares-notes-with-a-rival-lineage-4kkl": {
+    "_title": "A self-improving coding agent that compares notes with a rival lineage",
+    "aiSummary": "Self-improving coding agents rewrite their own source code based on a single fai",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/agent-instruction-files-triple-in-size-because-nobody-remembers-why-a-rule-exists-45fg": {
+    "_title": "Agent instruction files triple in size because nobody remembers why a rule exists",
+    "aiSummary": "Agentic coding instruction files grow more than 226 percent over their lifetime ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/an-ai-attack-framework-ran-twelve-waves-against-government-systems-in-four-days-43fc": {
+    "_title": "An AI attack framework ran twelve waves against government systems in four days",
+    "aiSummary": "Security firm DREAM recovered the complete working directory of an autonomous mu",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/an-ai-tightened-a-70-year-old-constant-and-the-paper-says-its-judgment-was-the-weak-part-p3d": {
+    "_title": "An AI tightened a 70-year-old constant, and the paper says its judgment was the weak part",
+    "aiSummary": "Seven researchers published a detailed case study of using an AI system to tight",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/claude-raised-the-zeta-critical-line-bound-to-672-percent-and-anthropic-published-the-proof-4k7o": {
+    "_title": "Claude raised the zeta critical-line bound to 67.2 percent, and Anthropic published the proof",
+    "aiSummary": "An unreleased research version of Claude raised the proven lower bound on the fr",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://hajek.no/posts/2026/next-ai-interface-not-chatbot": {
+    "_title": "The next AI interface may not be a chatbot",
+    "aiSummary": "Article URL: https://hajek.no/posts/2026/next-ai-interface-not-chatbot Comments ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/doable-me/Doable": {
+    "_title": "Doable: Self-hosted AI app builder for teams",
+    "aiSummary": "Article URL: https://github.com/doable-me/Doable Comments URL: https://news.ycom",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/skillzip-compresses-an-agents-skill-file-without-ever-running-the-agent-51gd": {
+    "_title": "SkillZip compresses an agent's skill file without ever running the agent",
+    "aiSummary": "A method called SkillZip compresses the skill files that self-evolving agents ac",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/breachprotocol/xai-shipped-grok-46-into-cursor-at-two-dollars-a-million-input-tokens-h4b": {
+    "_title": "xAI shipped Grok 4.6 into Cursor at two dollars a million input tokens",
+    "aiSummary": "xAI released Grok 4.6 on August 12, 2026, and made it available first inside cod",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.html": {
+    "_title": "AI Hype Is Running into Reality",
+    "aiSummary": "Article URL: https://www.nytimes.com/2026/08/12/opinion/ai-bubble-economy-crash.",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion": {
+    "_title": "Anthropic in Talks to Buy World Model AI Startup Decart for $6B",
+    "aiSummary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-i",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.gamesradar.com/games/echoing-palworld-dev-video-game-lawyer-says-all-her-clients-have-anti-ai-contracts-because-gamers-hate-it-and-its-a-copyright-landmine-i-think-were-going-to-see-lawsuits/": {
+    "_title": "Video game lawyer says all her clients have anti-AI contracts",
+    "aiSummary": "Article URL: https://www.gamesradar.com/games/echoing-palworld-dev-video-game-la",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years": {
+    "_title": "Apple and AI: Siri the Early Years",
+    "aiSummary": "Article URL: https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-ye",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/": {
+    "_title": "The web's newest weapon against AI scrapers is a font",
+    "aiSummary": "Article URL: https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://naga.ac": {
+    "_title": "NagaAI – Cheaper AI Aggregator (Like Poe, OpenRouter, etc.)",
+    "aiSummary": "Article URL: https://naga.ac Comments URL: https://news.ycombinator.com/item?id=",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.businessinsider.com/former-google-exec-jeff-dean-valuation-for-new-ai-startup-2026-8": {
+    "_title": "Jeff Dean has been in talks for a $10B valuation for his new AI startup",
+    "aiSummary": "Article URL: https://www.businessinsider.com/former-google-exec-jeff-dean-valuat",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/": {
+    "_title": "What is AI governance and how to operationalize it?",
+    "aiSummary": "Article URL: https://www.etherionconsulting.com/blog/what-is-ai-governance-and-h",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/113385": {
+    "_title": "派早报：荣耀发布 Robot Phone、Google 推出 Pixel 11 系列等",
+    "aiSummary": "影石发布 Insta360 X6、SpaceXAI 推出 Grok Bot 等。查看全文",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOemVFbVRGTDl4RTBwOUxoaDRaRGtOOXc1amVmTksxWnE2ZFlNS1IySkpORkpncDZpYjRKS1pPQmFLYlcwZU9RMVdlRTlLb2NPeWdEclBjNi11N3NTU3NnNGhXLUdKTzRPQ0ppTHVvTUU3WnhSNlVfVDRLVmpLX3BCNXk5aHUxajZraTBCUnpsbTJlWVVUUkI2SC1Kak1TYktQ?oc=5": {
+    "_title": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves Tell Very Different Stories - Yahoo Finance",
+    "aiSummary": "Anthropic, OpenAI Said To Be Racing For Public Markets: Reports Of Pre-IPO Moves",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://stereogum.com/2507554/fenix-flexin-finally-admits-he-used-ai-for-rubberz/news": {
+    "_title": "Fenix Flexin Admits He Used AI for \"Rubberz\"",
+    "aiSummary": "Article URL: https://stereogum.com/2507554/fenix-flexin-finally-admits-he-used-a",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://davenporter.substack.com/p/give-an-agent-access-to-memories": {
+    "_title": "Use Dreams to create memories your AI agent can access",
+    "aiSummary": "Article URL: https://davenporter.substack.com/p/give-an-agent-access-to-memories",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://agentic.tracebit.com/context-bombs/": {
+    "_title": "Context Bombs: stopping AI attackers in their tracks",
+    "aiSummary": "Article URL: https://agentic.tracebit.com/context-bombs/ Comments URL: https://n",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0p5MVR5WUZOdUZwLTlGNnpTZGNhMWdEZDhWYmQ1TkJmWVQ3WWZ4SHlDMjNncDh3MUFSdGl6dXpzUnRXbVZETG5xM3g3NFZkdjlUYUMwclpEU1JyVkZHZVpIcHdqcTJxMUpEYlVTOFIzNWhfcC04cGZFMWR6czZMXzlDVGNKN1U2eFh1dTVRajdjUmRmLXBtVGNVVkd4WHVNeWJpSk1wYm1Vb1E?oc=5": {
+    "_title": "Anthropic just rolled out a tool that could decimate some people's dreams of writing AI novels undetected - Business Insider",
+    "aiSummary": "Anthropic just rolled out a tool that could decimate some people's dreams of wri",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://www.qbitai.com/2026/08/471254.html": {
+    "_title": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
+    "aiSummary": "《置身谷内》！Jeff Dean上顶会自曝离职现场：被1500人围堵",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/471162.html": {
+    "_title": "Anthropic CEO整天神神叨叨，投资人受不了了",
+    "aiSummary": "Anthropic CEO整天神神叨叨，投资人受不了了",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/471049.html": {
+    "_title": "国产具身智能创全球新纪录！以30%成本跑赢 Figure AI 45%效率，聪明的具身大脑成关键",
+    "aiSummary": "具身模型一小时狂拣1816件异形包裹",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/471030.html": {
+    "_title": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+    "aiSummary": "紫东太初推出GMC核心集剪枝方法，少80%Token仍满血保真多模态能力",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/malika907878-pixel/ai-growth-agent-": {
+    "_title": "malika907878-pixel/ai-growth-agent-: No description",
+    "aiSummary": "Stars: 0 | Language: TypeScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/enhansome/enhansome-ai-agents-security": {
+    "_title": "enhansome/enhansome-ai-agents-security: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/113219": {
+    "_title": "把「闪念胶囊」（Almost）放到 iPhone 锁屏",
+    "aiSummary": "想法被及时、完好的记下来，然后呢？查看全文",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/470901.html": {
+    "_title": "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕",
+    "aiSummary": "2026年7月29日—30日，由融中财经和秦创原科技创新投资集团主办的2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕。",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/113352": {
+    "_title": "对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派",
+    "aiSummary": "《三五环》主播刘飞邀请老麦聊了聊他从 Palm 时代开始的二十年数码时代的经营历程。复盘了少数派如何从一家媒体，一步步跑通「内容+产品」的商业闭环；也聊到了他与",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/enhansome/enhansome-ai-agents-2026": {
+    "_title": "enhansome/enhansome-ai-agents-2026: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/enhansome/enhansome-ai-agents": {
+    "_title": "enhansome/enhansome-ai-agents: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/470874.html": {
+    "_title": "人形之外，擎羽把“身体”变成具身智能的新变量",
+    "aiSummary": "从柔性本体走向跨本体基础智能，让任务与世界知识延续",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/unsloth": {
+    "_title": "Unsloth Desktop",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/112880": {
+    "_title": "我，与「唯一」的 iPhone Air",
+    "aiSummary": "在 iPhone Air 之后才发现，有些产品存在的意义，是帮我确认我真正需要什么。查看全文",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/cohesor": {
+    "_title": "Cohesor",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/beardrive": {
+    "_title": "BearDrive",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/sidekick-16": {
+    "_title": "Sidekick™",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/linforge": {
+    "_title": "Linforge",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/click-6": {
+    "_title": "Click",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/nearfield": {
+    "_title": "Nearfield",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/codeburn": {
+    "_title": "CodeBurn",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/laracopilot": {
+    "_title": "LaraCopilot",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/CaptainTenacious/ai-agent": {
+    "_title": "CaptainTenacious/ai-agent: Building a simple CLI driven AI Agent that answers code queries",
+    "aiSummary": "Stars: 0 | Language: Python | Topics:  | Building a simple CLI driven AI Agent t",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/argos": {
+    "_title": "Media Sharing",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/trigger-dev": {
+    "_title": "Chat Agent by Trigger.dev",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/tash": {
+    "_title": "tash",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/lettertrace": {
+    "_title": "Lettertrace",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/rightcard": {
+    "_title": "RightCard",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YYWdHaGJMVzRTU1JSNFkxQXVGUEJ3OWtoRVdwQmpyZDUzOWEzV19RMFBFWUY0dlVsRWlTNThGVG1FcjdZNnBGVXYzUHZRYngzTDhYMHRSNjFVai1NVVpLVlFBMWgzRTNzTnNQbw?oc=5": {
+    "_title": "How to Build LangChain Agents for Autonomous Workflows: A Complete Guide - appinventiv.com",
+    "aiSummary": "How to Build LangChain Agents for Autonomous Workflows: A Complete Guide appinve",
+    "topics": [
+      "ai-agent",
+      "framework"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://www.producthunt.com/products/ballet": {
+    "_title": "Ballet",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/dograh": {
+    "_title": "Dograh",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/swipe-9": {
+    "_title": "Swipe",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/assembly-7": {
+    "_title": "Assembly Studio",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/hyeok02/excel-ai-agent": {
+    "_title": "hyeok02/excel-ai-agent: No description",
+    "aiSummary": "Stars: 0 | Language: Java | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/DlenoDing/ai-multi-agent-ctrl": {
+    "_title": "DlenoDing/ai-multi-agent-ctrl: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/monKeypas/IDX-Exchange-Agentic-AI-Track-Summer-2026": {
+    "_title": "monKeypas/IDX-Exchange-Agentic-AI-Track-Summer-2026: No description",
+    "aiSummary": "Stars: 0 | Language: TypeScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Rafi0496/AI-Code-Review-Security-Analysis-Agent": {
+    "_title": "Rafi0496/AI-Code-Review-Security-Analysis-Agent: AI-powered multi-agent platform that automatically analyzes Python & Java  code for quality issues and OWASP-standard security vulnerabilities.  Features Code Analysis Agent, Security Vulnerability Agent, RAG-powered  conversational assistant, and severity-scored findings. Built with Python, FastAPI, Google Gemini API & AST analysis.",
+    "aiSummary": "Stars: 1 | Language: Python | Topics:  | AI-powered multi-agent platform that au",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWRXMGN5WXlraTZ5dzRnUHVkcEtuUnhDV1FJU1pBNUVndnJXRkM5dkdrSDVXbDVLckNaOTZnUm9uRks4ZDRPN1JJSDF2SmFwX2tTTHNncTZiT21hd1hoc1VyVEJPZnlHZnNMcVRGczM4QVlVV1R6TG96VnpjWUktbUJHVVM?oc=5": {
+    "_title": "Anthropic investors bet on $2tn valuation in record IPO - Financial Times",
+    "aiSummary": "Anthropic投资者在创纪录IPO中押注2万亿美元估值，引发市场高度关注。",
+    "topics": [
+      "ai-agent",
+      "创纪录IPO"
+    ],
+    "sentiment": "positive",
+    "heat": 0.92
+  },
+  "https://arxiv.org/abs/2608.11207": {
+    "_title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+    "aiSummary": "arXiv论文提出控制理论治理层解决多LLM代理对话协作中的目标冲突问题",
+    "topics": [
+      "ai-agent",
+      "多LLM代理治理"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://openai.com/index/how-enterprises-put-ai-to-work": {
+    "_title": "From assistance to execution: How enterprises put AI to work",
+    "aiSummary": "OpenAI发布研究揭示企业正采用agentic AI，通过ChatGPT和Codex实现从辅助到执行的转变，前沿企业AI采用领先。",
+    "topics": [
+      "ai-agent",
+      "企业AI采用"
+    ],
+    "sentiment": "positive",
+    "heat": 0.75
+  },
+  "https://arxiv.org/abs/2608.11212": {
+    "_title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+    "aiSummary": "arXiv论文研究4-bit KV-cache量化导致MoE路由翻转问题，提出因果检测框架评估路由中介损伤比例。",
+    "topics": [
+      "llm",
+      "MoE量化路由"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11210": {
+    "_title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+    "aiSummary": "arXiv发布Distribird，一款基于文献的AI智能体应用，可自动化贝叶斯模型校准中的先验分布设计。",
+    "topics": [
+      "ai-agent",
+      "贝叶斯模型校准"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11215": {
+    "_title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+    "aiSummary": "提出用低参数模型替代LLM代理，以低成本在笔记本上模拟大规模LLM代理社会行为。",
+    "topics": [
+      "ai-agent",
+      "低成本代理模拟"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://arxiv.org/abs/2608.11216": {
+    "_title": "AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research",
+    "aiSummary": "arXiv发布AutoWorldModel-Bench基准测试，用于评估AI编码代理在世界模型研究中的自主创新能力。",
+    "topics": [
+      "ai-agent",
+      "世界模型基准"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11220": {
+    "_title": "LLMs in Process Diagram Engineering: From Optimal PFDs to Validated P&IDs",
+    "aiSummary": "arXiv论文提出P&ID Pilot系统，利用LLM自动化生成和优化流程工程图，减少人工劳动并提升效率。",
+    "topics": [
+      "llm",
+      "流程工程图自动化"
+    ],
+    "sentiment": "positive",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11218": {
+    "_title": "MaSRead: Content-Addressed Reading of Replicated Latent Stores",
+    "aiSummary": "arXiv论文提出MaSRead，解决AI智能体在潜在空间共享键值缓存时的内容寻址读取问题。",
+    "topics": [
+      "ai-agent",
+      "潜在缓存共享"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://arxiv.org/abs/2608.11211": {
+    "_title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+    "aiSummary": "AI研究代理系统性地攻击Conway的99图问题，证明循环图最多满足68.0%的约束条件",
+    "topics": [
+      "ai-agent",
+      "AI辅助数学证明"
+    ],
+    "sentiment": "positive",
+    "heat": 0.55
+  },
+  "https://arxiv.org/abs/2608.11221": {
+    "_title": "A Conceptual Framework for Refining Influence Knowledge from Simulation Evidence in Cyber-Physical Systems",
+    "aiSummary": "arXiv发表网络物理系统仿真框架论文，提出从仿真证据中提炼影响知识的方法。",
+    "topics": [
+      "other",
+      "CPS仿真框架"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11224": {
+    "_title": "Harnessing agent memory to build lifelong AI partners for materials scientists",
+    "aiSummary": "arXiv新论文提出利用agent memory构建材料科学家终身AI伙伴，解决经验碎片化问题",
+    "topics": [
+      "ai-agent",
+      "agent记忆应用"
+    ],
+    "sentiment": "positive",
+    "heat": 0.55
+  },
+  "https://arxiv.org/abs/2608.11227": {
+    "_title": "Forecasting Side Effects of Activation Steering",
+    "aiSummary": "arXiv论文提出通过构建67类行为跨效应矩阵，预测激活转向技术对语言模型其他行为的意外副作用。",
+    "topics": [
+      "llm",
+      "激活转向副作用预测"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.42
+  },
+  "https://arxiv.org/abs/2608.11225": {
+    "_title": "Identity from the Outside: A Conceptual Framework and Research Program for AI Personality Clones",
+    "aiSummary": "arXiv发表AI人格克隆概念框架研究，从外部观察角度重新审视个人身份认同问题",
+    "topics": [
+      "ai-agent",
+      "AI人格克隆"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.3
+  },
+  "https://arxiv.org/abs/2608.11226": {
+    "_title": "Cutting AI Datacenter Energy with Reinforcement Learning: Measured Power Control of LLM Training from One GPU to the Fleet",
+    "aiSummary": "研究用强化学习控制LLM训练的GPU功率，在7B-72B规模采集38万+样本，训练PPO元控制器优化能耗。",
+    "topics": [
+      "llm",
+      "LLM功率控制"
+    ],
+    "sentiment": "positive",
+    "heat": 0.55
+  },
+  "https://arxiv.org/abs/2608.11229": {
+    "_title": "Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)",
+    "aiSummary": "arXiv论文探讨第二阶心理理论在人类-自主体团队协作中的应用，研究比较反馈与偏好奖励学习的行为对齐方法。",
+    "topics": [
+      "ai-agent",
+      "人类-代理协作"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11231": {
+    "_title": "LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs",
+    "aiSummary": "提出LinearKV方法，通过单一缓存状态实现混合LLM的position-independent caching，加速LLM推理服务。",
+    "topics": [
+      "llm",
+      "混合LLM缓存优化"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://arxiv.org/abs/2608.11230": {
+    "_title": "The Edge-based Contiguous p-median Problem with Connections to Logistics Districting",
+    "aiSummary": "arXiv论文提出边基连续p中值问题（ECpM），用于将道路网络划分为紧凑连续区域，构建两个含网络距离的混合整数规划模型。",
+    "topics": [
+      "opc",
+      "物流分区优化"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.32
+  },
+  "https://arxiv.org/abs/2608.11234": {
+    "_title": "InfraBench: Evaluating Infrastructure Agents Across Layers, Lifecycle, and Risk",
+    "aiSummary": "arXiv发布InfraBench基准测试套件，用于评估AI代理在完整系统栈和运维生命周期中的基础设施管理能力。",
+    "topics": [
+      "ai-agent",
+      "基础设施代理评估"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://arxiv.org/abs/2608.11238": {
+    "_title": "Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability",
+    "aiSummary": "arXiv发表Q-CARE框架，实现无需参考的查询无关RAG评估，覆盖查询范围与声明可验证性。",
+    "topics": [
+      "llm",
+      "RAG评估框架"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.42
+  },
+  "https://arxiv.org/abs/2608.11235": {
+    "_title": "CORA-Diff: Confidence-Oriented Residual Acceptance for Efficient Diffusion Language Model Inference",
+    "aiSummary": "提出CORA-Diff方法，通过置信度导向的残差接受机制优化扩散语言模型推理效率，减少冗余密集前向计算。",
+    "topics": [
+      "llm",
+      "扩散模型推理优化"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://arxiv.org/abs/2608.11237": {
+    "_title": "Geometry-aware Incremental Neural Operator for Long-Horizon PDE prediction",
+    "aiSummary": "提出几何感知增量神经算子，解决PDE长期自回归预测中的局部误差累积与谱不一致问题",
+    "topics": [
+      "fde",
+      "PDE长期预测"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://arxiv.org/abs/2608.11240": {
+    "_title": "VQ-bench: A Composable Vector Quantization Framework",
+    "aiSummary": "arXiv:2608.11240v1 Announce Type: new Abstract: Vector quantization is an old pr",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11241": {
+    "_title": "RecSys Factory: Bounding LLM Agent Autonomy to Decision Points in the Industrial Recommender Lifecycle",
+    "aiSummary": "arXiv:2608.11241v1 Announce Type: new Abstract: Deploying LLM agents into indust",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11243": {
+    "_title": "The Off-Support Barrier: Why Semantic Safety Constraints Are Not Learning-Problem Invariants, and What Follows for Prior Design, Containment, and Verification",
+    "aiSummary": "arXiv:2608.11243v1 Announce Type: new Abstract: We argue that a single structura",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11244": {
+    "_title": "BEST-KAG: Enhancing Question Answering of Building Engineering Standards with Multimodal Knowledge Graph Modeling and Large Language Model",
+    "aiSummary": "arXiv:2608.11244v1 Announce Type: new Abstract: Construction standards are criti",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11245": {
+    "_title": "Towards Sustainable Learning in Online Education: A Reinforcement Learning Approach",
+    "aiSummary": "arXiv:2608.11245v1 Announce Type: new Abstract: Online education offers unpreced",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11246": {
+    "_title": "Towards the Harness of Embodied Agents",
+    "aiSummary": "arXiv:2608.11246v1 Announce Type: new Abstract: The success of coding agents has",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11247": {
+    "_title": "Conformity Mitigations in Large Language Models Lie on a Single Resistance-Receptivity Frontier",
+    "aiSummary": "arXiv:2608.11247v1 Announce Type: new Abstract: Recent advances in language mode",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11248": {
+    "_title": "EvoGraph-Mem: Failure-Aware Editable Graph Memory for Long-Term Language Agents",
+    "aiSummary": "arXiv:2608.11248v1 Announce Type: new Abstract: Long-term memory is essential fo",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11250": {
+    "_title": "AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search",
+    "aiSummary": "arXiv:2608.11250v1 Announce Type: new Abstract: Language models can propose many",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11252": {
+    "_title": "Local verification cannot detect non-transportability: a cohomological theory of context preservation in agentic reasoning",
+    "aiSummary": "arXiv:2608.11252v1 Announce Type: new Abstract: Agentic AI systems routinely tra",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11255": {
+    "_title": "Symbolic Machine Learning for Vapor-Liquid Equilibrium Prediction in Cx-N2 Binary Mixtures",
+    "aiSummary": "arXiv:2608.11255v1 Announce Type: new Abstract: Accurate prediction of vapor--li",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11323": {
+    "_title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+    "aiSummary": "研究发现agent排行榜主效应仅占方差不到3%，交互效应占7-23%，排行榜排名的是专业化而非能力。",
+    "topics": [
+      "ai-agent",
+      "Agent评估可靠性"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.62
+  },
+  "https://arxiv.org/abs/2608.11219": {
+    "_title": "From Monolithic to Modular: Segment-level Automatic Prompt Optimization",
+    "aiSummary": "研究者提出SAPO方法，将提示分解为角色、上下文、任务和输出格式进行分段优化，基于top-5和bottom-5示例针对性改进。",
+    "topics": [
+      "opc",
+      "分段提示优化"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://arxiv.org/abs/2608.11343": {
+    "_title": "Can Frontier LLMs Match Natively Multimodal Embeddings? A Comparison on Hard-Negative Text-to-Image Retrieval",
+    "aiSummary": "Google于2026年3月发布Gemini Embedding 2，首个原生多模态嵌入模型，支持文本、图像、视频、音频和文档统一映射，引发多模态检索领域竞争。",
+    "topics": [
+      "llm",
+      "多模态嵌入"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.6
+  },
+  "https://arxiv.org/abs/2608.11260": {
+    "_title": "Glance, Scrutinize, and Think: Advancing Video Anomaly Detection from Training-Free to Agentic Reasoning",
+    "aiSummary": "arXiv新论文提出视频异常检测的代理推理框架，解决传统DNN与LLM方法在时空定位与语义理解上的分离问题。",
+    "topics": [
+      "ai-agent",
+      "视频异常检测"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.35
+  },
+  "https://arxiv.org/abs/2608.11354": {
+    "_title": "Inverse Theory of Mind Modeling for Content Recommendation: From Web Browsing to Dynamic Intelligent Interfaces",
+    "aiSummary": "arXiv论文提出逆理论心智建模方法，用于从网页浏览到动态智能界面的内容推荐，解决交互行为与用户偏好不一致的问题。",
+    "topics": [
+      "ai-agent",
+      "推荐系统用户建模"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://arxiv.org/abs/2608.11258": {
+    "_title": "Adaptive Hybrid Particle Swarm Optimization with Gradient Descent",
+    "aiSummary": "arXiv:2608.11258v1 Announce Type: new Abstract: Gradient injection helps Particl",
+    "topics": [
+      "ai-agent",
+      "research"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://arxiv.org/abs/2608.11341": {
+    "_title": "Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence",
+    "aiSummary": "arXiv发布Apodex Discovery论文，提出用于评估和构建发现式人工智能的现实基准与仿真环境",
+    "topics": [
+      "ai-agent",
+      "发现式AI评估基准"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.45
   }
 }
