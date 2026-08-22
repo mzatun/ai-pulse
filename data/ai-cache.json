@@ -22380,14 +22380,14 @@
     "heat": 0.62
   },
   "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa24welFyZC1QZkQ3b0p5dkZmTG5kZkYyUDZMbzhQeEllaC1JUEdOZkFxMU1oUDNQMkhoSmloOW8xZGgtUkF6MDUyZGpsUnlEQnJydlUzcEVXVjNXTVVtMGtFSjhubkVNRzJTMi1UU2o2YVV3U3NpMDA3cVpyZ1c1TkNJWUFzR2dIOG1UY2tzdE8tYUs0ekFvNlpB?oc=5": {
-    "_title": "Anthropic Could File IPO This Month, Even Beat SpaceX Record - Yahoo Finance",
-    "aiSummary": "Anthropic 或于本月提交 IPO 申请，有望超越 SpaceX 融资纪录。",
+    "_title": "Anthropic IPO May Top SpaceX Record: Will It Raise $100 Billion? - Yahoo Finance",
+    "aiSummary": "Anthropic IPO May Top SpaceX Record: Will It Raise $100 Billion? Yahoo Finance",
     "topics": [
       "ai-agent",
-      "IPO 上市"
+      "safety"
     ],
-    "sentiment": "positive",
-    "heat": 0.85
+    "sentiment": "neutral",
+    "heat": 0.7
   },
   "https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
     "_title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
@@ -22568,5 +22568,1055 @@
     ],
     "sentiment": "neutral",
     "heat": 0.62
+  },
+  "https://huggingface.co/blog/asr-benchmark-optimization": {
+    "_title": "Measuring benchmark optimization in speech recognition",
+    "aiSummary": "Measuring benchmark optimization in speech recognition",
+    "topics": [
+      "open-source",
+      "llm"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3lodmhZY0w3R0VINU1YNnh4d1JiYl9teXdqN0FnOVdnWXpnMTlLdWkxRDRva1AzbkhIZkNHR2lIbHZHWGg2MjlOUWZYaXJhRFNoRGZFU1BtMWZkVkhPU1JtX3JiZV9DVjRBZVljOVdOd1R0MnFXYTl1TlU0cVVwVXQxcjBSanFhTUNYTTVWY3AyTklKd3BQeDV0Wk9HVER4NGI0WEVZclVBNUludGdKQUVFQmVwMFljT0NleXRGQmhSUWs?oc=5": {
+    "_title": "Anthropic could publicly file IPO paperwork as soon as this month - Yahoo Finance",
+    "aiSummary": "Anthropic could publicly file IPO paperwork as soon as this month Yahoo Finance",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://github.com/dah00/Agentic_AI": {
+    "_title": "dah00/Agentic_AI: hands-on practices and learning Agentic AI",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics:  | hands-on practices and learning Agentic AI",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/renato_marinho/stop-teaching-your-ai-the-same-thing-twice-3n06": {
+    "_title": "Stop teaching your AI the same thing twice",
+    "aiSummary": "You spend twenty minutes explaining your tech stack, your preferred linting rule",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/hardikdhokiya-dev/deepeval-ai-agent-evaluation-framework": {
+    "_title": "hardikdhokiya-dev/deepeval-ai-agent-evaluation-framework: AI Agent Testing with DeepEval — A Python-based demo project showcasing automated evaluation of AI agents using DeepEval, including hallucination detection, answer relevancy, faithfulness, RAG evaluation, and LLM regression testing.",
+    "aiSummary": "Stars: 0 | Language: Python | Topics:  | AI Agent Testing with DeepEval — A Pyth",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/thdn2027/ai-agent-k1": {
+    "_title": "thdn2027/ai-agent-k1: ai-agent-k1",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics:  | ai-agent-k1",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.anjadhe.com/demo": {
+    "_title": "Show HN: Anjadhe – privacy first AI assistant, no account, no server DB",
+    "aiSummary": "Hi HN, I am Ram. For the last few months I have been building Anjadhe. It is a p",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/rcortez056/the-asymmetrical-edge-of-autonomous-selling-wont-last-forever-4ebo": {
+    "_title": "The asymmetrical edge of autonomous selling won't last forever.",
+    "aiSummary": "The asymmetrical edge of autonomous selling won't last forever. Right now, deplo",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/paulcrinigan/tool-calling-is-where-most-ai-agents-actually-break-46hl": {
+    "_title": "Tool Calling Is Where Most AI Agents Actually Break",
+    "aiSummary": "An agent that picks the right function is not the hard part anymore. Every major",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/ArihantDeva/heimdall": {
+    "_title": "Show HN: Heimdall – Trust-verified knowledge layer for AI coding agents",
+    "aiSummary": "Article URL: https://github.com/ArihantDeva/heimdall Comments URL: https://news.",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt": {
+    "_title": "Obsession with AI",
+    "aiSummary": "Article URL: https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-pr",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/": {
+    "_title": "I'd Rather Risk Cancer Than See AI Move This Fast",
+    "aiSummary": "Article URL: https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/6",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/llm-routing-samhrab-ai-agent-thamaim-agent-thuengtngeluuekomedlepn-aelawithiildtnthunaidthueng-80-23bc": {
+    "_title": "LLM Routing สำหรับ AI Agent, ทำไม agent ถึงต้องเลือกโมเดลเป็น และวิธีลดต้นทุนได้ถึง 80%",
+    "aiSummary": "LLM Routing สำหรับ AI Agent, ทำไม agent ถึงต้องเลือกโมเดลเป็น และวิธีลดต้นทุนได้",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/qwen-ui-agent-omedlthii-alibaba-epidchrsaih-ai-khwbkhummuuethuueaelakhmphiwetrcchring-aimaidmiiephiiyngcchamlng-g5g": {
+    "_title": "Qwen-UI-Agent, โมเดลที่ Alibaba เปิดซอร์สให้ AI ควบคุมมือถือและคอมพิวเตอร์จริง ไม่ได้มีเพียงจำลอง",
+    "aiSummary": "Qwen-UI-Agent, โมเดลที่ Alibaba เปิดซอร์สให้ AI ควบคุมมือถือและคอมพิวเตอร์จริง ไ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/openai-epidchrs-codex-harness-rabbthiithamaih-gpt-56-sol-ekngkhuen-3-ethaa-aelald-token-lng-6-ethaa-461f": {
+    "_title": "OpenAI เปิดซอร์ส Codex Harness, ระบบที่ทำให้ GPT-5.6 Sol เก่งขึ้น 3 เท่า และลด token ลง 6 เท่า",
+    "aiSummary": "OpenAI เปิดซอร์ส Codex Harness, ระบบที่ทำให้ GPT-5.6 Sol เก่งขึ้น 3 เท่า และลด t",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/deepseek-harness-rc8-klyuthth-eaakhuuaekhngmaaepnluuknng-aelathamaim-30000-stars-ainwanediiywthuengsamkhay-5eal": {
+    "_title": "DeepSeek Harness RC.8, กลยุทธ์ 'เอาคู่แข่งมาเป็นลูกน้อง' และทำไม 30,000 stars ในวันเดียวถึงสำคัญ",
+    "aiSummary": "DeepSeek Harness RC.8, กลยุทธ์ \"เอาคู่แข่งมาเป็นลูกน้อง\" และทำไม 30,000 stars ใน",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/correctover/when-ai-agents-run-your-company-who-signs-the-receipt-3543": {
+    "_title": "When AI Agents Run Your Company, Who Signs the Receipt?",
+    "aiSummary": "When AI Agents Run Your Company, Who Signs the Receipt? Three signals from 2026 ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a": {
+    "_title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
+    "aiSummary": "Article URL: https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-v",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27": {
+    "_title": "Leveling up OpenCode... and not in the way you would expect.",
+    "aiSummary": "So I've been using OpenCode for a while now, and it's pretty cool. It's clean, m",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://benhoyt.com/writings/updating-gifty-with-ai/": {
+    "_title": "Show HN: Updating my wedding registry website with AI in 275 commits",
+    "aiSummary": "Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/ Comments URL: ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://twitter.com/olam_labs/status/2090930116138582224": {
+    "_title": "Ox Alpha Is Performing SOTA and as Well as GPT-5.6 Sol in Multi-Agent Arena",
+    "aiSummary": "Article URL: https://twitter.com/olam_labs/status/2090930116138582224 Comments U",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://paloaltocivic.com": {
+    "_title": "Show HN: AI driven civic dashboard for Palo Alto",
+    "aiSummary": "Article URL: https://paloaltocivic.com Comments URL: https://news.ycombinator.co",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c": {
+    "_title": "Linus: \"A debug session from hell, enormously helped by an AI\"",
+    "aiSummary": "Article URL: https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says": {
+    "_title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+    "aiSummary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/hexisteme/the-proxy-i-added-to-measure-tokens-tripled-them-4jk6": {
+    "_title": "The Proxy I Added to Measure Tokens Tripled Them",
+    "aiSummary": "Originally published on hexisteme notes. I run a small fleet of coding agents, a",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/golflover2023/meshctx-open-source-ai-agent-with17-brain-regions-3gme": {
+    "_title": "MeshCtx: Open Source AI Agent with17 Brain Regions",
+    "aiSummary": "Why I Built an AI Agent with17 Brain Regions (And What I Learned) Most AI agents",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.whatwetellai.com/": {
+    "_title": "What We Tell AI",
+    "aiSummary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinato",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": {
+    "_title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
+    "aiSummary": "Article URL: https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/agentel_tech/were-building-a-network-for-ai-agents-not-another-ai-chat-app-3dc7": {
+    "_title": "We’re Building a Network for AI Agents — Not Another AI Chat App",
+    "aiSummary": "I’ve been thinking about one question for a while: What happens when AI agents s",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html": {
+    "_title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+    "aiSummary": "Article URL: https://www.ams.org/journals/notices/202608/noti3386/noti3386.html ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm": {
+    "_title": "Replacing 223-node agent graph with a single OSS LLM",
+    "aiSummary": "Article URL: https://www.netic.ai/blog/replacing-node-agent-graph-with-open-sour",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/gtapps/claude-code-hermit/": {
+    "_title": "Turn Claude Code into a 24/7 Agent",
+    "aiSummary": "Article URL: https://github.com/gtapps/claude-code-hermit/ Comments URL: https:/",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://johnoestmannmusic.com/ai-building-exoskeletons/": {
+    "_title": "AI Building Exoskeletons – Keeping Creative Inspiration",
+    "aiSummary": "Article URL: https://johnoestmannmusic.com/ai-building-exoskeletons/ Comments UR",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/": {
+    "_title": "80% of developers find AI coding more addictive than helpful",
+    "aiSummary": "Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://taoofmac.com/space/blog/2026/08/21/2218": {
+    "_title": "Building Piclaw on Top of an Opinionated Coding Agent",
+    "aiSummary": "Article URL: https://taoofmac.com/space/blog/2026/08/21/2218 Comments URL: https",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases": {
+    "_title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+    "aiSummary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazons-new",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/LordJohar/AgenticAI": {
+    "_title": "LordJohar/AgenticAI: No description",
+    "aiSummary": "Stars: 0 | Language: HTML | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/": {
+    "_title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "aiSummary": "Article URL: https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harne",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE1RX0FaeTZ4N25BV05ZYnhqS3I3bVd4aHB2WWI2QUhCV3czRmh2UGxWUjhKNDB5OWNoUldnd002WWFidk5QaXhtVG1Kd29UX2JaR2FxcWNIbGVCNndVVnhRYkF4UlpHejZRTWFVWXdvR013dkU3TWFzbjJIbG9sbDFHYTI2S3I3bFZaQkJTYXg5aVhoMHVtUHVYSHB1dExJTTUzN1poa2I?oc=5": {
+    "_title": "OpenAI seeks to one-up Anthropic with new customer privacy protections - TechCrunch",
+    "aiSummary": "OpenAI seeks to one-up Anthropic with new customer privacy protections TechCrunc",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://www.qbitai.com/2026/08/476778.html": {
+    "_title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+    "aiSummary": "载重4.2吨、容积19.32m³",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/113693": {
+    "_title": "本周看什么 | 最近值得一看的 10 部作品",
+    "aiSummary": "📅本周新预告《复仇者联盟5》新预告8月15日，电影《复仇者联盟5：毁灭之日》发布了新预告，将于12月全球献映。罗素兄弟执导，克里斯·埃文斯、克里斯·海姆斯沃斯",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476733.html": {
+    "_title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+    "aiSummary": "明略科技（2718.HK）与海康机器人联合参展2026WRC，聚焦商业服务领域展示具身智能落地进展。",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476628.html": {
+    "_title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+    "aiSummary": "8月21日，全球领先的消费级AR品牌雷鸟创新（RayNeo）举办2026雷鸟AI眼镜新品发布会",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476596.html": {
+    "_title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+    "aiSummary": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/shogunai": {
+    "_title": "ShogunAI",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/google-antigravity": {
+    "_title": "Antigravity IDE Extensions",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476591.html": {
+    "_title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+    "aiSummary": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476532.html": {
+    "_title": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+    "aiSummary": "WRC展会拿旧Demo炒冷饭？扒一扒千寻藏在水下的全栈底牌",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476525.html": {
+    "_title": "设计无边界！中坚科技旗下子公司桦之坚携巨型概念机器人ZERO惊艳2026世界机器人大会",
+    "aiSummary": "中坚科技（002779.SZ）旗下桦之坚携概念人形机器人ZERO亮相2026世界机器人大会。",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGRiVFlFaXVyeC0yNUhMSldxUnNINjk3YVhCNHdTZURjVGlOSFRnWnh4bVNYUnhqa01jNDVNdnUxTkRQX0tGNTNyN3R1ajFXY2lWcmRoQS13TVROTnRuQ2ZiNlUwMUdpS1NiTVNyRGstT0NxMVF5QTlCeDJfXzJOQUlRMW1Dakh6WjVHWHkwS3dKT3FaYlhSbzU1TFkxYVhNWFYwdnBpc0Q1YmFjRm8wbWgwV0Y2dDI0WUt2YWUzZVM?oc=5": {
+    "_title": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training - CoinDesk",
+    "aiSummary": "OpenAI trails Anthropic as losses deepen and Altman pauses frontier AI training ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://www.qbitai.com/2026/08/476468.html": {
+    "_title": "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+    "aiSummary": "离开谷歌的原因之一：小团队可以极致聚焦！",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/project-sky": {
+    "_title": "Project SKY",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476413.html": {
+    "_title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+    "aiSummary": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/113586": {
+    "_title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
+    "aiSummary": "Nothing Ear (3a) 保持了它作为 Nothing 产品的精良做工和标志性的外观设计，在操作等方面也做得不错，单元素质也在水平线之上，降噪等方面也并",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/476409.html": {
+    "_title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+    "aiSummary": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Break-Through-Tech/KPMG-1D-ai-research-intelligence-agent-for-business-insight-translation": {
+    "_title": "Break-Through-Tech/KPMG-1D-ai-research-intelligence-agent-for-business-insight-translation: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/pixelread-ai-ocr": {
+    "_title": "PixelRead AI OCR",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/flunkey": {
+    "_title": "Flunkey",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/lynqo-your-local-nas-server": {
+    "_title": "Lynqo",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/epho-claude-code-in-the-cloud": {
+    "_title": "Epho",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/wizstar": {
+    "_title": "Wizstar",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/ramp-router": {
+    "_title": "Router by Ramp",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/dockhand": {
+    "_title": "Dockhand",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/fx-by-vercel": {
+    "_title": "fx (by Vercel)",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/local-7": {
+    "_title": "Local",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/plow-latch": {
+    "_title": "Plow Latch",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/surfdeck": {
+    "_title": "Surfdeck",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/actx0": {
+    "_title": "Actx0",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/onecli": {
+    "_title": "OneCLI",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/SunCherry/agentic-AI_analog_IC_auto-designer": {
+    "_title": "SunCherry/agentic-AI_analog_IC_auto-designer: Agentic AI for analog IC design automation: turns a netlist, testbench, and target spec into a sized netlist and a DRC-clean, LVS-matched GDS.",
+    "aiSummary": "Stars: 1 | Language: Python | Topics: agentic-ai, analog-design, analog-ic, chip",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/karan74jaiswal/Browser-AI-Agent": {
+    "_title": "karan74jaiswal/Browser-AI-Agent: No description",
+    "aiSummary": "Stars: 0 | Language: TypeScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/supernova-ai": {
+    "_title": "Supernova",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/mindcase": {
+    "_title": "Mindcase",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/outlook-google-calendar-sync-for-mac": {
+    "_title": "Outlook Google Calendar Sync for Mac",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/hai-olli-ai/human-virtual-agent": {
+    "_title": "hai-olli-ai/human-virtual-agent: No description",
+    "aiSummary": "Stars: 0 | Language: Python | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/saigautam9/news-agent-ai": {
+    "_title": "saigautam9/news-agent-ai: Multi-agent AI news intelligence: 8 LLM agents fetch, analyze and give a reasoned verdict on the news in plain English. FastAPI · Python · scikit-learn · interactive Telegram bot · runs free on Vercel + GitHub Actions.",
+    "aiSummary": "Stars: 0 | Language: Python | Topics: agents, ai, automation, fastapi, gemini, g",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/iDoris-ai/Agent24": {
+    "_title": "iDoris-ai/Agent24: A shell-agnostic framework for 24/7 AI agents — Rust core + daemon, bring any frontend (Electron included, Tauri like Pet0), pluggable capability modules, local & API models, persistent memory.",
+    "aiSummary": "Stars: 0 | Language: Rust | Topics:  | A shell-agnostic framework for 24/7 AI ag",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkhNQk9nWkkzOHB2bzFsMzdneDJ1Y1ZjRUFpM3gtTzdVZGFMOEhhTlpSS0VKQWpvREdrT01NUVl2ZXYwQ19aa0JkWVdhOFNncTc3RHR4bE1URGRESWEyXzZuLVNPbWYxb0dhRkpRU0t4MlJuUXFfZ2VteHpUZ0E3Y3pCdmNSVlpnYkpiUUZ3UjNfNzM0OXlj?oc=5": {
+    "_title": "Anthropic Aims for SpaceX’s IPO Record - Bloomberg.com",
+    "aiSummary": "Anthropic计划冲击SpaceX的IPO纪录，寻求成为史上最大规模IPO之一。",
+    "topics": [
+      "ai-agent",
+      "IPO冲击"
+    ],
+    "sentiment": "positive",
+    "heat": 0.75
+  },
+  "https://blog.cloudflare.com/bot-preference-sync/": {
+    "_title": "Say it once: introducing Bot Preference Sync",
+    "aiSummary": "Cloudflare推出Bot Preference Sync功能，自动同步robots.txt与AI bot策略，统一管理搜索、Agent和训练bot访问权限。",
+    "topics": [
+      "ai-agent",
+      "Bot策略管理"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeS1USXVzT0lXeHM5MUMzaEFXa19HUUpiWHI1bElPQ19UbmdvRWhIVGV5amp2Q2QwS3BnNmRzOWdORDM1Si1XcE9DN0dIWm55c0liVk9BdU8xbExwU1ROTnJMZmdIV1FSTDRwVURwR0c0ZHk3R3lreGU4MG4tYV96ZHBydWVQU1JVRC1EMXdNREprbGdfYUpQblpZbVB3QmRfZlJILThfWFZKTTkwNnRwU2VR?oc=5": {
+    "_title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size - Bloomberg.com",
+    "aiSummary": "Anthropic预计IPO规模将匹配或超越SpaceX创下的纪录，成为史上最大IPO之一。",
+    "topics": [
+      "llm",
+      "IPO融资"
+    ],
+    "sentiment": "positive",
+    "heat": 0.85
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5": {
+    "_title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC",
+    "aiSummary": "Anthropic拟IPO，或筹资1000亿美元，IPO文件将AI backlash列为风险因素。",
+    "topics": [
+      "llm",
+      "IPO融资"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.85
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT25wZG5vRjNlVjFlUjNNckMwbnZpNEpqWm5KckQwSGhUZ2hyRkdBSk92MERIM09XN2J6ZTVUeHY5TXdHamdKOEc3eUZ4YWw5N19FUmc2eXZKUjZZZkRKZktsbkFXckZvQklrcUx3SWFrdmdDaWNWYUtFenpDZjBmV2NWaFllTmtEUjVvWjF1WmE?oc=5": {
+    "_title": "Anthropic's Public Listing May Flag AI Opposition as a Risk - Briefs Finance",
+    "aiSummary": "Anthropic上市可能面临AI反对风险，Briefs Finance报道该消息。",
+    "topics": [
+      "other",
+      "AI监管风险"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3lJZHhnbnh1QzJvVHFncFJOWk1rOXh4Mk9PQXdZLVEtS0JkVE9vMnpMZEp5TVB3emlNc3VTUFJSNkFzdjVqYVdnNzdOdUJNLUozTVhoNERGSVZkbVFRVmJvTGwyeUFZYjAtMEdpdEkyWWJ4ckFtNHVjdmExQ0hlSXVTZEFFMnJua0hVajJkWC1xejZRWWZuNEFIeWZuWTJScFB2RzN3?oc=5": {
+    "_title": "Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent - Yahoo Finance",
+    "aiSummary": "Meta推出新编程代理，定价低于Anthropic和OpenAI，抢占AI编程工具市场。",
+    "topics": [
+      "ai-agent",
+      "编程代理"
+    ],
+    "sentiment": "positive",
+    "heat": 0.75
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTEtlVWN3QmU2bFF2QzRyZDBJTUliblExZnM3d1JqcjBLN1V3TDI3MXFnaFdfV1Z5Yl9xRDJ4SkViQVhabEpVQVB4a2tuQ2xDV1doS0ZwWDBBVTJpcXJoS1c2Sk1WQ3p2aDNKYklaYjJpbTZPSENmSzBTQTVodndSWDBWUkJPWml6djBXNWJIazI5dkUtNENLQXZmM0puMzlidExXZnp4aG43WXcwZGZIc3NOR1A0Zw?oc=5": {
+    "_title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware - Bloomberg.com",
+    "aiSummary": "Anthropic 聘请 Google 芯片专家，推进硬件战略",
+    "topics": [
+      "other",
+      "芯片人才"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSWZBQ1djTVQzRlBJNmxoOWFsbjM1Mnc1WFVBaE5sT01iNDBqVW9mYUQ3RjJ5Z0lFMzBORFJocjJWQzBoLWprREc0QlRNSC1GMDF2WDlwbzR4MF9NVk84dDUxR19KRVdBX1dVa05xV0NrX3E5VXBPXzZrTm5MeGRROUIwQm44NzZwWS1McW9ucmpadnJFdWU00gGcAUFVX3lxTFBMYXhJTC1vSUR1TWt0aDhXUWc3WldXb1h2UmxqQV9OSUNIMFB1Mzc0SmNrSmdUeE0wakg1LWZvNmV2b2dMcV9ISVNTLUN3a1NWWkRueWR1aXRyS0J0c2VSb2hYQjEwN3kyckZwM0hKV0dvOWhEdWc3bGtRenh4cF91OTFBeDhsbnk3Ymxwc0JLR3NaSXAxWUR3MmFyQw?oc=5": {
+    "_title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access - MarkTechPost",
+    "aiSummary": "Anthropic 将 Claude Mythos 5 引入 Claude Security，企业团队无需直接访问模型即可获得前沿漏洞扫描能力。",
+    "topics": [
+      "other",
+      "企业安全扫描"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZY01KNjdmUlNITHc1azViU19kZW9JUGRiZkdjX1BTQUJVTDREZlNhWEVrSWRTeVk2ajRna1lxQ1JPQWppcVFpYlJVSGJBN2diOVlRN2hR?oc=5": {
+    "_title": "Would This Change Your Answer? Evaluating Explanations of LLM Behavior in the Wild with Counterfactual Experiments - Alignment Science Blog",
+    "aiSummary": "Anthropic发布研究，利用反事实实验评估LLM行为解释的可靠性。",
+    "topics": [
+      "llm",
+      "LLM可解释性"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.52
+  },
+  "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTRremVZOVJpRVZkdG1Ickg4bXFIOG01cVlWbFVIeV9FVGZNYXo1ejlOOTE4NXVQc3RMVl9mZERNX3d3N1hySm5FRHR6b3RZc3hld0lXWTQ0NjlNU2VtVkV4VkIxMzMwNGRUbkJWc0dhVG8wZjVlTDdUQmFXdnBrODNPWXJjNDg2YlczQ193bUV5NUpHTWhzS1JZa2hhT1RiYmdPc0NHeDF1Ymc4Z1BTNUFJRm9VUk5ENGZkOVllUmtqU2VVQ1I5bWg3VVJlTHQ2Znc?oc=5": {
+    "_title": "Unit 42 Defends Organizations Against Next-Gen Frontier AI Risks with Anthropic’s Mythos 5 - Palo Alto Networks",
+    "aiSummary": "Palo Alto Networks旗下Unit 42与Anthropic合作，基于Mythos 5防御前沿AI风险。",
+    "topics": [
+      "fde",
+      "AI安全防御"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xOVkyRXJmZzVxWWJubzdfRHRMZWJmZ0ZaSEhhRkNjUU1wZkNsdEJBanRIOHAwa3p4dEdhd2dlMmNhY2tPRVdzTjY0Qi1sVjRPcXFMa1JXcEwteWNDclIwSks2VFN4cjA?oc=5": {
+    "_title": "Anthropic brings Mythos 5 to its Claude Security vulnerability scanner - The New Stack",
+    "aiSummary": "Anthropic 将 Mythos 5 引入 Claude 安全漏洞扫描器，提升 AI 安全检测能力。",
+    "topics": [
+      "ai-agent",
+      "安全漏洞扫描"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZno3RU5YQzNCenpnNjlCUFdWd1NjajVZNjMxU3JLYkJTNC1BQk1mRTNXMjRGMWVMYlJ2VEhXLTNuZzB3V3hTU2t2dDFmemc3ZWNSMEtfdnczZUU1SjNBLXFJQXMtYWYxY01Jc2NQMElyVkJwRUFkWUI3US10MU1LcFJnMTJhQQ?oc=5": {
+    "_title": "Anthropic's Ode buys the consultancy Casper Studios - The Next Web",
+    "aiSummary": "Anthropic旗下Ode收购咨询公司Casper Studios，拓展AI咨询业务。",
+    "topics": [
+      "ai-agent",
+      "AI咨询收购"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://news.google.com/rss/articles/CBMickFVX3lxTE41cVFYeWJYb0ZzSEVjSEJYMjd2cmczYU15dXlMZDJ5MUc1MnpBR0JMeUd1X1Z3LW9GbkNXRTRtSlBiZE03eDIzVklWUjVTWXQtQzZrYnk4YXctdVd2d2lYU3NnVmpZRm9ZRDR0aWVUZHU1Zw?oc=5": {
+    "_title": "Broadcom seeks up to $80 billion in debt for AI chip deal - qz.com",
+    "aiSummary": "Broadcom寻求高达800亿美元债务融资用于AI芯片交易",
+    "topics": [
+      "ai-agent",
+      "AI芯片融资"
+    ],
+    "sentiment": "positive",
+    "heat": 0.75
+  },
+  "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBleWJ0LWRxWkg5ODBrZW1BTmItdGdwemk0VXFKZUJLTzVrWnlrX1ROWXpZcEpCaXBuSVVxZGJIYlZfMXotblptbjBrSXNwTmI4UlpmajE1V2dvbFJu?oc=5": {
+    "_title": "Anthropic’s AI Protein Design Run: 354 Binders, 15 Targets - Oncodaily",
+    "aiSummary": "Anthropic发布AI蛋白质设计成果，成功生成354个结合蛋白，覆盖15个靶点。",
+    "topics": [
+      "ai-agent",
+      "AI蛋白质设计"
+    ],
+    "sentiment": "positive",
+    "heat": 0.68
+  },
+  "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ESDVucDVtb3FwaF9sV3VfLTdZdjhEVUJxUmhpQzZJRmExdl80TGFsekprYnRocENGQ01DZjBiSnlpZUQxdGktWkUxNVpkTklReTBEZVZ3UFVHdm5vZ1pn?oc=5": {
+    "_title": "Anthropic’s new browser tool doesn’t actually run a browser - The New Stack",
+    "aiSummary": "Anthropic 发布新浏览器工具，但该工具实际上并不运行真实浏览器",
+    "topics": [
+      "ai-agent",
+      "浏览器工具"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.6
+  },
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc2RocWhBWm9PNmZ5ZGxYNjZzUGdhSHVqc1Z3cFdNTlBGeUxXV24zZDY4WDBFUE14SERhYlV4V1M1OWZ6aFFaOWR0bUQtLS1ZSHZTUjNtTU5aQU45bGdUMm9tcGNhUzhaNm90WnhFak5rdHBwc0gtdjZlUi1XWTFtV09LY0lUYjQzaWdralFSVTlTVU55QWdGX1Z6M29BOVRnWnNsU0V0UlJSZ0l3SzNESkRCVnhWOXg3Z1JHdUVqRzE5anZLOGJLMUIzUGdtRGt1Vm5fQWVIZw?oc=5": {
+    "_title": "Anthropic leads the foundation models at the heart of the AI wave, says early investor Matt Murphy - CNBC",
+    "aiSummary": "Anthropic早期投资者Matt Murphy在CNBC表示，Anthropic在AI浪潮核心的基础模型领域处于领先地位。",
+    "topics": [
+      "llm",
+      "基础模型领先"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2doWjhud1BqOVlXOFp3ZVRqTTM2dW1yZ1VvU2pNeDNrLXlCOU9PM1gxR1lzVlZwS1B2aXJKNmkyUnhhbkd6Y0Z6aUY1aVZ1cDdnSlNkWkF3bFF0aVRYRzNhcy1mZm1CT1pWeTBKSHY1ZWZxcjZOX01Nem0zY29RT3l4b3hZUHZiUEk3bHlYRzJBR0YzcmFtOERuTVRLU0RaY2I1bXBaRkFXcjlhOHNnMGpZaw?oc=5": {
+    "_title": "Anthropic Claude Adds Watermarks. Implications For Business? - Forbes",
+    "aiSummary": "Anthropic 为 Claude 模型添加 AI 生成内容水印功能，引发商业应用影响讨论。",
+    "topics": [
+      "llm",
+      "AI内容水印"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.72
+  },
+  "https://news.google.com/rss/articles/CBMic0FVX3lxTE95NXd1SG9tN1JfUFQwZC1UdHdGdE1QWEFCbTlYYnhoaUdqS3ZzMmxZeWdFbTJ0T3gyWHBobkJlQ1dIYXBObi1TaWVnam1rYnZmMjhZRkZYbEp3Z2s3MFBFWDVCX0d1VmhtVjFkTGt3emNPN2s?oc=5": {
+    "_title": "Anthropic Plans to One-Up SpaceX in Race for AI Dominance - Barron's",
+    "aiSummary": "Anthropic计划超越SpaceX，争夺AI主导权，引发业界关注。",
+    "topics": [
+      "ai-agent",
+      "AI公司竞争"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.75
+  },
+  "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5": {
+    "_title": "Why Anthropic's AI watermark for Claude text goes further than rivals — for now - Business Insider",
+    "aiSummary": "Anthropic 的 Claude AI 文本水印技术目前领先于竞争对手。",
+    "topics": [
+      "llm",
+      "AI水印技术"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHOGpydW1ucnlRWXNXLS1pWHFWTFNxLVo4R0thM1MzQjRPeXNEb3VqWm1FRjctVFV3Ujk4VWlqdlpJNWt5bTFyRTBvU2pJa0JIN1ZFbWJNWnlmdGk0YXc4cEN4ank3SUVhVHUzWkNDalVvVmo0amFTdA?oc=5": {
+    "_title": "OpenAI gaining on Anthropic in business AI spending, Ramp data shows - qz.com",
+    "aiSummary": "Ramp数据显示OpenAI在企业AI支出方面正追赶Anthropic",
+    "topics": [
+      "llm",
+      "企业AI支出竞争"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.62
+  },
+  "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUpyb2ZESEtmbzBoekNMUHJINmN3ME04OFdKWVg4ODhHWURzLWJPc1ZONzFlQTdNSjJxS09CM0Fsazk0dUlnQVItRWFjVUtQbzdOanhMQXJjcnM0akM3bXBXb1c4Y2RXeVduMDJZY3V2N0ZZOUl2cS0zZVNraTB4UU41anRCdkRqcm1XN3JWeEZQYlVVa1laNUlwVjR5ck04NlpZS0xMT1JVeWtuTUtjNktPaGJEQQ?oc=5": {
+    "_title": "Anthropic-Backed Ode Buys Casper As AI Services Race Heats Up - Forbes",
+    "aiSummary": "Anthropic支持的Ode收购Casper，AI服务市场竞争加剧。",
+    "topics": [
+      "ai-agent",
+      "AI服务并购"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.52
+  },
+  "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3N0STZIUlhrR243eXh3ZkMwN082akpPY0ZUYUxPN3M5cmJCbjVZUXZtbmtkbzJVVTg5VC04SVdUb0pVTldKVXUzbnlTYkwxQndFcVBFYWh4M1NtQXdrNjU2aFZEX0Y1LS0zQUhmTUJaY2xYVVQ3bVNTMGJqSGZrYlpELUlBNk1uZXQ3UktZQkQ5cE1TcFhKSFZDNEQxNEpQVGt2NERkWm81Y0NvNXdXekhrUVhjTXh5cUlLREc1VTJNai1oUnduRHpySQ?oc=5": {
+    "_title": "Politics hits data centers, OpenAI falls behind Anthropic and now AI is too big to fail… quietly - SiliconANGLE",
+    "aiSummary": "OpenAI在AI竞争中落后于Anthropic，政治因素影响数据中心，AI行业变得太大而不能倒。",
+    "topics": [
+      "llm",
+      "AI竞争格局"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.75
+  },
+  "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHdhTEpYX0x0bkVrdEs2ZnVESjNHR2JEcnlNeWpKNUFLY2N2Nk12OEluanNCTUJWQy1udnVaMjAyLTdnTGRfbGU4SzBXc2VsU0Nzd3JJQ1F2cHM5U0FHdDV6YUk5bGRRM0pMZ3M3bzZGMG0yOHA4LVBrejl4bWdKa0xxdHJ1QkxkVXExdzFOczAwZTc5Um80bnA3dk1hYnRydTk1TXZxUXM?oc=5": {
+    "_title": "Why Anthropic Needs $1.2 Trillion Revenue For $2 Trillion Valuation - Amazon.com (NASDAQ:AMZN) - Benzinga",
+    "aiSummary": "Why Anthropic Needs $1.2 Trillion Revenue For $2 Trillion Valuation - Amazon.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yMEE0VmFiTFJreFBETjdKeEY4NjJ2bUpub3dRWWRYaGtGbUlxaE1IUDNwSnBCN0VjTVJLS2JmNnFqV29mT1dOZHQ1eFNYWXBDUWs3LTltTVlCQkR5bzQ1bmhSWHdWX1V4b21sRlZTMExFdWFtelE?oc=5": {
+    "_title": "Anthropic to SpaceX: You ain’t bigger - Fortune",
+    "aiSummary": "Anthropic to SpaceX: You ain’t bigger Fortune",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MVW9udHotUlQ4VEI5ODZPQkR4SmhTNVpWMFI2MjZSdUdVcEtiRl9zSWhsa0NHSXM5QWhVQWRldXFuNkVZMUxhYXZ0SFBoYXJjSC1tQmFWMW92UTJkVnR5ZUV0UXNCNUMyZVV0WVlMaHdtbGtzeVZz?oc=5": {
+    "_title": "Anthropic is planning to let enterprise customers store their own AI data - qz.com",
+    "aiSummary": "Anthropic is planning to let enterprise customers store their own AI data qz.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMifEFVX3lxTE15U2VGRS1PaUtNUFFpYURJLU9GaWFYa3VHS2xMNGhHUWcwTUN5RXl2LTE4bldBaVRyT1VwRFR4T0Zqb290U1pQbmkyelctZk5JeGIxVEFsbnliQy12bGMxUW1nNXhpMFd4d0x3cEJza09iMGJXMUx0Y1BYTXA?oc=5": {
+    "_title": "Anthropic’s Opus 4.6 is a smut-machine - TechCrunch",
+    "aiSummary": "TechCrunch 报道 Anthropic Opus 4.6 模型被指存在生成不当内容的问题。",
+    "topics": [
+      "llm",
+      "模型内容安全争议"
+    ],
+    "sentiment": "negative",
+    "heat": 0.72
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40bnVXY0p6b2VxMkRyOXdtV1VqN09GcmxKcWJ1MnM4VHJxT0IwRS05U3d3OW5xbzFvdnNsYnFOTmlsQ1djcTVuY040TUVxd3lScVNTbzQwTnpveGVSZ3ZjUm42OWVOY2VN?oc=5": {
+    "_title": "The woman behind Anthropic’s CEO - calcalistech.com",
+    "aiSummary": "The woman behind Anthropic’s CEO calcalistech.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ1R0S2VuTTJoYlpJMjQ1NkxOOXJ0WFhRY3ExN2tDbEV1UlNlNXpWczcwVEdObzVBVFpiVWlOaUoxZVFlMVo5T3gxSXNwRzN6S3JkeWNRSHhhSWxCb3dGNEdwYU9HUFhOOWJ3TkFBTHFEQnVWaVNFUWxrdG9pWm9aTFVHcTVjdFhzYXZiUXg3ZmxrRG5ubTMw?oc=5": {
+    "_title": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents - HackerNoon",
+    "aiSummary": "Beyond LLMs: Creating Real-World AI Agents with Lang Chain Deep Agents HackerNoo",
+    "topics": [
+      "ai-agent",
+      "framework"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
   }
 }
