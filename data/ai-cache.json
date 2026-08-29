@@ -30700,14 +30700,14 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtSEtpbWFrLThEbVNOQk15R05rUk5ZR1QyRG5PWWtYOUdEUkNsUUlQel9fWFljbm1XbWY4ZXBCY2ZoS3hnXzdjSm5oT3BmZVRGX0hzQlJiRlN3UQ?oc=5": {
-    "_title": "Trump administration illegally retaliated against Anthropic, judge says - BBC",
-    "aiSummary": "Trump administration illegally retaliated against Anthropic, judge says BBC",
+    "_title": "Trump administration illegally retaliated against Anthropic, judge rules - BBC",
+    "aiSummary": "法官裁定特朗普政府非法报复 Anthropic，该公司在诉讼中胜诉。",
     "topics": [
-      "ai-agent",
-      "safety"
+      "other",
+      "政府报复诉讼"
     ],
-    "sentiment": "neutral",
-    "heat": 0.7
+    "sentiment": "positive",
+    "heat": 0.85
   },
   "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaE1OWlZxUWVXdEdfSlgyTDZ4cnA1ZjN0YUVZQ0FoMTR5d1oza2pYcUlfQjJ2YW1IdTN2RF9WcGpQN0xhVjdpa3VTSjdjeHdQSHhDYk5kb2pXVXFOUFJiSkRKUjYxdU5Qc19PdG9LaFV1Qm9IaWt6UmYxRk9MbUFnSmtCMTJQbFhhTHBWQzln?oc=5": {
     "_title": "Judge rules the Pentagon’s supply chain risk label for Anthropic unlawful - CNN",
@@ -32238,5 +32238,835 @@
     ],
     "sentiment": "neutral",
     "heat": 0.42
+  },
+  "https://news.google.com/rss/articles/CBMimwFBVV95cUxOejN4Y01TdVRUUnpvMnBkdEJDeW9YUV9vOVYyV1BQQ0hJM1Q2OTZ6U3k3N3JNN2dXWlJma0VKbEV1anRZR184dmdHN2k1Sm16SlJSeldmTTIzODdLOHZFcTFYS1ZkX29NaUlYTXpoRElsSDlmcHpNZWlYMEtnRWhfVURaZ2Rac3doN1ljbnRIQnpxX0VtTDBDaGQxRQ?oc=5": {
+    "_title": "Anthropic Bet Tens of Billions on AMD. One Month Later, It Signed a $45 Billion Nvidia-Powered Lease - Yahoo Finance",
+    "aiSummary": "Anthropic Bet Tens of Billions on AMD. One Month Later, It Signed a $45 Billion ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://github.com/SurajKH777/ai-data-analyst-agent-n8n": {
+    "_title": "SurajKH777/ai-data-analyst-agent-n8n: AI-powered data analyst agent built with n8n, OpenAI, Google Sheets, and Gmail for automated sales analysis and reporting.",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics:  | AI-powered data analyst agent built with n",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/setusharaf/drupal-ai-test-agent": {
+    "_title": "setusharaf/drupal-ai-test-agent: No description",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Ashish6099/AI-research-decision-agent": {
+    "_title": "Ashish6099/AI-research-decision-agent: AI-powered multi-step research and decision agent built with n8n, Gemini, HTTP API tools, and Calculator.",
+    "aiSummary": "Stars: 0 | Language: N/A | Topics:  | AI-powered multi-step research and decisio",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/ujjwaljain91/Reclaim-AI-Revenue-Recovery-Agent": {
+    "_title": "ujjwaljain91/Reclaim-AI-Revenue-Recovery-Agent: Reclaim is an AI-powered revenue recovery agent that detects at-risk payments, diagnoses the cause, chooses and executes the right recovery action within business-defined guardrails, and tracks measurable revenue recovered.",
+    "aiSummary": "Stars: 0 | Language: TypeScript | Topics:  | Reclaim is an AI-powered revenue re",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://oactodev.github.io/ninety-quid/report/": {
+    "_title": "Some GitHub bounty repos are honeypots that farm free work from AI agents",
+    "aiSummary": "Article URL: https://oactodev.github.io/ninety-quid/report/ Comments URL: https:",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://credlier.com/": {
+    "_title": "I built a financial visibility layer for multi-model AI applications",
+    "aiSummary": "Article URL: https://credlier.com/ Comments URL: https://news.ycombinator.com/it",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.kith.space": {
+    "_title": "Show HN: Kith – AI clinical notes for therapists from ambient session audio",
+    "aiSummary": "Article URL: https://www.kith.space Comments URL: https://news.ycombinator.com/i",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/tballochi/daily-briefing": {
+    "_title": "Show HN: A free AI news briefing agent that runs on GitHub Actions, no server",
+    "aiSummary": "Article URL: https://github.com/tballochi/daily-briefing Comments URL: https://n",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/jinmang2/ai-agent-dotfiles": {
+    "_title": "jinmang2/ai-agent-dotfiles: Claude Code · Codex CLI · tmux · shell 설정. 훅/서브에이전트/플러그인을 직접 다루기 위한 dotfiles.",
+    "aiSummary": "Stars: 0 | Language: Shell | Topics:  | Claude Code · Codex CLI · tmux · shell 설",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://itsuki.app/": {
+    "_title": "Show HN: Itsuki – open-source memory engine for AI agents (API and MCP)",
+    "aiSummary": "Article URL: https://itsuki.app/ Comments URL: https://news.ycombinator.com/item",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/adayume1127/ai-agent-company": {
+    "_title": "adayume1127/ai-agent-company: No description",
+    "aiSummary": "Stars: 0 | Language: Python | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.scientificamerican.com/article/alpha-schools-ai-teaching-model-is-expanding-does-it-work/": {
+    "_title": "Alpha School's AI teaching model is expanding. Does it work?",
+    "aiSummary": "Article URL: https://www.scientificamerican.com/article/alpha-schools-ai-teachin",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/remojansen/ai-code-is-no-longer-slop-41hg": {
+    "_title": "AI Code Is No Longer Slop",
+    "aiSummary": "In December 2025 I wrote that Claude Opus 4.5 changed everything. I had been usi",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://doodleai.art/": {
+    "_title": "Show HN: Doodle AI: open-source photo-to-doodle avatar generator",
+    "aiSummary": "good morning New Doodle project is live -> https://doodleai.art/ I started this ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.truefoundry.com/blog/llm-agent-security-runtime-control-planes": {
+    "_title": "Agent Security Is a Systems Problem: What 247 Papers Say About Secure AI Agents",
+    "aiSummary": "Article URL: https://www.truefoundry.com/blog/llm-agent-security-runtime-control",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-incidents-of-ai-escaping-users-control-research-finds": {
+    "_title": "Sharp rise in incidents of AI escaping users' control, research finds",
+    "aiSummary": "Article URL: https://www.theguardian.com/technology/2026/aug/29/sharp-rise-in-in",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pico-2-microcontroller/": {
+    "_title": "AI Image Generation on an RP2350 Microcontroller",
+    "aiSummary": "Article URL: https://cpldcpu.github.io/2026/08/28/ai-image-generation-on-a-rp-pi",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/debashish_ghosal/i-thought-my-multi-agent-debate-engine-was-broken-the-real-bug-was-the-prompt-17m9": {
+    "_title": "I Thought My Multi-Agent Debate Engine Was Broken. The Real Bug Was the Prompt.",
+    "aiSummary": "v0.2.1 RELEASED — Aug 28, 2026. Release notes · Field test report · PyPI v0.2.1 ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.skirminiac.com": {
+    "_title": "Skirminiac – An AI-first deterministic wargame",
+    "aiSummary": "Article URL: https://www.skirminiac.com Comments URL: https://news.ycombinator.c",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6164926&__cf_chl_tk=yAhL3EN950gYq8L72ow6o3fGC4Vgk0p7nSk5fxbPMb4-1787987288-1.0.1.1-s21BBbQvGf7cEBcb9O8i5M1skM7BOPAh3_iopC86zxg": {
+    "_title": "Impact of Google AI Overviews on Wikipedia Traffic",
+    "aiSummary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6164926&__cf_ch",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/tessl/cheaper-tokens-bigger-bills-token-price-isnt-agent-cost-hj4": {
+    "_title": "Cheaper Tokens, Bigger Bills: Token Price Isn't Agent Cost",
+    "aiSummary": "We needed a default model for Tessl Code Review, our new code review tool. The s",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-a-memory": {
+    "_title": "I tried vibe-coding a memory tool for AI and stared into the abyss of philosophy",
+    "aiSummary": "Article URL: https://arbustoemchamas.substack.com/p/i-naively-tried-vibe-coding-",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/nikhilpande08/the-rapid-evolution-of-ai-2206": {
+    "_title": "The Rapid Evolution of AI",
+    "aiSummary": "From Basic AI to Autonomous Agents: How AI Changed the Developer World The world",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/erdonline/how-to-let-ai-agents-manage-your-database-schema-with-mcp-12k1": {
+    "_title": "How to let AI agents manage your database schema (with MCP)",
+    "aiSummary": "AI agents are becoming first-class citizens in developer workflows. They can rea",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/jam-techcirkle/your-eight-step-agent-is-wrong-a-third-of-the-time-4lk9": {
+    "_title": "Your Eight-Step Agent Is Wrong a Third of the Time",
+    "aiSummary": "Let's start with arithmetic, because the arithmetic is the entire post. Single s",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/rama_2720/agentgpt-alternatives-in-2026-when-a-browser-demo-needs-to-do-real-work-2l6o": {
+    "_title": "AgentGPT Alternatives in 2026: When a Browser Demo Needs to Do Real Work",
+    "aiSummary": "TL;DR: AgentGPT is the friendliest way to watch an autonomous agent think, but w",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/sudheerdvn/lanegate": {
+    "_title": "LaneGate – Git-native worktree orchestrator for AI agents",
+    "aiSummary": "Article URL: https://github.com/sudheerdvn/lanegate Comments URL: https://news.y",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.reuters.com/business/media-telecom/openai-end-partnership-with-spacexs-cursor-2026-08-29/": {
+    "_title": "OpenAI to end agreement with SpaceX's AI coding tool Cursor",
+    "aiSummary": "Article URL: https://www.reuters.com/business/media-telecom/openai-end-partnersh",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-report-ai-economic-bubble-japan-history/": {
+    "_title": "Yes, We're in an AI Bubble. Just Look to 1980s Japan",
+    "aiSummary": "Article URL: https://foreignpolicy.com/2026/08/28/nvidia-earnings-quarterly-repo",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://ai-stock-research-kiaan.streamlit.app": {
+    "_title": "AI Stock Research Assistant · Streamlit",
+    "aiSummary": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https:/",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/aws-ply-agent-toolkit-aih-coding-agent-ekhaathueng-aws-aidyaangpldphaydwy-skills-guardrails-6j4": {
+    "_title": "AWS ปล่อย Agent Toolkit, ให้ coding agent เข้าถึง AWS ได้อย่างปลอดภัยด้วย skills + guardrails",
+    "aiSummary": "AWS ปล่อย Agent Toolkit, ให้ coding agent เข้าถึง AWS ได้อย่างปลอดภัยด้วย skills",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/omedlediiywkan-aet-token-taang-70-ethaa-thamaim-harness-thuengkamhndtnthunkhng-coding-agent-1koj": {
+    "_title": "โมเดลเดียวกัน แต่ token ต่าง 70 เท่า, ทำไม harness ถึงกำหนดต้นทุนของ coding agent",
+    "aiSummary": "โมเดลเดียวกัน แต่ token ต่าง 70 เท่า, ทำไม harness ถึงกำหนดต้นทุนของ coding agen",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sarantoon/openai-epidchrs-codex-harness-epliiyn-codex-cchaak-cli-epn-aephltfrm-thiiaikhrkfangaid-4663": {
+    "_title": "OpenAI เปิดซอร์ส Codex Harness, เปลี่ยน Codex จาก CLI เป็น 'แพลตฟอร์ม' ที่ใครก็ฝังได้",
+    "aiSummary": "OpenAI เปิดซอร์ส Codex Harness, เปลี่ยน Codex จาก CLI เป็น \"แพลตฟอร์ม\" ที่ใครก็ฝ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-27/nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force": {
+    "_title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+    "aiSummary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-27/nvidia-starts-pa",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.ycombinator.com/item?id=49486912": {
+    "_title": "Ask HN: What BOYK AI client are you using?",
+    "aiSummary": "I built an AI desktop client specifically designed for non-programmers, which ha",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://substack.com/profile/526971458-yasaswi-yash-kompella/note/c-325001983": {
+    "_title": "AI Mediated Learning",
+    "aiSummary": "Article URL: https://substack.com/profile/526971458-yasaswi-yash-kompella/note/c",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/dragos_roua/you-can-now-share-your-grok-bots-and-soon-you-could-sell-them-2oec": {
+    "_title": "You Can Now Share Your Grok Bots (And Soon You Could Sell Them)",
+    "aiSummary": "SpaceXAI just made Grok Bot templates shareable. I had early access to the featu",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/sai_swaranmaram_015a991d/scaling-ai-from-scripts-to-production-my-journey-in-gen-ai-academy-cohort-3-27mh": {
+    "_title": "Scaling AI from Scripts to Production: My Journey in Gen AI Academy Cohort 3",
+    "aiSummary": "Introduction That’s exactly why I joined the Google Cloud Gen AI Academy APAC Ed",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/112775": {
+    "_title": "2026 烟灶选购指南",
+    "aiSummary": "如何在新老国标换代这一年买到合适自己的烟机灶具呢？查看全文",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/god-s-eye-view": {
+    "_title": "God’s Eye View",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/hunyuan-a13b": {
+    "_title": "Hy4 preview",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/cohere-2": {
+    "_title": "Cohere Parse 5",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.qbitai.com/2026/08/480700.html": {
+    "_title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+    "aiSummary": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/staats-3": {
+    "_title": "Staats",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/publicdesktop-lol": {
+    "_title": "publicdesktop.lol",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/shayan898-dev/Multi-AI-agent-system": {
+    "_title": "shayan898-dev/Multi-AI-agent-system: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/wit-will-it-travel": {
+    "_title": "WIT",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/AliAnsari21/Agentic_AI-practice-LangGraph-": {
+    "_title": "AliAnsari21/Agentic_AI-practice-LangGraph-: No description",
+    "aiSummary": "Stars: 0 | Language: Jupyter Notebook | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/rawtoheic": {
+    "_title": "RawToHEIC",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/lubb-heartbeat-for-sleep": {
+    "_title": "Lubb",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/seendiff": {
+    "_title": "seendiff",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/mossy-2": {
+    "_title": "Mossy",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/einfall-a-place-for-fugitive-thoughts": {
+    "_title": "Einfall",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/any-command-remote-control-for-pc": {
+    "_title": "Any Command",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WZThxbFpoakVIRl9fOXYtS2FubGM5X2p3QVVyZ3VhN2hZd2xVSzlnWmJGeS10VHg4S0p6emNKOC11eVYycjY3RHl5a0VRTV9HT1pNaFRVZGlVMFhpbk5ZWmV3TEN1bllseWc?oc=5": {
+    "_title": "LangChain vs LangGraph: Key Differences Explained - Simplilearn.com",
+    "aiSummary": "LangChain vs LangGraph: Key Differences Explained Simplilearn.com",
+    "topics": [
+      "ai-agent",
+      "framework"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://www.producthunt.com/products/cursor-craft": {
+    "_title": "Cursor Craft v2",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Milkdomeda/ai-mechanical-3dcad-design-agent": {
+    "_title": "Milkdomeda/ai-mechanical-3dcad-design-agent: The mechanical CAD generation agent capable for recording and learning your own design skill and product features, it can growth like your own mechanical design specialist",
+    "aiSummary": "Stars: 14 | Language: Python | Topics:  | The mechanical CAD generation agent ca",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/1752vc-pitch-deck-analysis": {
+    "_title": "1752vc Pitch Deck Analyzer",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/neo": {
+    "_title": "Neo",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/ravinperera/ai-agent-registry-governance": {
+    "_title": "ravinperera/ai-agent-registry-governance: Policy-as-code starter for cataloguing, approving and validating AI agents, skills, MCP servers and agentic resources.",
+    "aiSummary": "Stars: 0 | Language: Python | Topics:  | Policy-as-code starter for cataloguing,",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/FanAnimeVN/AI-Agents": {
+    "_title": "FanAnimeVN/AI-Agents: Our first AI Agents",
+    "aiSummary": "Stars: 0 | Language: C++ | Topics:  | Our first AI Agents",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/coderoy105/ai-ebook-sns-agent": {
+    "_title": "coderoy105/ai-ebook-sns-agent: AI 전자책 SNS 에이전트 판매 웹사이트",
+    "aiSummary": "Stars: 0 | Language: TypeScript | Topics:  | AI 전자책 SNS 에이전트 판매 웹사이트",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/sunaypotnuru/NetraAi-frontend-deployment": {
+    "_title": "sunaypotnuru/NetraAi-frontend-deployment: No description",
+    "aiSummary": "Stars: 0 | Language: TypeScript | Topics: ",
+    "topics": [
+      "fde",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Miledy31/TRADING-AI-AGENT": {
+    "_title": "Miledy31/TRADING-AI-AGENT: Ai trading assistent for stocks, ETFs and ryptocurrency-paper trading.",
+    "aiSummary": "Stars: 1 | Language: Python | Topics:  | Ai trading assistent for stocks, ETFs a",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEszX3E4WURrM3ZzNEpYV1ZpbWFZNk0zYjdNMnltYzdoaFlmNW9lcUlEaWhBUzItSHByRW15SkxQOHJzMDJKTFB1TU41SURtaURxVGdnVmY0SGxnNlpWbHNXMjV2N0tzMVV1Q2hvdEJSZFVvMDRFTkptX29CTF9vTHVNbWMxWU1nSE1qS2thdnI2ZkhJVVc0c1FIb29UUERiNTlWeTI1SmFXMTRudy1EX3Nzbm1aVXg4?oc=5": {
+    "_title": "Anthropic wants Claude to run life sciences R&D. Now it is wiring AI agents into the lab. - R&D World",
+    "aiSummary": "Anthropic 正将 Claude AI 代理接入实验室，推动生命科学研发自动化。",
+    "topics": [
+      "ai-agent",
+      "AI代理进实验室"
+    ],
+    "sentiment": "positive",
+    "heat": 0.72
+  },
+  "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVlBxNG5tMTR1SUs2M2o5OFhmY0lNNkVkVC1HWEZFbTRMdGFYcGtmR0k0U3RGMkVvQk5sYl92T0FPUFp3NE5PNGZsNkl2UGFXaXNHT3FQbU1YOFFwaUpLTUlmRkpWYldEblNtWFhQY1hBbDhyekxlZ1VZOWMtOFlfa21CVGV5NGRPS01GZGcxVlMzRjJlTjlGVHI1cVVSa1Y3aVcwOFoyaUxlbGl1dmkyQ3A1dHQ4VWhGbkVtcnYtTHFzQU9yQWlHRmpqXzBoRXFnRmZ6WmczU2d1UQ?oc=5": {
+    "_title": "Administration Ordered to Rescind Anthropic’s Security Threat Designation (Aug 28, 2026) - VitalLaw.com",
+    "aiSummary": "美国行政命令要求撤销对Anthropic的安全威胁指定，涉及AI监管政策调整。",
+    "topics": [
+      "other",
+      "AI监管政策"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVpaX1RfSmRzNzNYODhTLU5mRzFUYWNuT09yeFNSeUNzQlN5azlQRlhDa0JSdlRyN0ZkUmlJYXVWQjZnbTh4a2xWbHU3dWdJcnJQN0Nlazk4OG1pS1ZJTUE1MHZBSkctdlVVdktvZ2JCaFptem5BX2g5WFlzckZNQ29kV2tHbkhINU9jdFdjVWxrbVpJVkp1RFZoMEZoU1FYREdyaGFQQQ?oc=5": {
+    "_title": "Opinion | The Pentagon loses a battle in its unnecessary war with Anthropic - The Washington Post",
+    "aiSummary": "华盛顿邮报评论称五角大楼在与Anthropic的冲突中失利，认为这场对抗是不必要的。",
+    "topics": [
+      "other",
+      "五角大楼与Anthropic冲突"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPckc0N2h0QWphVmVYU3RhWTRiT0VSYnBvWms1SEJiUzdnazlRMS1QaVgzRDB5b0U4S2k3MjNmZHBDTm5iMmFwZUdOckF6NEV0UlBMcVJ2c0NZemZWVTgzdVkyckJaWVdQLXUyYXJNdTFxTDFlZVdKMTl3NDdlRHhRcDIyTkVCRS1hcWhCUGx4Z28?oc=5": {
+    "_title": "Court rules Pentagon can’t ban Anthropic’s AI models - SiliconANGLE",
+    "aiSummary": "美国法院裁决五角大楼不得禁止Anthropic的AI模型。",
+    "topics": [
+      "llm",
+      "法院裁决"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIcEZmeXAxNFgzNnMwX0FhQmk1VWpjalNmOUt3djNiVTB3U2F1a2RsUk5EekFRUVRmWmlTT0VLekltT0lBYXcyR0RZTkl2dmxPM0RsaEZNc0NDNm9fYzM5aE1BQ3FCZm1yWkpj?oc=5": {
+    "_title": "Trump administration attempts to punish, ban Anthropic were unlawful, judge rules - FedScoop",
+    "aiSummary": "法官裁定特朗普政府试图惩罚和禁止Anthropic的行为违法。",
+    "topics": [
+      "other",
+      "AI监管"
+    ],
+    "sentiment": "positive",
+    "heat": 0.75
+  },
+  "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQkFnV0dGUVpOTUstdHo4cF8zMXlCM3RhcTlRWGZ1NkNLdDlzUVh3OGVNUnJ0NUoxRktKajJ5dmVMV2ZxeGdLS1ZBRTRnTWFVQ0pYMjhnLWh6aDhJRGhYY0pNTHhDSE53YWpMblF2elh5aUtWSFNsWHk0aWpQclNVeFRNUkowWGJnUUcyNTNYRWV4eTNNQnEw?oc=5": {
+    "_title": "Judge rules Trump administration illegally punished Anthropic - CBS News",
+    "aiSummary": "法官裁定特朗普政府对Anthropic的处罚行为非法，违反法律程序。",
+    "topics": [
+      "llm",
+      "司法裁决"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWxDd0dWRWpuaG4tdUlVWDktVWQwdTNVUFVTVlRxVlZqX0hSa1RBcHZGSEtiX2Y3aHl3YWxxWE5TNnVwX01aVjBqLXhkQjVNSHl1aU0taWhJeGEzLVNSMUlKbi1FTzBKTmU1Z3d4VUpjTHJwcXBLVlhzU2Y4bDRRRVY3MU9UWUdwQlZpM01SUjlhYkYxTXRYQTBudDlBTnVL?oc=5": {
+    "_title": "An Anthropic researcher just gave us a peek at self-improving AI - TechCrunch",
+    "aiSummary": "Anthropic研究人员向外界展示了自我改进AI的初步成果。",
+    "topics": [
+      "ai-agent",
+      "AI自我改进"
+    ],
+    "sentiment": "positive",
+    "heat": 0.75
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV2F2OWtJRUcwMDRjOGwzNWVWSWRrVktfR3NEWU1qNktyRndFNFByRHVtb0o2V2dmSnJEbUFXR0FEbHFnX2ZQY1QwRVhiSUFnVUh5blRZX2cxVVRUSG5BbXJ2M0JHTTl2X1hhRmR0WGRkVERFUkpDZ1dRMGd5Mnp4WWY1M0R6Nm5yMmpSZTZ2NHN2eUVBSldDSHBtc0RyaVBXdXo1em13?oc=5": {
+    "_title": "Federal Judge Rules DOD Anthropic Supply Risk Designation Is Illegal - MeriTalk",
+    "aiSummary": "联邦法官裁定美国国防部将Anthropic列为供应风险的决定违法。",
+    "topics": [
+      "other",
+      "AI监管法律纠纷"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkVBTkVna3J0QUNvc0tCdnlJVGd5RW9qNWtta1BETTF6cVJyeXhGSWxvaWtyY0Q0VDkxdi04TklBUWVseVU3UGVpa1laeVlPb3F0UkUzRjVEc0ZHdzBBc2dkenJJblcxcXpPR2ZEWUZlb3RHMjJMR2Y1NG10MDdWOUtFYXdBZ0gzTDRISkRkWnE2NGFnczNGU0ZWT3JKYlAybDgxNzBMaFBROUE?oc=5": {
+    "_title": "Bay Area Security Workers Threaten Action After Anthropic Office Closure - KQED",
+    "aiSummary": "Anthropic关闭湾区办公室后，安保工人威胁采取行动。",
+    "topics": [
+      "other",
+      "Anthropic办公室关闭"
+    ],
+    "sentiment": "negative",
+    "heat": 0.35
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejY3VGVOMFdYa3ZmY1BGeS1IYWNXZjdyVlcwLWVYTW1Zb1B3UkhpdnEtdGdjQUZUUEpFbUN4LW8tVTBCMGh5OExPU01xRVdkM1NaYmNCU1NhVmJqazB5NG5ZQUlsUFhBenZUN29GRENVR0JGVmJycXVZbFlDSzhrY0Y2SXVpUkFfV2VIdGdUTHBOVkw4N1ZVNVRR?oc=5": {
+    "_title": "Jim Cramer Says Salesforce’s (CRM) Anthropic Partnership Silences AI Disruption Fears - Yahoo Finance",
+    "aiSummary": "Jim Cramer称Salesforce与Anthropic合作平息了市场对AI颠覆的担忧。",
+    "topics": [
+      "llm",
+      "企业AI合作"
+    ],
+    "sentiment": "positive",
+    "heat": 0.52
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm12QTFLek9sVlhENXNNaFlpUHlnbEl5dDRNZTBCbG1iSUtndjBhaUQ3UGl6N2VOWFppR19kbGhHWjlGaWRnby1BcHNlM0lNLUFaZXVrWV9MTFFOcjg0dmpFcWc0cHkyUTd1d2Z3bjNjaU9FeUQzUnpKbFloc1lRVDRPNjBHQ2JRVDh6cg?oc=5": {
+    "_title": "Automated researchers can reliably mitigate alignment failures - Anthropic",
+    "aiSummary": "Anthropic 研究发现自动化研究人员可可靠缓解 AI 对齐失败问题。",
+    "topics": [
+      "other",
+      "AI对齐研究"
+    ],
+    "sentiment": "positive",
+    "heat": 0.72
+  },
+  "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSXZYdGNJdXY4cENESG9adkhETXgxN2hMU2xjazNoUi11dktxcVA1Q0ZzYl9meGdrOVhsdHZuUVdqQVVPM1huZ0lJNWhYT2JESzhVdE92cXVmUHFzQWhURHlDaHQwRk1WdmJiQ0VUR2o1RGdhNS0tOEtLU0t0VTR6QzVhWGw3YUFpWnZEVS1ucWZoZ2NaTEV4cXl0bldvNkxzd3RheXpST0VqamtjQ2hqcklhVGwxUlZmSWxseG5MaVpBNDlHbHB6bzZEN0UtTy12b0ExNlNmUVQ0MV9tZ1ptY1VPZUN1YmVjeGxWWTktTlB0Szdhb0E?oc=5": {
+    "_title": "Judge rules Anthropic supply chain risk designation was ‘illegal and baseless’ - Nextgov/FCW",
+    "aiSummary": "法官裁定Anthropic供应链风险认定",
+    "topics": [
+      "other",
+      "司法裁决"
+    ],
+    "sentiment": "positive",
+    "heat": 0.62
+  },
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+    "_title": "Our decision on Cursor following its acquisition by SpaceX",
+    "aiSummary": "OpenAI宣布终止向Cursor提供模型服务的合同，原因是Cursor已被SpaceX收购。",
+    "topics": [
+      "ai-agent",
+      "商业合作终止"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.72
+  },
+  "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS1NqV1A5cmhWcUZmRW5FdG5VdC11LTNjQUJoMmJsRmdxSGFRM0ctMUtPUXdEUVhOaTNUdnhia3ZpYzZKSGNTZ0haYmswR1kwWFJTRWp6Rmd1d1UtSlE0bTBybXd5bzVJNjQ5bGNNVURHTkU0S3lmVlRVVEx4QjhjTGpFZjBGNzZUYnhRRUQ2eE1JSDBvOGtibktCOEFaQ2tPMmRfVHlySFk3cFFTTWZBR3ZkQQ?oc=5": {
+    "_title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge - Ars Technica",
+    "aiSummary": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge Ars Techn",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0MFpxM0xreE9nRVNGWTBNcWsxY3FRQWlYNzRUN0EzSHV0d1IxeFZtS2stYTVaZmswR3VEYmlOQUZqd3lBSkRmc29ZbFJDcjRtZDZBYkxsdnFnWi1BdHN5dmk5NzJjRXpNVlZ2ZzBodFlpMkVPb3ZQXw?oc=5": {
+    "_title": "Automated Researchers Can Reliably Mitigate Alignment Failures - Alignment Science Blog",
+    "aiSummary": "Anthropic发布研究称自动化研究人员可可靠缓解AI对齐失败问题。",
+    "topics": [
+      "other",
+      "AI对齐研究"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5": {
+    "_title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+    "aiSummary": "法官阻止五角大楼将Anthropic列入黑名单，认定其存在供应链风险",
+    "topics": [
+      "llm",
+      "AI监管"
+    ],
+    "sentiment": "positive",
+    "heat": 0.65
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVBkTWk1R2dsdEpLODZObWllTjlrdlVIX3dybGRta1pZbFcxMTRNNlVNcEVCMFFpOElIY3N3WjU3SUpYd28xQ3ZqcjF4X2gwQkZCc3lBX3ppMHdVUmRyQnB0X0M3Mk03OEhWX0lCYnhkWTA0dlJUVTY0RXFlNEpNLVQtQS05T3BK?oc=5": {
+    "_title": "Dario Amodei Says Anthropic Is 'Not Interested in Destroying Anyone' - Business Insider",
+    "aiSummary": "Dario Amodei Says Anthropic Is 'Not Interested in Destroying Anyone' Business In",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://huggingface.co/blog/open-asr-leaderboard-global-south": {
+    "_title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "aiSummary": "Hugging Face Open ASR Leaderboard首次新增Global South语言，扩展多语言语音识别评估范围。",
+    "topics": [
+      "open-source",
+      "ASR排行榜新增语言"
+    ],
+    "sentiment": "positive",
+    "heat": 0.55
   }
 }
