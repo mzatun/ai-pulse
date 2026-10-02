@@ -5,7 +5,7 @@
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync, readdirSync, rmSync } from 'node:fs';
 import { join } from 'node:path';
-import { TRACKS, HOT_TAGS } from './sources.mjs';
+import { TRACKS, HOT_TAGS, SOURCES } from './sources.mjs';
 
 const DATA_DIR = join(import.meta.dirname, '..', 'data');
 const DIST_DIR = join(import.meta.dirname, '..', 'dist');
@@ -14,7 +14,7 @@ const WEB_DIR = join(import.meta.dirname, '..', 'web');
 // GitHub Pages 项目站点固定部署在 /ai-pulse/ 子路径下，
 // 所有资源统一用 /ai-pulse/ 绝对前缀，避免子页面相对路径出错。
 const BASE_PATH = '/ai-pulse/';
-const CACHE_BUST = '?v=2'; // 强制浏览器刷新旧缓存
+const CACHE_BUST = '?v=3'; // 强制浏览器刷新旧缓存
 
 function loadSnapshot() {
   try {
@@ -114,6 +114,7 @@ function topbar(activePage, depth = 0) {
   const pages = [
     ['/', '关键变化'],
     ['/lines/', '趋势判断'],
+    ['/lines/venture/', '创业创新'],
     ['/timeline/', '事件脉络'],
     ['/signals/', '来源动态'],
     ['/scout/', '行动参考'],
@@ -157,6 +158,7 @@ function footer(snapshot, depth = 0) {
       <div class="footer-links">
         <nav>
           <a href="${relHref('/lines/', depth)}">主线</a>
+          <a href="${relHref('/lines/venture/', depth)}">创业创新</a>
           <a href="${relHref('/timeline/', depth)}">事件脉络</a>
           <a href="${relHref('/signals/', depth)}">来源动态</a>
           <a href="${relHref('/scout/', depth)}">行动参考</a>
@@ -613,6 +615,156 @@ function pageScout(snapshot) {
 }
 
 // ══════════════════════════════════════════
+// Page: AI 创业创新 (lines/venture/)
+// 分区：人物雷达 / 政策与地方基金 / 投融资与生态 / 判断与全部证据
+// ══════════════════════════════════════════
+function pageVenture(snapshot) {
+  const track = TRACKS['venture'];
+  const sigs = getSignalsByTrack(snapshot, 'venture');
+  const byRecency = (a, b) => parseDate(b.publishedAt).getTime() - parseDate(a.publishedAt).getTime();
+
+  const peopleSources = SOURCES.filter(s => s.group === 'people');
+  const peopleIds = new Set(peopleSources.map(s => s.id));
+  const policySources = SOURCES.filter(s => s.group === 'policy');
+  const policyIds = new Set(policySources.map(s => s.id));
+
+  // ── 01 人物雷达：每位人物的最新公开动态 ──
+  const personCards = peopleSources.map(src => {
+    const items = snapshot.signals
+      .filter(s => s.sourceId === src.id)
+      .sort(byRecency)
+      .slice(0, 4);
+    return `
+      <div class="person-card">
+        <div class="person-head">
+          <strong>${e(src.name)}</strong>
+          <span>${e(src.note || '')}</span>
+        </div>
+        ${items.length ? `
+        <ul class="person-links">
+          ${items.map(s => `
+          <li><a href="${s.url}" target="_blank" rel="noopener">
+            <time>${formatDate(s.publishedAt)}</time>
+            <span>${e(s.title.slice(0, 80))}</span>
+          </a></li>`).join('')}
+        </ul>` : '<p class="person-empty">近期暂无公开报道</p>'}
+      </div>`;
+  }).join('');
+
+  // ── 02 政策与地方基金 ──
+  const policySigs = sigs.filter(s => policyIds.has(s.sourceId)).sort(byRecency).slice(0, 10);
+
+  // ── 03 投融资与生态（人物 / 政策之外的全部 venture 信号，按地区分栏）──
+  const ecoSigs = sigs.filter(s => !peopleIds.has(s.sourceId) && !policyIds.has(s.sourceId));
+  const ecoCn = ecoSigs.filter(s => s.region === 'cn').sort(byRecency).slice(0, 8);
+  const ecoGlobal = ecoSigs.filter(s => s.region !== 'cn').sort(byRecency).slice(0, 8);
+
+  const ecoList = list => list.length ? `
+    <div class="eco-list">
+      ${list.map(s => `
+      <a class="eco-item" href="${s.url}" target="_blank" rel="noopener">
+        <time>${formatDate(s.publishedAt)}</time>
+        <div>
+          <strong>${e(s.title.slice(0, 90))}</strong>
+          <small>${e(s.sourceName)}</small>
+        </div>
+      </a>`).join('')}
+    </div>` : '<p class="eco-empty">暂无信号</p>';
+
+  const body = `
+    <div class="trend-detail-header shell">
+      <div class="trend-detail-meta">
+        <span class="tag" style="background:${track.color}20;color:${track.color}">${track.kicker}</span>
+        <span class="count">${sigs.length} 个支撑信号</span>
+      </div>
+      <h1 class="trend-detail-title">${e(track.label)}</h1>
+      <p class="trend-detail-desc">${e(track.description)}</p>
+    </div>
+
+    <section class="section shell" style="padding-top:0">
+      <header class="section-head">
+        <span class="kicker">01 / PEOPLE RADAR</span>
+        <h2>前沿人物雷达</h2>
+      </header>
+      <p class="venture-blurb">追踪 ${peopleSources.length} 位持续活跃于 AI 创业与创新一线的标志性人物，聚合其公开报道与最新动作。</p>
+      <div class="person-grid">${personCards}</div>
+    </section>
+
+    <section class="section section-tint">
+      <div class="shell">
+        <header class="section-head">
+          <span class="kicker">02 / POLICY &amp; FUNDS</span>
+          <h2>政策与地方基金</h2>
+        </header>
+        <p class="venture-blurb">各地政府对 AI 创新的产业基金、引导基金与配套投入动态。</p>
+        <div class="evidence-list">
+          ${policySigs.map(s => `
+          <a class="evidence-item" href="${s.url}" target="_blank" rel="noopener">
+            <time>${formatDate(s.publishedAt)}</time>
+            <strong>${e(s.title.slice(0, 80))}</strong>
+            <small>${e(s.sourceName)} · ${tierBadge(s.tier)} ${regionBadge(s.region)}</small>
+          </a>`).join('')}
+          ${policySigs.length === 0 ? '<p class="eco-empty">暂无政策基金信号</p>' : ''}
+        </div>
+      </div>
+    </section>
+
+    <section class="section shell">
+      <header class="section-head">
+        <span class="kicker">03 / ECOSYSTEM</span>
+        <h2>投融资与生态动态</h2>
+      </header>
+      <p class="venture-blurb">国内外 AI 创业公司融资、产品发布与生态变化。</p>
+      <div class="eco-cols">
+        <div class="eco-col">
+          <h3>国内</h3>
+          ${ecoList(ecoCn)}
+        </div>
+        <div class="eco-col">
+          <h3>海外</h3>
+          ${ecoList(ecoGlobal)}
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-tint">
+      <div class="shell">
+        <header class="section-head">
+          <span class="kicker">04 / JUDGMENT &amp; EVIDENCE</span>
+          <h2>当前判断与全部证据</h2>
+        </header>
+        <div class="trend-detail-body" style="padding-top:0">
+          <div class="trend-detail-judgment">
+            <div class="current">${e(track.description)}</div>
+            <div class="dim"><label>判断变化</label><p>${e(track.judgmentChange)}</p></div>
+            <div class="dim"><label>下一观察 · 待验证</label><p>${e(track.nextSignal)}</p></div>
+            <div class="dim"><label>板块构成</label><p>人物追踪 ${peopleSources.length} 位 · 政策基金 ${policySources.length} 源 · 媒体与投融资来源 ${SOURCES.filter(s => s.tags.includes('venture')).length - peopleSources.length - policySources.length} 个</p></div>
+          </div>
+          <div>
+            <h3 style="font-size:0.75rem;color:var(--text-3);text-transform:uppercase;letter-spacing:0.1em;margin-bottom:1rem">最新证据</h3>
+            <div class="evidence-list">
+              ${[...sigs].sort(byRecency).slice(0, 16).map(s => `
+              <a class="evidence-item" href="${s.url}" target="_blank" rel="noopener">
+                <time>${formatDate(s.publishedAt)}</time>
+                <strong>${e(s.title.slice(0, 80))}</strong>
+                <small>${e(s.sourceName)} · ${tierBadge(s.tier)} ${regionBadge(s.region)}</small>
+              </a>`).join('')}
+              ${sigs.length === 0 ? '<p class="eco-empty">暂无信号</p>' : ''}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>`;
+
+  return shell(
+    'AI 创业创新 — AI Pulse',
+    '前沿人物动向 · 地方基金投向 · 全球 AI 创业生态',
+    '/lines/venture/',
+    body
+  );
+}
+
+// ══════════════════════════════════════════
 // Main Build
 // ══════════════════════════════════════════
 function main() {
@@ -642,6 +794,12 @@ function main() {
   writeFileSync(join(DIST_DIR, 'lines', 'index.html'), pageLines(snapshot));
   for (const key of Object.keys(TRACKS)) {
     mkdirSync(join(DIST_DIR, 'lines', key), { recursive: true });
+    if (key === 'venture') {
+      // 创业创新赛道使用专属板块页（人物雷达 / 政策基金 / 投融资分区）
+      writeFileSync(join(DIST_DIR, 'lines', key, 'index.html'), pageVenture(snapshot));
+      console.log(`  lines/${key}/index.html (venture 专属页)`);
+      continue;
+    }
     const track = TRACKS[key];
     const sigs = getSignalsByTrack(snapshot, key);
     writeFileSync(join(DIST_DIR, 'lines', key, 'index.html'), shell(

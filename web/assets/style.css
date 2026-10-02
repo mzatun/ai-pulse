@@ -837,3 +837,75 @@ button { cursor: pointer; font: inherit; border: none; background: none; }
 @media (max-width: 900px) {
   .trend-detail-body { grid-template-columns: 1fr; }
 }
+
+/* ── Venture Page (AI 创业创新) ────── */
+.venture-blurb {
+  font-size: 0.88rem; color: var(--text-2);
+  margin-bottom: 1.5rem; max-width: 720px;
+}
+.person-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  gap: 0.85rem;
+}
+.person-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-top: 3px solid #eab308;
+  border-radius: var(--radius);
+  padding: 1rem 1.15rem 0.9rem;
+  transition: box-shadow var(--transition);
+}
+.person-card:hover { box-shadow: var(--shadow-sm); }
+.person-head {
+  display: flex; align-items: baseline; gap: 0.5rem;
+  flex-wrap: wrap; margin-bottom: 0.55rem;
+}
+.person-head strong { font-size: 0.98rem; font-weight: 700; }
+.person-head span { font-size: 0.68rem; color: var(--text-4); }
+.person-links { list-style: none; display: flex; flex-direction: column; gap: 0.4rem; }
+.person-links a {
+  display: flex; gap: 0.55rem;
+  font-size: 0.78rem; color: var(--text-2); line-height: 1.45;
+}
+.person-links a:hover { color: var(--link-hover); }
+.person-links time {
+  color: var(--text-4); white-space: nowrap;
+  flex-shrink: 0; font-size: 0.7rem; padding-top: 2px;
+}
+.person-links span {
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.person-empty { font-size: 0.75rem; color: var(--text-4); }
+.eco-cols {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;
+}
+.eco-col h3 {
+  font-size: 0.82rem; font-weight: 700; color: var(--text-2);
+  padding-bottom: 0.5rem; border-bottom: 1px solid var(--border);
+  margin-bottom: 0.75rem;
+}
+.eco-list { display: flex; flex-direction: column; gap: 0.6rem; }
+.eco-item {
+  display: flex; gap: 0.65rem; align-items: flex-start;
+  padding: 0.55rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  transition: all var(--transition);
+}
+.eco-item:hover { border-color: var(--text-4); box-shadow: var(--shadow-sm); }
+.eco-item time {
+  font-size: 0.7rem; color: var(--text-4);
+  white-space: nowrap; flex-shrink: 0; padding-top: 2px;
+}
+.eco-item strong {
+  display: block; font-size: 0.82rem; font-weight: 600;
+  line-height: 1.45; color: var(--text);
+}
+.eco-item small { font-size: 0.68rem; color: var(--text-4); }
+.eco-empty { font-size: 0.8rem; color: var(--text-4); padding: 0.5rem 0; }
+@media (max-width: 900px) {
+  .eco-cols { grid-template-columns: 1fr; }
+}

@@ -4,6 +4,7 @@ data/snapshot.json
 data/run-log.json
 data/health.json
 data/health-check.json
+output/
 .env
 *.log
 .DS_Store

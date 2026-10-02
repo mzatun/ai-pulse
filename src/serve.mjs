@@ -22,8 +22,8 @@ const MIME = {
 };
 
 const server = createServer((req, res) => {
-  // 兼容 /ai-pulse/ 部署前缀（本地无此前缀，自动剥离）
-  const cleanUrl = req.url.replace(/^\/ai-pulse/, '') || '/';
+  // 兼容 /ai-pulse/ 部署前缀（本地无此前缀，自动剥离）；同时剥离 ?v= 缓存查询串，否则资源 404
+  const cleanUrl = req.url.split('?')[0].replace(/^\/ai-pulse/, '') || '/';
   let filePath = join(DIST, cleanUrl === '/' ? 'index.html' : cleanUrl);
 
   // 目录 → index.html

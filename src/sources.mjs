@@ -1,8 +1,18 @@
 /**
  * 数据源配置
  * 分层: Tier1(官方/一手) > Tier2(专业媒体) > Tier3(社区/传播)
- * 主题: AI Agent, FDE(前端部署工程师), OPC(一人公司)
+ * 主题: AI Agent, FDE(前端部署工程师), OPC(一人公司), 创业创新(venture)
  */
+
+// Google News RSS 构造器：按关键词聚合某人物 / 主题的公开报道
+// 注意：Google News 在海外 runner 直连可用；国内网络需代理，采集失败会自动跳过
+const gnSearch = (q, { hl = 'zh-CN', gl = 'CN', ceid = 'CN:zh-Hans' } = {}) =>
+  `https://news.google.com/rss/search?q=${encodeURIComponent(q)}&hl=${hl}&gl=${gl}&ceid=${ceid}`;
+
+// AI 相关性过滤（titleFilter）：用于综合媒体源降噪
+// 这些源的泛科技 / 商业流会混入股票、消费、宏观等与 AI 无关的条目
+const AI_FILTER_CN = /\bAI\b|人工智能|大模型|大语言模型|语言模型|生成式|多模态|智能体|机器学习|深度学习|神经网络|算力|智算|具身|机器人|自动驾驶|智能驾驶|智能化|GPT|ChatGPT|DeepSeek|Kimi|豆包|文心|通义|OpenAI|Anthropic|Gemini|Claude|Copilot|英伟达|NVIDIA|GPU|月之暗面|智谱|百川|MiniMax|商汤|旷视|科大讯飞|讯飞|零一万物|阶跃星辰|面壁|智元|宇树|AIGC/i;
+const AI_FILTER_EN = /\bAI\b|artificial intelligence|machine learning|deep learning|\bLLM|language model|generative|ChatGPT|GPT|OpenAI|Anthropic|Gemini|Claude|Copilot|agentic|chatbot|robotic|\brobot|autonomous|Nvidia|foundation model|neural|inference/i;
 
 export const SOURCES = [
   // ── Tier 1: 官方一手来源 ──────────────────────────
@@ -107,9 +117,12 @@ export const SOURCES = [
   {
     id: '36kr-ai',
     name: '36氪 AI',
-    url: 'https://36kr.com/feed',
+    url: 'https://www.36kr.com/feed',
     type: 'rss', tier: 2,
-    tags: ['ai-agent', 'opc', 'startup'], region: 'cn',
+    tags: ['ai-agent', 'opc', 'startup', 'venture'], region: 'cn',
+    // 裸域名 36kr.com/feed 已改为返回反爬 HTML，保留作备用；主用 www 版有效 RSS
+    fallbacks: ['https://36kr.com/feed'],
+    titleFilter: AI_FILTER_CN,
   },
   {
     id: 'jina-blog',
@@ -117,8 +130,8 @@ export const SOURCES = [
     url: 'https://jina.ai/blog/feed.xml',
     type: 'rss', tier: 2,
     tags: ['ai-agent', 'embedding'], region: 'global',
-    // 主地址不稳定时回退中文 AI 源（国内可达）
-    fallbacks: ['https://www.qbitai.com/feed'],
+    // 主地址不稳定时回退 Google News 聚合（勿回退量子位：其已是独立源，会造成标签错乱）
+    fallbacks: [gnSearch('Jina AI', { hl: 'en-US', gl: 'US', ceid: 'US:en' })],
   },
   {
     id: 'github-releases-agent',
@@ -133,6 +146,140 @@ export const SOURCES = [
     url: 'https://api.github.com/search/repositories?q=frontend+deploy+ai+in:name+pushed:>2025-06-01&sort=updated&per_page=15',
     type: 'github-api', tier: 2,
     tags: ['fde', 'open-source'], region: 'global',
+  },
+
+  // ── Tier 2: AI 创业创新赛道（venture）──────────────
+  // ① 人物追踪：8 位持续活跃于 AI 创业 / 创新一线的标志性人物
+  //    通过 Google News 关键词聚合其公开报道（group: people 用于板块页「人物雷达」分区）
+  {
+    id: 'gn-fusheng',
+    name: '傅盛',
+    url: gnSearch('傅盛'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '猎豹移动创始人 · 猎户星空',
+  },
+  {
+    id: 'gn-luqi',
+    name: '陆奇',
+    url: gnSearch('陆奇 OR 奇绩创坛'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '奇绩创坛创始人（原 YC 中国）',
+  },
+  {
+    id: 'gn-kaifulee',
+    name: '李开复',
+    url: gnSearch('李开复 OR 创新工场'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '创新工场董事长 · 零一万物',
+  },
+  {
+    id: 'gn-andrewng',
+    name: '吴恩达',
+    url: gnSearch('吴恩达 OR "Andrew Ng"'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: 'Landing AI / DeepLearning.AI 创始人',
+  },
+  {
+    id: 'gn-wujun',
+    name: '吴军',
+    url: gnSearch('吴军 人工智能'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '《浪潮之巅》《智能时代》作者',
+  },
+  {
+    id: 'gn-linchao',
+    name: '所长林超',
+    url: gnSearch('所长林超'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '科技商业内容创作者',
+  },
+  {
+    id: 'gn-wangyuquan',
+    name: '王煜全',
+    url: gnSearch('王煜全'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '海银资本创始合伙人 · 全球科技前哨',
+  },
+  {
+    id: 'gn-zhouhongyi',
+    name: '周鸿祎',
+    url: gnSearch('周鸿祎'),
+    type: 'rss', tier: 2, tags: ['venture', 'people'], region: 'cn', maxItems: 12,
+    group: 'people', note: '360 集团创始人',
+  },
+
+  // ② 政府与地方基金：各地对 AI 创新的产业基金 / 引导基金投入
+  {
+    id: 'gn-ai-fund',
+    name: '地方AI产业基金',
+    url: gnSearch('人工智能产业基金'),
+    type: 'rss', tier: 2, tags: ['venture', 'policy'], region: 'cn', maxItems: 12,
+    group: 'policy',
+  },
+  {
+    id: 'gn-ai-govfund',
+    name: 'AI 政府引导基金',
+    url: gnSearch('政府引导基金 人工智能'),
+    type: 'rss', tier: 2, tags: ['venture', 'policy'], region: 'cn', maxItems: 12,
+    group: 'policy',
+  },
+
+  // ③ 国内创业创新媒体
+  {
+    id: 'qbitai',
+    name: '量子位',
+    url: 'https://www.qbitai.com/feed',
+    type: 'rss', tier: 2, tags: ['venture', 'startup'], region: 'cn', maxItems: 20,
+  },
+  {
+    id: 'leiphone',
+    name: '雷峰网',
+    url: 'https://www.leiphone.com/feed',
+    type: 'rss', tier: 2, tags: ['venture', 'startup'], region: 'cn', maxItems: 20,
+  },
+  {
+    id: 'geekpark',
+    name: '极客公园',
+    url: 'https://www.geekpark.net/rss',
+    type: 'rss', tier: 2, tags: ['venture', 'startup'], region: 'cn', maxItems: 20,
+  },
+  {
+    id: 'tmtpost',
+    name: '钛媒体',
+    url: 'https://www.tmtpost.com/feed',
+    type: 'rss', tier: 2, tags: ['venture', 'startup'], region: 'cn', maxItems: 20,
+    titleFilter: AI_FILTER_CN,
+  },
+
+  // ④ 国际创投媒体
+  {
+    id: 'techcrunch-venture',
+    name: 'TechCrunch Venture',
+    url: 'https://techcrunch.com/category/venture/feed/',
+    type: 'rss', tier: 2, tags: ['venture', 'funding'], region: 'global', maxItems: 20,
+    titleFilter: AI_FILTER_EN,
+  },
+  {
+    id: 'crunchbase-news',
+    name: 'Crunchbase News',
+    url: 'https://news.crunchbase.com/feed/',
+    type: 'rss', tier: 2, tags: ['venture', 'funding'], region: 'global', maxItems: 15,
+    // 部分网络不可达时回退 Google News 聚合
+    fallbacks: [gnSearch('crunchbase funding', { hl: 'en-US', gl: 'US', ceid: 'US:en' })],
+    titleFilter: AI_FILTER_EN,
+  },
+  {
+    id: 'yc-blog',
+    name: 'Y Combinator Blog',
+    url: 'https://www.ycombinator.com/blog/rss.xml',
+    type: 'rss', tier: 2, tags: ['venture', 'yc'], region: 'global', maxItems: 10,
+    titleFilter: AI_FILTER_EN,
+  },
+  {
+    id: 'sequoia',
+    name: 'Sequoia Stories',
+    url: 'https://www.sequoiacap.com/feed/',
+    type: 'rss', tier: 2, tags: ['venture', 'funding'], region: 'global', maxItems: 15,
   },
 ];
 
@@ -193,6 +340,17 @@ export const TRACKS = {
     color: '#ef4444',
     icon: '📦',
   },
+  'venture': {
+    id: 'venture',
+    name: 'Venture',
+    label: 'AI 创业创新',
+    kicker: 'VENTURE',
+    description: '前沿人物动向、地方基金投向与全球资本选择共同决定下一个窗口——AI 创业从技术竞赛转入「场景 × 分发 × 资本」的综合较量。',
+    judgmentChange: '创业门槛从「技术壁垒」转向「场景理解 + 分发效率」；地方资本从补贴算力转向投早、投小、投硬科技。',
+    nextSignal: '关注头部人物的新动作、地方 AI 基金的实际出手项目，以及 AI 原生公司披露的收入与融资节奏。',
+    color: '#eab308',
+    icon: '🌱',
+  },
 };
 
 // 热点标签
@@ -206,4 +364,8 @@ export const HOT_TAGS = [
   { tag: 'framework', label: '框架', count: 0 },
   { tag: 'deployment', label: '部署', count: 0 },
   { tag: 'startup', label: '创业', count: 0 },
+  { tag: 'venture', label: '创业创新', count: 0 },
+  { tag: 'people', label: '人物', count: 0 },
+  { tag: 'policy', label: '政策基金', count: 0 },
+  { tag: 'funding', label: '投融资', count: 0 },
 ];

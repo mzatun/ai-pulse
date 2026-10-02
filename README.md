@@ -1,6 +1,6 @@
 # AI Pulse
 
-> **AI Agent · FDE · OPC — 证据驱动的 AI 行业动态监控**
+> **AI Agent · FDE · OPC · 创业创新 — 证据驱动的 AI 行业动态监控**
 
 用可追溯的一手证据，连接 AI 行业的变化、趋势与行动。
 
@@ -11,6 +11,7 @@
 | **AI Agent** | 智能体、工具调用、多智能体协作、Agent 框架与平台 |
 | **FDE** | 前端部署工程师 — AI 驱动的前端开发、部署自动化、vibe coding |
 | **OPC** | 一人公司 — AI 时代的个人创业、自动化工作流、独立开发者经济 |
+| **创业创新** | AI 时代创新创业 — 前沿人物雷达、地方 AI 产业基金、全球创投生态 |
 
 ## 特性
 
@@ -97,11 +98,20 @@ ai-pulse/
 └── .github/workflows/       # 部署 / 每日刷新
 ```
 
-## 数据源（当前 16 个）
+## 数据源（当前 34 个）
 
 **Tier 1（一手）**：OpenAI、Anthropic（兜底 Google News/RSSHub）、Google AI、Hugging Face（兜底 RSSHub）、GitHub Trending、arXiv cs.AI、LangChain（兜底 `/feed/`/Google News/RSSHub）、Cloudflare
 
-**Tier 2（专业/社区/国内）**：Hacker News、Product Hunt、Dev.to、少数派、36氪、Jina（兜底 量子位）、GitHub Agent Releases、GitHub FDE Tools
+**Tier 2（专业/社区/国内）**：Hacker News、Product Hunt、Dev.to、少数派、36氪、Jina（兜底 Google News）、GitHub Agent Releases、GitHub FDE Tools
+
+**创业创新（venture 赛道，板块页：`/lines/venture/`）**：
+
+- 人物追踪（Google News 关键词聚合，8 位）：傅盛、陆奇、李开复、吴恩达、吴军、所长林超、王煜全、周鸿祎
+- 政府与地方基金（关键词聚合）：地方AI产业基金、AI 政府引导基金
+- 国内媒体：量子位、雷峰网、极客公园、钛媒体
+- 国际创投：TechCrunch Venture、Crunchbase News、Y Combinator Blog、Sequoia Stories
+
+> 综合媒体源（36氪 / 钛媒体 / TechCrunch Venture 等）配置了 `titleFilter` AI 相关性过滤，自动滤除股票、消费、宏观等与 AI 无关的条目；过滤正则见 `sources.mjs` 的 `AI_FILTER_CN` / `AI_FILTER_EN`。
 
 ## 采集管线
 
