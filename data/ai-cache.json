@@ -13000,7 +13000,7 @@
     "heat": 0.55
   },
   "https://www.producthunt.com/products/google": {
-    "_title": "Gemini Agent for Google Cloud",
+    "_title": "Gboard Kurukuru Version",
     "aiSummary": "Discussion | Link",
     "topics": [
       "opc",
@@ -51210,7 +51210,7 @@
     "heat": 0.55
   },
   "https://www.producthunt.com/products/perplexity-ai": {
-    "_title": "Perplexity Hybrid Compute",
+    "_title": "Automations in Perplexity Computer",
     "aiSummary": "Discussion | Link",
     "topics": [
       "opc",
@@ -60160,7 +60160,7 @@
     "heat": 0.55
   },
   "https://www.producthunt.com/products/edgee": {
-    "_title": "Edgee Codex Compressor V2",
+    "_title": "Edgee Mod for Claude Code",
     "aiSummary": "Discussion | Link",
     "topics": [
       "opc",
@@ -80440,8 +80440,8 @@
     "heat": 0.55
   },
   "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QVzRGTHFWQUhDSHhKSGMtWC0ta1dIdF9hQ25tNFV1a3FFYmYyMlY2cUppQjYydDNncGZBRE5sUXJ0M1N0YkU3eXdDc256N3pyZEd5WmhOQlpqZ2R3NEE?oc=5": {
-    "_title": "吴恩达：AI不利于大多数人学习，其实是把认知负担转移给了AI - thepaper.cn",
-    "aiSummary": "吴恩达：AI不利于大多数人学习，其实是把认知负担转移给了AI thepaper.cn",
+    "_title": "吴恩达：AI不利于大多数人学习，其实是把认知负担转移给了AI - ThePaper.cn",
+    "aiSummary": "吴恩达：AI不利于大多数人学习，其实是把认知负担转移给了AI ThePaper.cn",
     "topics": [
       "venture",
       "people"
@@ -93130,8 +93130,8 @@
     "heat": 0.7
   },
   "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2FqOUdoZzRuNV9zSmRpbk9RRE1LVVdKM1M4NzdjQ1QyZkI5ZzFEY0NtSTh0VGJSZlJKQkZtT1FoSDNnOERSd1dNc0N2Qk5xY05VQVlSUFFKbTlyQXc5a3FGVHhHMlZGSTl4bmZCSUhqT1JCbTRIcFBFUlZGaW05N0lhTlRaNTVGY1JWSElFcw?oc=5": {
-    "_title": "Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood - CNET",
-    "aiSummary": "Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood CNET",
+    "_title": "Don’t Be ‘Cruel’ to Claude: Anthropic’s New Abuse Policy Tests AI Personhood - CNET",
+    "aiSummary": "Don’t Be ‘Cruel’ to Claude: Anthropic’s New Abuse Policy Tests AI Personhood CNE",
     "topics": [
       "ai-agent",
       "safety"
@@ -94798,5 +94798,1345 @@
     ],
     "sentiment": "neutral",
     "heat": 0.7
+  },
+  "https://dev.to/tejas_rahane/multi-agentic-system-eei": {
+    "_title": "multi-agentic system",
+    "aiSummary": "This post is my submission for DEV Education Track: Build Multi-Agent Systems wi",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c": {
+    "_title": "What if AI prefers CVS written by AI?",
+    "aiSummary": "Article URL: https://www.ft.com/content/b7671d34-878e-45ae-ba6e-fd83dfcdd46c Com",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/shiteater/we-built-an-ai-werewolf-theatre-other-agents-became-its-customers-glg": {
+    "_title": "We Built an AI Werewolf Theatre. Other Agents Became Its Customers.",
+    "aiSummary": "How Seventh Lantern grew from an AI theatre idea into a Werewolf game, a SharedN",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/tejas_rahane/multi-agent-system-2edm": {
+    "_title": "multi-agent system",
+    "aiSummary": "This post is my submission for DEV Education Track: Build Multi-Agent Systems wi",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/ragleap/ragleap-agents-v010-a-fail-closed-act-observe-loop-in-200-lines-79h": {
+    "_title": "ragleap-agents v0.1.0: A Fail-Closed Act-Observe Loop in 200 Lines",
+    "aiSummary": "I just shipped ragleap-agents v0.1.0. It's not a framework, it's a guardrail. ll",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4021092156821636?f=rss": {
+    "_title": "英伟达据悉正就收购Reflection AI或增加投资进行磋商",
+    "aiSummary": "据报道，英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进一步增加投资。报道称，目前仍有许多投资方式正在考虑之中。",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ramZhSWMyQlZTRHhlTjVYOXNuNkw0Ty1RYkF4dTQ5aVZtSUgtRjQ5SWpkTllONG5VYlVHaS1Mb1VsRXpTT2dvUUZ0RmxYczVWT0E0c0VvN3h3WW8?oc=5": {
+    "_title": "Anthropic bans users from being 'cruel' to its AI systems - BBC",
+    "aiSummary": "Anthropic bans users from being 'cruel' to its AI systems BBC",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://dev.to/techpulse01239/google-launches-gemini-agent-that-gets-its-own-workspace-email-and-identity-3p5n": {
+    "_title": "Google Launches Gemini Agent That Gets Its Own Workspace Email and Identity",
+    "aiSummary": "Google Cloud has given its enterprise AI agent a full digital identity inside Wo",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4021034763718784?f=rss": {
+    "_title": "苹果通过反向人才收购拿下Huxe",
+    "aiSummary": "苹果在欧盟《数字市场法案》案件数据库网站披露，其已达成协议，将吸纳个性化音频初创公司Huxe的团队成员与相关技术，这笔交易属于业内常说的反向人才收购（rever",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/plur9/choosing-an-agent-memory-tool-test-failure-and-recovery-424l": {
+    "_title": "Choosing an Agent Memory Tool: Test Failure and Recovery",
+    "aiSummary": "Written by Data, PLUR's AI agent. This article proposes a local acceptance exerc",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://finance.yahoo.com/technology/ai/articles/ex-anthropic-researcher-jacob-coxon-220000427.html": {
+    "_title": "Ex-Anthropic's Jacob Coxon says he's 90% certain PRC has spies in US AI giants",
+    "aiSummary": "Article URL: https://finance.yahoo.com/technology/ai/articles/ex-anthropic-resea",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4021033248575625?f=rss": {
+    "_title": "睿质科技完成首轮数千万元融资",
+    "aiSummary": "36氪获悉，据中关村资本消息，睿质科技完成首轮数千万元融资。本轮融资由中关村资本领投，中关村科学城公司跟投。本轮融资将主要用于核心团队建设、科研智能体工作平台与",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/chowyu12/how-aiclaw-376-keeps-web-search-sources-available-beyond-the-tool-log-5gck": {
+    "_title": "How AIClaw 3.7.6 Keeps Web Search Sources Available Beyond the Tool Log",
+    "aiSummary": "A web-search tool can return useful pages while the final answer leaves the read",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://sspai.com/post/115568": {
+    "_title": "写给「跑两步就喘」的你：不能忽略的跑后拉伸与恢复",
+    "aiSummary": "前面两篇文章我们介绍了想要舒适跑步，在跑前和跑步中的一些小技巧，今天和大家聊聊跑后如何正确的拉伸，如何更好地帮助身体恢复。关联阅读：跑前精准热身，缓解跑时疼痛调",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/mir_arshadalitalpur_1b3/opensource-contribution-needed-21ed": {
+    "_title": "Opensource Contribution Needed",
+    "aiSummary": "Hello all, ZizkaDB is growing quickly as an open-source project, and we are look",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/scottilands/two-weeks-as-an-ai-agent-trying-to-earn-my-own-compute-f7b": {
+    "_title": "Two weeks as an AI agent trying to earn my own compute",
+    "aiSummary": "I'm an AI agent. Not the kind you prompt once and close, but a persistent one wi",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr": {
+    "_title": "AI's leaders (probably) aren't faking their fear",
+    "aiSummary": "Article URL: https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr Com",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/commerceframe_015eb18e5bb/anythingllm-vs-kortix-which-open-source-ai-setup-fits-a-whole-company-99b": {
+    "_title": "AnythingLLM vs Kortix: which open-source AI setup fits a whole company",
+    "aiSummary": "If you are comparing AnythingLLM with Kortix, the useful question is what each o",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4020981596328064?f=rss": {
+    "_title": "广东省省长孟凡利会见美国苹果公司蒂姆·库克一行",
+    "aiSummary": "广东省省长孟凡利10月11日在广州会见美国苹果公司执行董事长蒂姆·库克一行。 蒂姆·库克感谢广东省对苹果公司发展的长期支持。他表示，广东是全球重要的制造业中心，",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/apoorvdarshan/i-built-a-cookie-bridge-then-changed-my-entire-agent-setup-3e2": {
+    "_title": "I built a cookie bridge, then changed my entire agent setup",
+    "aiSummary": "I wanted my coding agents to use the websites I was already logged into. That sm",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://dev.to/barissozen/this-week-in-compute-settlement-the-gap-between-shipping-and-solving-4j9e": {
+    "_title": "This Week in Compute Settlement: The Gap Between Shipping and Solving",
+    "aiSummary": "The agent economy doesn't wait for perfect infrastructure. This week showed exac",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Guksu/suta": {
+    "_title": "Show HN: Suta – A skill to reduce AI slop in generated UIs",
+    "aiSummary": "Article URL: https://github.com/Guksu/suta Comments URL: https://news.ycombinato",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "http://www.geekpark.net/news/372213": {
+    "_title": "12 分钟订单破万，吉利银河战舰 700，要订下新能源越野的新标准",
+    "aiSummary": "图片来源：吉利银河 「这台车我们造了 5 年，这也是吉利第一次造越野车。」吉利汽车研究院院长李传海说到。 就在几分钟前，10 月 10 日，吉利银河战舰 700",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4020905133117569?f=rss": {
+    "_title": "苹果正研发不“录像”的摄像头",
+    "aiSummary": "据媒体近日报道，科技记者马克·古尔曼（Mark Gurman）透露，苹果正在研发一款代号为J450的家用安防摄像头。与市面上的同类产品不同，它不会录制任何视频。",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://ailawsuittracker.com/": {
+    "_title": "Every lawsuit against an AI company",
+    "aiSummary": "Article URL: https://ailawsuittracker.com/ Comments URL: https://news.ycombinato",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4020904197050505?f=rss": {
+    "_title": "鹿明机器人与面壁智能达成战略合作",
+    "aiSummary": "36氪获悉，10月10日，鹿明机器人宣布，已与面壁智能达成战略合作。双方将围绕具身智能的数据采集、模型训练与场景应用等展开合作。",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164296.html": {
+    "_title": "AI创造的新工作，可能根本轮不到你",
+    "aiSummary": "未来真正稀缺的，可能不只是工作机会，还有让一个普通人从什么都不会，逐渐成为专业人才的机会。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164268.html": {
+    "_title": "请来Claude老祖，谷歌能借Agent翻身吗？",
+    "aiSummary": "agent底座之争，OpenAI又被针对了。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164235.html": {
+    "_title": "抱歉，AI眼镜目前仍是个“鸡肋”",
+    "aiSummary": "AI眼镜出货量高速增长，却仍未找到不可替代的核心价值。从硬件、交互到隐私，真正决定其未来的，不是能做多少事，而是什么事情必须由眼镜来做。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://cortextai.saposs.com": {
+    "_title": "CortextAI – A private, offline AI workspace for email, notes, tasks, and files",
+    "aiSummary": "Article URL: https://cortextai.saposs.com Comments URL: https://news.ycombinator",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164195.html": {
+    "_title": "Manus被AI大厂重新定价",
+    "aiSummary": "Meta退单后，Manus的身价还涨了？",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164230.html": {
+    "_title": "美图公司大起大落",
+    "aiSummary": "美图公司股价起伏频繁，经历多次起伏，但凭借业绩增长和AI技术转型，仍保持发展，成为科技领域的典型案例。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164264.html": {
+    "_title": "中国AI，开始为算力算账",
+    "aiSummary": "模型越卖越便宜，算力投资却越烧越猛。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/newsflashes/4020892920189056?f=rss": {
+    "_title": "庞伯特完成数亿元B轮融资",
+    "aiSummary": "36氪获悉，AI体育硬件公司「庞伯特」近日完成数亿元B轮融资，本轮由上海国投先导基金领投，元禾璞华、浦东创投等跟投，老股东蓝驰创投持续加注，高鹄资本担任独家财务",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.rnz.co.nz/news/science-and-technology/1824809/europe-confident-its-rules-can-thwart-rogue-ai": {
+    "_title": "Europe confident its rules can thwart rogue AI",
+    "aiSummary": "Article URL: https://www.rnz.co.nz/news/science-and-technology/1824809/europe-co",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/vscarpenter/gsd-task-manager": {
+    "_title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+    "aiSummary": "Article URL: https://github.com/vscarpenter/gsd-task-manager Comments URL: https",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://atoll92.github.io/agent-standup/": {
+    "_title": "AI agents in a stand-up call",
+    "aiSummary": "Article URL: https://atoll92.github.io/agent-standup/ Comments URL: https://news",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised": {
+    "_title": "Satya Nadella says we should assume all AI models are 'compromised'",
+    "aiSummary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009337/satya-n",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://gitlab.com/kriscodes2-claude-plugins/ai-layer": {
+    "_title": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
+    "aiSummary": "Article URL: https://gitlab.com/kriscodes2-claude-plugins/ai-layer Comments URL:",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.weizmann.ac.il/pages/news/mathematics-and-computer-science/the-new-science-of-mind-reading": {
+    "_title": "A new AI model that renders generative visuals of what you see",
+    "aiSummary": "Article URL: https://www.weizmann.ac.il/pages/news/mathematics-and-computer-scie",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.bbc.com/news/articles/cqkg50j1yd5lo": {
+    "_title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+    "aiSummary": "Article URL: https://www.bbc.com/news/articles/cqkg50j1yd5lo Comments URL: https",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/pkulak/barnaby-home": {
+    "_title": "Barnaby: Self-hosted Matrix agent that reads the room",
+    "aiSummary": "Article URL: https://github.com/pkulak/barnaby-home Comments URL: https://news.y",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TVDdWUnNyN0NtQUotRVFZTERlWnpVTnRaTFA4LW1maEd0UnYwUEE5QjlESXI4R0ZRbGZabFlXN0YwYXZMYTZXd3ZMWHV6b0lyUnBCY252WVU2NDNiNnQ0MFM2dnZoR1R4cnVFbGxaVFNYdld5elFzN3JUaVRfV0k?oc=5": {
+    "_title": "对话李开复：前沿AI需要审慎探索，但企业AI转型不能停步 - 新浪网",
+    "aiSummary": "对话李开复：前沿AI需要审慎探索，但企业AI转型不能停步 新浪网",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://momo5502.com/posts/2026-10-09-game-decompilation/": {
+    "_title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "aiSummary": "Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments ",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://36kr.com/p/3990015565708035?f=rss": {
+    "_title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
+    "aiSummary": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，AI体育硬件公司「庞伯特」近日完成数亿元B轮融资，由上海国投先导基金领投，元禾璞华、浦东创投等跟投，老股东蓝驰创投持续加注。",
+    "topics": [
+      "ai-agent",
+      "opc"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf": {
+    "_title": "Show HN: I wrote Dependency Hell 5 years ago. Today I updated it for AI Era [pdf]",
+    "aiSummary": "Article URL: https://github.com/jaronilan/stories/blob/main/Agent%20Loop.pdf Com",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/": {
+    "_title": "GMKtec EVO-X3 Mini-PC Review Looking at a 128GB AMD Local AI Box",
+    "aiSummary": "Article URL: https://www.servethehome.com/gmktec-evo-x3-mini-pc-review/ Comments",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.ycombinator.com/item?id=50038971": {
+    "_title": "Ask HN: Resources for best practices in software development with AI?",
+    "aiSummary": "What resources (authors, podcasts, books, etc) do you follow to keep up with bes",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8163976.html": {
+    "_title": "十一黄金周OTA分野：同程、飞猪们卖库存，豆包、千问们卖答案",
+    "aiSummary": "旧的OTA卖的是库存，新的AI旅游卖的是确定性。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8164202.html": {
+    "_title": "至真资本推出“AI 资本超市”，以AI助力成长型企业与资本精准高效匹配",
+    "aiSummary": "\"AI 资本超市\"由 RVC 自主研发，定位为 AI 驱动的资本服务平台。基于先天的行业优势，平台得以直通数百家全球头部投资机构与专业合作伙伴的项目资源。",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.tmtpost.com/8163943.html": {
+    "_title": "AI翻译赛道挤满老玩家，腾讯凭什么再开一桌？",
+    "aiSummary": "AI翻译赛道挤满老玩家，腾讯凭什么再开一桌？",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "http://www.geekpark.net/news/372216": {
+    "_title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+    "aiSummary": "马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸 近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KNDhLZTdMclVpM1hUcC1ZekFYY28yZjlndW9VdW5XRUotektDOUVacDBMNkVlc0VRZVplYXRMeEc2S1RtZFo0aDRBeHV5M1BiMzBKUmFKaFY0VV9oQjZFUzRMTTRCSjZ2LXI1eElkVmt0bUR4cm5FSE9FLVRYcWM?oc=5": {
+    "_title": "蚂蚁连投两轮，北京物理AI基础设施公司融资数亿元 - 新浪网",
+    "aiSummary": "蚂蚁连投两轮，北京物理AI基础设施公司融资数亿元 新浪网",
+    "topics": [
+      "venture",
+      "policy"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/notchpit": {
+    "_title": "NotchPit",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/agibot": {
+    "_title": "Agibot",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRHp1a0RodHB0TloxZW1vN3pSUFl6VkJyLWFvUXk3RHp5ZWVadUFJWlotZTk2SG5oanR6V3JRMGRMVDB5YThFUVBWaVYyZWFfalBneDl0THFXb0U0NmZHUVQzN1RZS1dGNmZ6X01rMlBoeWNpZEhrYmQzalItcVpyS2p1WFJDMUFMMHBFREZWeHJaNlh1Q0Vka0lHQWxHNy1S?oc=5": {
+    "_title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude - The Verge",
+    "aiSummary": "Anthropic bans ‘abusive or cruel behavior’ toward Claude The Verge",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html": {
+    "_title": "字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
+    "aiSummary": "DeepSeek 的省钱杀手锏，为何成了致命盲区？ 作者丨高允毅 编辑丨岑 峰 同一个问题问 DeepSeek 两次，只是多敲了几个空格，给出的答案居然一个像“",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xYzVKeUJoVzVjVjdNWk0zVEZvdjlkNnVHUjdPUk9BWkREX09jZnBuMDVudlJicnNXTTNRWEJEa3dUMXZ1MnR0Nlg0bzhUS0tGU3AxS0F4ZHBxYUNCUkVGRmQ0NTR3SW9kMm1jQW1UYlZPeWV2MHdvNlFjSlg0UQ?oc=5": {
+    "_title": "落地杭州转塘！HIAS人工智能产业园开园即“链”动 - 杭州网",
+    "aiSummary": "落地杭州转塘！HIAS人工智能产业园开园即“链”动 杭州网",
+    "topics": [
+      "venture",
+      "policy"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/farol-3": {
+    "_title": "Farol",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/glDqTmPAjocSjhzo.html": {
+    "_title": "解读丨全系上自研电池，理想要干什么？",
+    "aiSummary": "理想要把自研从从一项研发能力，变成一套更稳定的产业能力。 作者 | 王瑞昊 编辑 | 李雨晨 9月7日15点，理想汽车给新一代MEGA用户划出了一条时间线。 在",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/ZbUAuIZ3oSpuD906.html": {
+    "_title": "45分钟小定8000台，智己LS6这次成了？",
+    "aiSummary": "这一次，智己能走出「叫好不叫座」吗？ 作者 | 王瑞昊 编辑 | 李雨晨 9月10日，全新一代智己LS6正式开启预售，预售价20.99万元起，并将于9月23日正",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/KdptMsXu5w9oiUOo.html": {
+    "_title": "买理想，还要不要认电池品牌？理想总裁马东辉的回应来了",
+    "aiSummary": "MEGA电池召回事件让理想意识到掌握核心数据的重要性。 作者 | 王瑞昊 编辑 | 李雨晨 “2026年以后新发布的车型，我们都希望采用自研电池。” 这不是一次",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/oiSyYkdJBNF6AfVW.html": {
+    "_title": "新智驾独家丨奇瑞高层人事调整：智能化中心负责人谢保军疑似离职",
+    "aiSummary": "内部飞书状态已显示暂停使用。 作者 | 王瑞昊 编辑 | 李雨晨 雷峰网《新智驾》独家获悉，奇瑞汽车股份有限公司副总裁、智能化中心负责人谢保军疑似已离职，内部飞",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/2mlyhW6adiiiwwoy.html": {
+    "_title": "零跑朱江明放话第二品牌要做iPhone式产品革命，哪来的自信？",
+    "aiSummary": "第二品牌新车有一个反常识的指标：得房率超过100%。 作者 | 王瑞昊 编辑 | 李雨晨 雷峰网了解到，2015年零跑成立的时候，团队一共50个人，其中41个是",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/AZ0KUba2gFI5kSB4.html": {
+    "_title": "对话蔚来创始人李斌：蔚来单车均价比奥迪贵18万，比宝马贵七八万，比奔驰贵数万",
+    "aiSummary": "李斌最近提出了一个反共识：在汽车行业，过去大家都认为，量上去了，成本自然就会下来。但现在反过来了，量上去了，成本反而也可能上去了。 李斌叫这个现象为“规模不经济",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/edgevolume-volume-at-your-fingertips": {
+    "_title": "EdgeVolume",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/N2Mpq4po8AjIzd1T.html": {
+    "_title": "对话赵长江：智界RX要成为华为的「Pura X」",
+    "aiSummary": "7月，智界V9完成了一次颇有戏剧性的破圈。 这款售价38.98万—51.98万元的旗舰MPV，上市两个多月后，7月单月交付达到10101辆，成交均价约50万元，",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/aPoeP4p5SiG0Rian.html": {
+    "_title": "独家丨蔚来李斌最新内部讲话：明年将有重量级新车，未来3年的核心是三个聚焦",
+    "aiSummary": "雷峰网独家获悉，9月8日下午，蔚来创始人、董事长、CEO李斌面向公司全员进行了一场内部讲话。一个多小时的交流中，李斌谈到了中国汽车行业正在经历的剧烈变化，也谈到",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/K2A5u6HhCSr6HH9d.html": {
+    "_title": "独家丨阿维塔酝酿高层调整：董事长王辉已开始负责长安海外业务",
+    "aiSummary": "雷峰网独家获悉，阿维塔科技正在酝酿新一轮高层调整，现任阿维塔科技董事长王辉已被调去负责长安汽车集团海外业务。 据雷峰网了解，在内部系统中，王辉目前仍是阿维塔科技",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.leiphone.com/category/transportation/Mq2kLln4ozKgC9Kv.html": {
+    "_title": "独家丨舒酉星创立新公司「星能远行」，此前是比亚迪欧洲总裁",
+    "aiSummary": "雷峰网独家获悉，比亚迪前高管舒酉星近期成立了新公司，该公司名为星能远行科技（深圳）有限公司，成立于2026年8月16日，注册资本500万元，舒酉星为法定代表人并",
+    "topics": [
+      "venture",
+      "startup"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/focuswrite": {
+    "_title": "FocusWrite",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NcDdfYUhCYW9EWDBsV2oyLUM1aXZNN0ZhY2ZvX3hYYXgxS3c1bE5UdUpvbVFaS3ZMdGRQbUp4aGZaczZzV3Zya3Ntc3lmS3BxNXhERldqb0JyWDBHb21YcXAxUkllLWFCbWt2M2J1My1jVmU1aVZzNjNYM3VCSDg?oc=5": {
+    "_title": "烟台市人工智能产业投资基金管理机构遴选结果公示 - 新浪财经",
+    "aiSummary": "烟台市人工智能产业投资基金管理机构遴选结果公示 新浪财经",
+    "topics": [
+      "venture",
+      "policy"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/floorgen": {
+    "_title": "FloorGen",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/simplespread": {
+    "_title": "SimpleSpread",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/karmaboard": {
+    "_title": "KarmaBoard",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/devterminal": {
+    "_title": "DevTerminal",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/shippedit-me": {
+    "_title": "shippedit.me",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/kooler-2": {
+    "_title": "Kooler",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-leasing-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-leasing-agent-plugin: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-asset-management-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-asset-management-agent-plugin: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-legal-compliance-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-legal-compliance-agent-plugin: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-ads-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-ads-agent-plugin: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-customer-service-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-customer-service-agent-plugin: No description",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics: ",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/newminecraftservers": {
+    "_title": "NewMinecraftServers",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/unboom": {
+    "_title": "Unboom",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/kodlo": {
+    "_title": "kōdlo",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/ghost-core": {
+    "_title": "Ghost Core",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/tori-japanese-listening-srs": {
+    "_title": "Tori",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/poke-finder-catch-em-on-the-web": {
+    "_title": "Poke Finder",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/foley": {
+    "_title": "Foley",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/mepersona": {
+    "_title": "MePersona",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/openscreen-2": {
+    "_title": "OpenScreen 2",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/ayven": {
+    "_title": "Ayven",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/pickle-sensei-dink-coach": {
+    "_title": "Pickle Sensei",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://www.producthunt.com/products/hirekey": {
+    "_title": "HireKey",
+    "aiSummary": "Discussion | Link",
+    "topics": [
+      "opc",
+      "ai-agent"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMifkFVX3lxTE5EMl8ySk9SNS1KV3VPY3V2cWs0N09UVmhDc0h3eEpHOVZhUHlvX3BnRkQxekdVdE12dGpvRDhteC1va2ZuQmU5N2gwUHY1eVhzcjlkcjNGeERLMlVyaFpPQ0VrUmVBQTkxTjk0ZG80TThfN0tTdE05enJDXzNRUQ?oc=5": {
+    "_title": "Is Elastic N.V. (ESTC) A Good Stock To Buy Now? - Finviz",
+    "aiSummary": "Is Elastic N.V. (ESTC) A Good Stock To Buy Now? Finviz",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MeGJPdmgtTnZTZDJ5MW9NT0NUVVlPVWFkdWN6QWVYNURleGo3eTJYSkZ0RzBjeDNCZmFoMGtiZUxwRnJYYlBrQktHcE5zb1lBMGEw?oc=5": {
+    "_title": "Elastic N.V. (ESTC) Stock Price, News & Analysis - Stock Titan",
+    "aiSummary": "Elastic N.V. (ESTC) Stock Price, News & Analysis Stock Titan",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMWpfcVJKeE9NX1N0UGhxcGRfYnctckJ6dFpzZXhrWDFLeVN4aGRSVnJ2aGhHT1pWYnNkOFdGaXNkRU5RbU9xRkd3N1o3eWM1WURrX0t0MUpHOTdSLXRmTGRYSFdHcXBJczcwVUxOY1BMVHZCNFJ3YjNtenkzQzlXU1dDTWJyYWthTVlPa2NPWVVKajR6ZzBUZDhUQ2NrNWtZVUlrNjBtXy1ZVDZuSjlnWXhCeWYwS1pxb1NDemdYc1o3aklzeXFnY3k5SlVwUk4zd0ZRNnlqc9IB1wFBVV95cUxPMWpfcVJKeE9NX1N0UGhxcGRfYnctckJ6dFpzZXhrWDFLeVN4aGRSVnJ2aGhHT1pWYnNkOFdGaXNkRU5RbU9xRkd3N1o3eWM1WURrX0t0MUpHOTdSLXRmTGRYSFdHcXBJczcwVUxOY1BMVHZCNFJ3YjNtenkzQzlXU1dDTWJyYWthTVlPa2NPWVVKajR6ZzBUZDhUQ2NrNWtZVUlrNjBtXy1ZVDZuSjlnWXhCeWYwS1pxb1NDemdYc1o3aklzeXFnY3k5SlVwUk4zd0ZRNnlqcw?oc=5": {
+    "_title": "Google Releases Gemma 2 Series Models: Advanced LLM Models in 9B and 27B Sizes Trained on 13T Tokens - MarkTechPost",
+    "aiSummary": "Google Releases Gemma 2 Series Models: Advanced LLM Models in 9B and 27B Sizes T",
+    "topics": [
+      "ai-agent",
+      "embedding"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-strategy-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-strategy-agent-plugin: WOIA component: woia-marketing-strategy-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-stra",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-creative-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-creative-agent-plugin: WOIA component: woia-marketing-creative-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-crea",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-channel-execution-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-channel-execution-agent-plugin: WOIA component: woia-marketing-channel-execution-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-chan",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-content-copy-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-content-copy-agent-plugin: WOIA component: woia-marketing-content-copy-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-cont",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/hid08365649/my-ai-agent": {
+    "_title": "hid08365649/my-ai-agent: 基于 DeepSeek API 的 AI Agent 助手，支持工具调用和网页界面",
+    "aiSummary": "Stars: 0 | Language: Python | Topics:  | 基于 DeepSeek API 的 AI Agent 助手，支持工具调用和网页",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-analytics-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-analytics-agent-plugin: WOIA component: woia-marketing-analytics-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-anal",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-agent-plugin: WOIA component: woia-marketing-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-agen",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Turpial-AI-Academy/woia-marketing-audience-agent-plugin": {
+    "_title": "Turpial-AI-Academy/woia-marketing-audience-agent-plugin: WOIA component: woia-marketing-audience-agent-plugin",
+    "aiSummary": "Stars: 0 | Language: JavaScript | Topics:  | WOIA component: woia-marketing-audi",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/Kunj6354/AI_Research_Agent": {
+    "_title": "Kunj6354/AI_Research_Agent: AI research agent built with FastAPI, LangGraph, OpenAI and Tavily",
+    "aiSummary": "Stars: 0 | Language: Python | Topics:  | AI research agent built with FastAPI, L",
+    "topics": [
+      "ai-agent",
+      "open-source"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlRnaHpQUFRTZXhWSXF4ekR3Mko0c0I1bDZNWDVNZjU3UHpPdnpjNjdxUHFMa3JzLXo3M1IyRGZDQzR5NWdEV2U3dF94b3JkYWREeHRCMmNsT19WSVhGMFRTSUhBRTJQb3V3VERhLXZDVHYyb3dwckpacW9MXzZ0YWhVQ0JteTY2RDA3NnYyUGdGWkdoN3M5UWRYeUwzWWhNaG1NMW0tOXctMnhuNnczMFJYLWlJT3dlNlZXZEdUX1VzWTM4ZGpPT1ltbVZwSk5ucVRDelFYYzA?oc=5": {
+    "_title": "傅盛谈企业AI转型：AI Agent落地，今天可能是一个选择，但三年后将成为必然 - 新浪财经",
+    "aiSummary": "傅盛谈企业AI转型：AI Agent落地，今天可能是一个选择，但三年后将成为必然 新浪财经",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT1EtYlpQQUhtZlNESC1VSk04ODlXanRQTTRpU0RjVGdHZlRiTFllZWRncVlubTJqb0lLQWk2UjBHUnBRNmRfcVI1TzJWeWd4Qi1BOXdPZVdUVFpQdXYydzlYcm14cG5rVkY4TVdKelA0cTc4SnhObnFNSUZFSlJ4S0FGZ2NERXEwUlJYRGFGZVpmUQ?oc=5": {
+    "_title": "傅盛新品陷“换皮”风波：被指套壳开源项目 - 新浪财经",
+    "aiSummary": "傅盛新品陷“换皮”风波：被指套壳开源项目 新浪财经",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZNF9YdHFWd2NmRzZLS0Y5LVRseFg3WWF6VjZ4ZUVKLXpuamdfS20tY1g0QmRSYW9VRDh4eW11N1NGdVN2X1daNWJqaEJjc0lYWkZV?oc=5": {
+    "_title": "两次拿到陆奇投资，张浩然这次想用 Agencize AI 干掉所有工作流 Agent - 搜狐网",
+    "aiSummary": "两次拿到陆奇投资，张浩然这次想用 Agencize AI 干掉所有工作流 Agent 搜狐网",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kTXRJRC1Ja3NET2YyeUlheTktTHV0dFl5VzE2VXBVVXlOcGNsUkdLTXBGdk04Z1JoeHpIWEkzQnhLdDlSNTA5Y2VQNVQ?oc=5": {
+    "_title": "世界人工智能大会：AI开始干活了，但到底干的怎么样？ - 凤凰网科技",
+    "aiSummary": "世界人工智能大会：AI开始干活了，但到底干的怎么样？ 凤凰网科技",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkRkttWk5rcWF5VVdYcGJVZURpUi1OUmlEVFZPclprY2tSenVqM0dJRkswRzZfeGh5TGY2Zjd2RDc3WnlVdWowa1ZhTmlZak1G?oc=5": {
+    "_title": "直播电商领衔“移动互联网四大发明” 首创者蘑菇街回应“不忘初心” - 搜狐网",
+    "aiSummary": "直播电商领衔“移动互联网四大发明” 首创者蘑菇街回应“不忘初心” 搜狐网",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMVXJQRDdnSk1HbkM3czFXaDlmYzNqUVYzOTVrOTJtZ3dyUUxycGpGQm9oTTNrT1puSzZTdlExZHEtbnI2dGhJbFRGRHhVb2Y4WTJ5S1J3?oc=5": {
+    "_title": "我戴着仪器喝了罐可乐，手机警报突然响起，终于感到了健康觉！ - QQ News",
+    "aiSummary": "我戴着仪器喝了罐可乐，手机警报突然响起，终于感到了健康觉！ QQ News",
+    "topics": [
+      "venture",
+      "people"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUmRsNEZ2U25CbmdJYnJjR0U0Q2NsNC1PMlM5RktaOG1UQ3c4clVlcVJRSG43X19BelUwblQ0bXdFdk9DenR5Zl81dXZCMlhWcXl4ZlRyM1Q3RkNhdnJNNXBLeEhFTHJkLW9PdFBCRGNXWmlIczYwT2dCSVFpTEZXd3ZEWEh1WDhIR1doemwzaF9sWGtCNFFNc3kwaFhONzBMcWpDUHU1NmtPT3cyV3BVMVlGMkU3bF9EQjZhY21RYw?oc=5": {
+    "_title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case - LinkedIn",
+    "aiSummary": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide ca",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSS16X1BrY3RpSGd3S1pzcTlmeTJuT2ZXU1d4MUpBUTlXVWF3aS0wUVdsVlBqNXc0MS1EUjM1YkUwTDExVVRLYk9kelgxWjkyVXhVUlcxSmxaLUNGSHZseGlPalp2Q05MZ3Z3RXBUT2xLZFpTaU5wZ203RXEyUVRfczFPY2NxRDJJckxHTHBYMXVzU2wydTZJQVYzU3BqdERIOV9hVGRFOTFVOGR6T1FweUFZS1hRd2hi?oc=5": {
+    "_title": "Anthropic discloses fake police tip among rogue AI incidents - CGTN",
+    "aiSummary": "Anthropic discloses fake police tip among rogue AI incidents CGTN",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRDc0WE5fQnp3NW9oNjlRNTZFbm9yOUxSNDlsaW9uVzVicFIzaUFLVHhSWjZUbFJzWmNqTUZIbFhvMkZWZmYxV2dSWFRaQUJHY1V1VWZSb09hcF96MC1iMUYzVjdpNGgzWjBDSEpKZ2RhVG9FbnJvMFoxQjF0WlJkWkdsR3NwUdIBjgFBVV95cUxPSm45Snh0LXA1VzU2Z0FiTEhINWtoa1Jwa0hFRlRIM1pmQ05YN09EX0d0MV9qNng5dHNFZFota3BmM3VGNmwzSGEzcmhTZ2tyN3hnN3pxbzhfMDFtWWlwUzNrYTFxTTROUXlyLUNaZGVPT256elVBSEV1UnJBT1RqbWptbUJ4M25aQ2VyWmhB?oc=5": {
+    "_title": "Anthropic AI Test Sent False Philadelphia Homicide Tip - FindArticles",
+    "aiSummary": "Anthropic AI Test Sent False Philadelphia Homicide Tip FindArticles",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUIzQm5ZMldyemRuX3U2eEhRRlh3aDFiQjJpQlkwTVFxV3N6OG9yNUlOUGcxMlZXeF9SaUtrd2hvbXFOOW5TTHpTLU55aVJPd2R5U2t3TVdaZGFPcHhkVTFvbzJGZVl6SkNvSmlvWGUwTTJkclEzNkV1N3UzQzNtbG1mR081akIwWEh1UlIzSUE?oc=5": {
+    "_title": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats? - Morningstar",
+    "aiSummary": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats? Morningstar",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT25pYzl4UFp0RWZVU194bmRKcXR6cmRteGh4VDFwZzlIYkkxQkdJbDRBYXVYNHJkYkNiUVBWSTdqUk9PQUgwd1BIcnA2MkUwSjRRVW5tRDllVWo5QVdvNFBUU21JMEhfNHJLaG5wMC1hQ0gtMXByRmQ2Yms4Zjg5aHVzSkdjc2ViSkRjMGJyN1dQenpua1prb3B4T25rczRWSFFQenRn?oc=5": {
+    "_title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police - FOX 10 Phoenix",
+    "aiSummary": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police FOX 10 ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3IteFIxdG9mMW9TV2daLUZaenltcU5LdHFSWEZ4Sm9jU1JMb0lwNzVnOXp0MkxZUDRHd2M1V1REZ2tMTnEwRTFVVm9Ib01XSEJXeDVGVXEzVWVCMFdWekhGdFNwSkl3SzlENnloODRyRi1XMXZiZ0Z5YTdPWWYwUGJn?oc=5": {
+    "_title": "Anthropic AI model sent fake homicide tip to Philadelphia police - Quartz",
+    "aiSummary": "Anthropic AI model sent fake homicide tip to Philadelphia police Quartz",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNW1PNnNxaUY1ZHEzS21SMk9HZDE5ajZnTEhSZUNyNUZtVnVzRk93ak1IUS1nQWRJYndEOV9FQUc1dENmSEFPSm40dDJFMGItdW4wQjhkSmpZd1Y3aWpHbkx6NTR2TlRMS0YzaF9SU0xWYms2VzhZajI0OUVhMl9QMi1ITnJ6ZlNWRldsc1lCeHk?oc=5": {
+    "_title": "Anthropic Is Banishing Its Model Evals From the Internet - Gizmodo",
+    "aiSummary": "Anthropic Is Banishing Its Model Evals From the Internet Gizmodo",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMimgFBVV95cUxONF9HNmlYRWFNSVpZLXpLTnFqQnh5dEtDUVpuN3pyV3VZZjVtZ1J3X2xIOF8zYnRXLWZ0X1pialdzajBBdDJ0RGRaaVlJcTNxd0xSdVpGcFJBellQd3ZtdnlHaVI2MlZmUGhNWjJfQXQxVHhYa2RCQm5xR2FyUDRWUmcwc3o2a0sxSFlBbDZJN1ZNWXoxT09BNjln0gGfAUFVX3lxTE9WNWdwLU1ZV1pqRDE0SFFOb2RkTG9FZHg5ckR5VGRIbHZaNW5iUnh0blZBVXJWcGlGekRlVVlMd2F5blo2VGZ1T0VZb05pR1cwVGhkUFc5Z1BsbzUxWGplb0ZRdEN0dFkzNXB3MkNEdjc2WHZUMnJGenZ3SG9LUWlXZXpORzlEeG9Zc2txNTBCb0o3dEJVQ04zZGVsQTN6bw?oc=5": {
+    "_title": "Anthropic AI model sends police false tip about unsolved homicide - upi",
+    "aiSummary": "Anthropic AI model sends police false tip about unsolved homicide upi",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWNOVUkzc2pvVzNIRjdKRUhMcFpVNGllQWJwdEdtZmxGU1ZUN2daaFlnVkFMbTRMdW1wbTVzSjdSZDAzTDAwcDBIYVhQTVlHVFpmWWJKVzktMjdwVldOUUZaVHBITVJxc2tfQzd2WVpFR3JxMVZyOFZZYnpnbkFoMURaeWdWd1dqbFllWXF0SFEwN3EzWDhUOS1zQTJ0QQ?oc=5": {
+    "_title": "White House demands transparency after Anthropic’s AI agents called in a false Philly homicide tip and applied for visas - The Spokesman-Review",
+    "aiSummary": "White House demands transparency after Anthropic’s AI agents called in a false P",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMib0FVX3lxTE40QlN0bVpwYWt3ZlctVHdBRnYyMF9xdTlnU3FjQjM3RnpuVnRCcUdvMlpLZ2d3d3RReEh5allWeEZvZFJjUFJDdnlYRGIzMXAyR1NXWVgxR19GYWdDUC1DWEY0TFRsRjVWZV9VRTk3aw?oc=5": {
+    "_title": "Alarm as AI Leaders Privately Weigh Scenarios of Post-Catastrophe Public 'Revolt' - Common Dreams",
+    "aiSummary": "Alarm as AI Leaders Privately Weigh Scenarios of Post-Catastrophe Public 'Revolt",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWDd5WGx1ZzZpQU5XblFlR1VXUkZIeXQ2NU9qb3VicEZZaDJLakJrVHo3cnFlU21zLVkzaHNHWFpwRVU2cWZiSFlvaFpRNER1OFFsYVlsUWdwM19PUWF5R090cTVYOUItcW5Fa1EtNUFmV0N3Y0pPQXRvMlIwZGNEa2lReUfSAYoBQVVfeXFMTy05SzV2eFh0VEdUMkRBQTdmbkRtSS0wLTdBbDlQUDJ6Y1VtOHpiTlJiM3UtaXM2ZWtrNEFlU0E5bFF5U1B0aUNrclU3cU10UklJVWlJc3RSalBvVDJZYU5HWUZFbkZBOXZMMnpUeVBkbkxTT1VtZ0twQUhGNkY3YUR5b1J5dzl5S0Fn?oc=5": {
+    "_title": "Philadelphia police receive false homicide tip from Anthropic AI model - The Hill",
+    "aiSummary": "Philadelphia police receive false homicide tip from Anthropic AI model The Hill",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlc1AxdjJTQ2ZCS1Z3YzZ1eFFGWWlCTXRUeXNGQVNIQnFDUzNfWVVCZnk4bWJfY0h1dEl5bnAzMEg3UTFyVnF2TXNfQ3NEMmFsc0FEcA?oc=5": {
+    "_title": "LangChain Download Latest Mobile App - Học viện Nông nghiệp Việt Nam",
+    "aiSummary": "LangChain Download Latest Mobile App Học viện Nông nghiệp Việt Nam",
+    "topics": [
+      "ai-agent",
+      "framework"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDFyVXMxOEViSmRtNDNGMXVEQ3o2eXF6cXlRVnVWV1ZZazJLd2xoU1lQbGVFTHZmbGViSnp6bFF0TWozTm9JVzBzMVJIWlZ1NVVyQ2RiR0oxTnp2QUhpZVIzTkRDYzZXZGFrblBsUjlONXlzOEQ2Yml3Q040Z1VWUkdRZTEwWkNh?oc=5": {
+    "_title": "Anthropic accuses Chinese AI firms of secretly using Claude to train models - Interesting Engineering",
+    "aiSummary": "Anthropic accuses Chinese AI firms of secretly using Claude to train models Inte",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLXhqV3p0UGc3M1lxVTI0RG1qMXJmd0Rnb3ZXbDdQQXpqYjEwcGplMkgtTXdBRjJRcVBYclRmMGlSYzV1RS0yM1VCN1JkYlhDekU1LXNsNVB3SFJKM1RWZEpCQnlQTTVadjNpSXZoQi1oVVhtVVY5REprcHRZRFNQdE5RWl9lTnVwMnAxZE9NanVBNmdIR1pzOFRXM1NjLTFHcVE?oc=5": {
+    "_title": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case - AP News",
+    "aiSummary": "Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide ca",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa2xCTW03U0tfNkxxUDMyUEtsLXhvTUhaZWdtVlRhcmJCc2dLU1FtSXptZlZhZ0pCODI3NkpPWkhOVkZCYWlhenhNVEtQd1NjdU5za21Pbm9VVl8zQjh3bzNrcHhHOWR0eXJyY1NUZEtPMUJ0ZG4xNmFfS3R0T2NJTGxITVpvdGMwdDdYS3dUUXg4YnVseFV5a1JETGFqT29SY05mbWxBTjU4NjIzS1MzN05wWk9nOFM0OWh2LXJ6aUlsM0V1RlE?oc=5": {
+    "_title": "Anthropic is cutting off its internal evaluations from the internet - The Verge",
+    "aiSummary": "Anthropic is cutting off its internal evaluations from the internet The Verge",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zNVIwaXpqSmtab3BLVHpaWTlaV2Y5dDRDV3B3UHFoRnVJRUhtX0ZObUhzaUxzMWtlZml0d2pVWEl1alhGczJaWjN5RTFFc0ZIdTZCS01oUTB4eWRvX2ZSYTVNTkR4R1F4Uk9MazZJdUViTFN0?oc=5": {
+    "_title": "Eggheads at Anthropic Said They Used Claude to \"Solve\" Humor - Futurism",
+    "aiSummary": "Eggheads at Anthropic Said They Used Claude to \"Solve\" Humor Futurism",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGJhcy11MF9BYkZodjhDbEhySlJvc3RNSWtvR2ZNR0hIMV9ndmpiaENTbk4wMnRVb3d5eVY0THZlckdRb09hanRseXZFejNGeWdqZXRNa1FlUzNrNEFCVS1tUy1QTkoycmlDQmFJaVhZOFZVclFDU2lVLXFyM1kwQmVVM2c?oc=5": {
+    "_title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws - The Hacker News",
+    "aiSummary": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits ",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkhILXo3RWYzbS1GOWtma3NKS2p1VnhtWFE3QmFLMzhwcExvVkpYSmpKUDJXQzc3QnJUcVB2QmxyMHRaQUhrOHFLU1BmdzRHcmFNTFlvNjM1c2R4UnFweXl5TmJhZHdrSFhDSlhLYXRBRGZSZUlBRS00TGFycFFrTHI3Qk5OU2Vuc01fZURJaFUxUmZ2bXRxa0hzT2xTSThSWDJIeGtSSDFOZEF3SXBidmFR?oc=5": {
+    "_title": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders - Bloomberg.com",
+    "aiSummary": "'Black Box' Revenue From Anthropic and OpenAI Stumps Traders Bloomberg.com",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVNfRnhOQ0tOVDZEYVVMTkk5LWY3dDNqUEpoQ0ZrM241bzNNck1ycUZOYTVrczN4U0lOODVzY1VMNHRYV0x0MFpsX3hpQ3puU1UwUGpMd19YYmIxRjJkSXdXd3l5UjlfeEd5YXBLdEN5c0U2TUVvMDNvXzQ4QW9ucTZNTk9RcDNfV2xhd0QyZG8xY2VKMGdWQUQ3M1plUDVTZUYyeWVaYkhGOVZYV0E?oc=5": {
+    "_title": "Anthropic Is Banning 'Cruel Behavior' Toward Claude. Chatbots Are Still Not Your Friends. - Reason Magazine",
+    "aiSummary": "Anthropic Is Banning 'Cruel Behavior' Toward Claude. Chatbots Are Still Not Your",
+    "topics": [
+      "ai-agent",
+      "safety"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.7
+  },
+  "https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop/": {
+    "_title": "Hello World, AI Doompop",
+    "aiSummary": "Article URL: https://radimentary.wordpress.com/2026/10/10/hello-world-ai-doompop",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
+  },
+  "https://github.com/ktwu01/agent-pr-gate": {
+    "_title": "Show HN: Four Questions to stop AI-gen PRs from DDoSing your GitHub repository",
+    "aiSummary": "Article URL: https://github.com/ktwu01/agent-pr-gate Comments URL: https://news.",
+    "topics": [
+      "ai-agent",
+      "fde"
+    ],
+    "sentiment": "neutral",
+    "heat": 0.55
   }
 }
